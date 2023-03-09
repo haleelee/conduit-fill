@@ -1,0 +1,148 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+#outside-window{
+  display: flex;
+  width: 100%;
+  padding: 0 10%;
+  flex-direction: row;
+  font-family: "Roboto", "Lato", "sans-serif", "Arial";
+}
+
+.section-one{
+  background-color: rgba(223, 223, 223, 0.5);
+  padding: 35px 35px 35px 35px; 
+  /* border: 1pt solid blue; */
+  width: 68%;
+}
+
+.section-two{
+  background-color: white;
+  /* border: 1pt solid blue; */
+  width: 32%;
+}
+
+#section-one-window{
+  border: 1pt solid rgba(223, 223, 223, 0.5);
+  padding: 0 5% 5% 5%;
+  background-color: rgb(254, 255, 254);
+}
+
+#section-two-outer-window{
+  border: 1pt solid rgba(223, 223, 223, 0.5);
+  margin-top: 200px;
+  background-color: rgba(223, 223, 223, 0.5);
+}
+
+#section-two-inner-window{
+  border: 1pt solid white;
+  display: flex;
+  justify-content: center;
+  margin: 25px;
+  background-color: white;
+  vertical-align: middle;
+}
+
+.formSection{
+  /* border: 1pt solid red; */
+  padding: 0 2%;
+  /* width: 95%; */
+  background-color: rgba(245, 245, 238, 0.8);
+}
+
+.formResultDiv{
+  display: flex;
+  /* justify-content: space-evenly; */
+  align-content: flex-start;
+}
+
+.labels{
+  display: flex;
+  width: 50%;
+}
+
+.results{
+  display: flex;
+  width: 50%;
+  justify-content: center;
+}
+
+#formConduit, #formConductors{
+  display: flex;
+  flex-direction: column;
+  /* width: 95%; */
+}
+
+.selections{
+  margin: 5px 0;
+}
+
+.resultGreen{
+  color: rgb(2, 123, 2);
+  display: flex;
+  justify-content: center;
+}
+
+.resultRed{
+  color: rgb(170, 0, 0);
+}
+
+
+#resultConduitFill{
+  padding: 15px 0 10px 0;
+}
+
+#fillValue{
+  padding: 10px, 0;
+} 
+
+#percent{
+  padding: 10px 0 15px 0;
+}
+
+.result-text{
+  text-align: center;
+  padding: 0 3px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+@media screen and (max-width: 800px) {
+  #outside-window {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+  }
+
+  .section-one{
+    width: 100%;
+  }
+
+  .section-two{
+    width: 100%;
+  }
+
+  #section-two-inner-window{
+    /* border: 1pt solid green; */
+    display: flex;
+    justify-content: center;
+    margin: 35px;
+    background-color: white;
+  }
+
+  #section-two-outer-window{
+    margin: 0;
+  }
+}
