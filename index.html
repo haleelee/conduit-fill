@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="This is where your description goes">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Conduit Fill</title>
+
+		<!-- external CSS link -->
+		<!-- <link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css"> -->
+	</head>
+	<body>
+		<h1>Conduit Fill Calculator</h1>
+		<span>This app will help calculate conduit fill percentages and jam probability for multiple conducters per National Electric Code (NEC)</span>
+		<h4>Enter your Wire Type</h4>
+        <form action="/quotes" method="POST">
+			<input type="text" placeholder="No. of Cables" name="numCables">
+			<select name="wireSize" id="wireSize">
+				<option disabled="true" selected="true">Wire Size</option>
+				<option value="14str">14 Str</option>
+				<option value="12str">12 Str</option>
+				<option value="10str">10 Str</option>
+				<option value="8str">8</option>
+				<option value="6str">6</option>
+				<option value="4str">4</option>
+				<option value="2str">2</option>
+				<option value="1str">1</option>
+				<option value="1/0">1/0</option>
+				<option value="2/0">2/0</option>
+				<option value="3/0">3/0</option>
+				<option value="4/0">4/0</option>
+				<option value="250">250</option>
+				<option value="350">350</option>
+				<option value="500">500</option>
+				<option value="600">600</option>
+				<option value="750">750</option>
+				<option value="1000">1000</option>
+				<option value="1250">1250</option>
+				<option value="1500">1500</option>
+			</select>
+			<select name="cuOrAl" id="cuOrAl">
+				<option disabled="true" selected="true">Cu or Al</option>
+				<option value="cu">Copper</option>
+				<option value="al">Aluminum</option>
+			</select>
+			<select name="cableCondCount" id="cableCondCount">
+				<option value="1perCnd">1 / C</option>
+				<option value="3perCnd">3 / C WG</option>
+				<option value="3perCnd">4 / C WG</option>
+
+			</select>
+			<!-- <select name="wireType" id="wireType">
+				<option value="cuthhn">CU THHN</option>
+				<option value="cuxhhw">CU XHHW</option>
+				<option value="cuuse">CU USE</option>
+				<option value="althhn">AL THHN</option>
+				<option value="alxhhw">AL XHHW</option>
+				<option value="aluse">AL USE</option>
+				<option value="aluse">AL USE</option>
+			</select> -->
+			<select name="voltInsShield" id="voltInsShield">
+				<option value="cuthhn">CU THHN</option>
+				<option value="cuxhhw">CU XHHW</option>
+				<option value="cuuse">CU USE</option>
+				<option value="althhn">AL THHN</option>
+				<option value="alxhhw">AL XHHW</option>
+				<option value="aluse">AL USE</option>
+				<option value="aluse">AL USE</option>
+				<!-- These are for Utility Cables -->
+				<option value="600vrhhrhwuse">600V RHH RHW USE (XLP)</option>
+				<option value="600vsimpullxhhw">600V SIMpull XHHW (XLP)</option>
+				<option value="600vsimpullxhhw">600V SIMpull XHHW (XLP)</option>
+				<option value="600vthhnthwn">600V THHN THWN</option>
+				<option value="1kvnonshielded">1 kV Non Shielded</option>
+				<option value="2.4kvnonshielded">2.4kV Non Shielded</option>
+				<option value="5kv115mil">5kV 115 Mil EPR 133% CU Tape</option>
+				<option value="15kv175mil">15kV 175 Mil EPR 100% CU Tape</option>
+				<option value="15kv220mil">15kV 220 Mil EPR 133% CU Tape</option>
+				<option value="25kv320mil">25kV 320 Mil EPR 133% CU Tape</option>
+				<option value="28kv280mil">28kV 280 Mil EPR 100% CU Tape</option>
+				<option value="35kv345mil">35kV 345 Mil EPR 100% CU Tape</option>
+				<option value="35kv420mil">35kV 420 Mil EPR 133% CU Tape</option>
+				<option value="2kvxlp">2kV XLP RHH / RHW-2</option>
+			</select>		
+            <button type="submit">Submit</button>
+			<br><br>
+		</form>
+
+		<div>
+			<h3 class="diameterin">Result</h3>
+		</div>
+
+		<form action="/quotes" method="POST">
+			<input type="text" placeholder="name" name="name">
+			<input type="text" placeholder="quote" name="quote">
+			<button type="submit">Submit</button>
+		</form>
+
+
+		<!-- <script type="text/javascript" src="js/main.js"></script> -->
+	</body>
+</html>

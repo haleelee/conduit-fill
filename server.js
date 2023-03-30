@@ -59,6 +59,18 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
     // .catch(error => console.error(error))
     // })
 
+    // GET METHOD FOR TABLES
+
+    app.get('/tables', (req, res) => {
+      dataCollection.findOne(
+        { name: req.body.conduitSelection }
+        )
+    .then(result => {
+      res.render('tables.ejs', {result});
+      console.log("HEllo CLarice!")
+    })
+    .catch(error => console.error(error))
+    })
   }) 
 
   

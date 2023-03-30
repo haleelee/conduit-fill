@@ -25,9 +25,10 @@
 			<div class="section-one">
 				<div id="section-one-window">
 					<div class="section-one-title">
-						<h1>Conduit Fill Calculator</h1>
-						<span>This app will help calculate conduit fill percentages and jam probability for multiple conductors per National Electric Code (NEC)</span>
+						<h1>Conduit & Conductor Tables</h1>
+						<span>Choose which dimensional data you would like to view.</span>
 					</div>
+					<!-- <form action="/dims" method="POST"> -->
 					<form id="form" method="POST">
 	
 						<!-- CONDUIT -->
@@ -48,35 +49,18 @@
 								<option value="pvctypea">PVC Type A</option>
 								<option value="pvctypeb">PVC Type EB</option>
 							</select>
-							<select class="selections" name="conduitSize" id="conduitSize">
-								<option disabled="true" selected="true">Conduit Size</option>
-								<!-- <option value="0.5">1/2"</option>
-								<option value="0.75">3/4"</option>
-								<option value="1">1"</option>
-								<option value="1.25">1-1/4"</option>
-								<option value="1.5">1-1/2"</option>
-								<option value="2">2"</option>
-								<option value="2.5">2-1/2"</option>
-								<option value="3">3"</option>
-								<option value="3.5">3-1/2"</option>
-								<option value="4">4"</option>
-								<option value="5">5"</option>
-								<option value="6">6"</option>
-								<option value="8">8"</option> -->
-							</select>
-							<div class="formResultDiv">
-								<p class="labels" id="conduitNominalAreaInLabel">Nominal Conduit Inner Area: </p>
-								<p class="results" id="conduitNominalAreaIn">-</p>
-							</div>
-	
-							<div class="formResultDiv">
-								<p class="labels" id="conduitEffectiveAreaInLabel">Effective Conduit Inner Area: </p>
-								<p class="results" id="conduitEffectiveAreaIn">-</p>
-							</div>
+							<table id="conduit-table">
+								<tr>
+									<th>Type</th>
+									<th>Diameter (in)</th>
+									<th>Diameter (mm)</th>
+									<th>Area (sq in)</th>
+									<th>Area (sq mm)</th>
+								</tr>
+								</tr>
+							</table>
 						</div>
-	
-							<!-- <br>
-							<br> -->
+
 								<!-- CONDUCTORS -->
 						<div id="divToCopy">
 							<div class="formSection" id="formConductors">
@@ -115,81 +99,16 @@
 									<option value="35kv420mil">35kV 420 Mil EPR 133% CU Tape</option>
 									<option value="2kvxlp">2kV XLP RHH / RHW-2</option> -->
 								</select>		
-								<select class="selections" name="wireSize" id="wireSize">
-									<option disabled="true" selected="true">Wire Size</option>
-									<!-- <option value="#14">14 Str</option>
-									<option value="#12">12 Str</option>
-									<option value="#10">10 Str</option>
-									<option value="#8">8</option>
-									<option value="#6">6</option>
-									<option value="#4">4</option>
-									<option value="#2">2</option>
-									<option value="#1">1</option>
-									<option value="1/0">1/0</option>
-									<option value="2/0">2/0</option>
-									<option value="3/0">3/0</option>
-									<option value="4/0">4/0</option>
-									<option value="250">250</option>
-									<option value="350">350</option>
-									<option value="500">500</option>
-									<option value="600">600</option>
-									<option value="750">750</option>
-									<option value="1000">1000</option>
-									<option value="1250">1250</option>
-									<option value="1500">1500</option> -->
-								</select>
-								<input class="selections" type="text" placeholder="No. of Cables" id="numCables" name="numCables">
-		
-								<div >
-									<div class="formResultDiv">
-										<p class="labels" id="conductorSingleAreaLabel">Single Conductor Area: </p>
-										<p class="results" id="conductorSingleArea">-</p>
-									</div>
-									<div class="formResultDiv">
-										<p class="labels" id="conductorTotalAreaLabel">Total Conductor Area: </p>
-										<p class="results" id="conductorTotalArea">-</p>
-									</div>
-								</div>
 							</div>
 						</div>
 
-	
-						<div>
-							<button type="button" onclick="duplicateFormDiv()">+</button>
-						</div>
-							<!-- <select name="cuOrAl" id="cuOrAl">
-								<option disabled="true" selected="true">Cu or Al</option>
-								<option value="cu">Copper</option>
-								<option value="al">Aluminum</option>
-							</select> -->
-							<!-- <select name="cableCondCount" id="cableCondCount">
-								<option value="1perCnd">1 / C</option>
-								<option value="3perCnd">3 / C WG</option>
-								<option value="3perCnd">4 / C WG</option>
-							</select> -->
-	
-							<!-- <button type="button" id="myButton" name="button" onclick="calculateArea()">Submit</button>
-							<br><br> -->
-							<!-- <input type="submit" id="myButton" onclick="calculateArea()" value="Submit"> -->
 							<br><br>
 							<input type="submit" id="myButton" value="Calculate">	
 					</form>
 				</div>
 			</div>
-
-			<div class="section-two">
-				<div id="section-two-outer-window">
-					<div id="section-two-inner-window">			
-						<div>
-							<h3 id="resultConduitFill" class="result-text">Result</h3>
-							<h3 id="fillValue" class="result-text">--</h3>
-							<h3 id="percent" class="result-text">--</h3>
-						</div>
-					</div>
-				</div>
-			</div>
 		</div>
 		
-		<script src="/main.js"></script>
+		<script src="/tables.js"></script>
 	</body>
 </html>

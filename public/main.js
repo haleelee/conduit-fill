@@ -5,16 +5,19 @@
 //     }
 // });
 var form = document.getElementById('form');
+let conductorFormCounter = 1;
 
 
 
 form.addEventListener('submit', function(event){
   event.preventDefault(); // prevents the form from autosubmitting
 
-  getConductorData();
+  getConduitConductorData();
 })
 
-function getConductorData(){
+
+
+function getConduitConductorData(){
   const numCables = document.querySelector('#numCables').value;
   const wireSize = document.querySelector('#wireSize').value;
   // const cuOrAl = document.querySelector('#cuOrAl').value;
@@ -84,31 +87,6 @@ function getConductorData(){
   })
   .catch(error => console.error(error));
 }
-
-// function getConduitData(){
-//   const conduitType = document.querySelector('#conduitType').value;
-//   const conduitSize = document.querySelector('#conduitSize').value;
-//   const conduitSelection = conduitType + conduitSize;
-//   console.log(conduitSelection);
-
-//  fetch('/conduit', {
-//     method: 'POST',
-//     headers: { 'Content-Type': 'application/json' },
-//     body: JSON.stringify({
-//       conduitSelection: conduitSelection
-//     }),
-//   })
-//   .then(res => {
-//     if (res.ok) return res.json();
-//   })
-//   .then(data => {
-//     console.log(data);
-//     console.log(`conduit selection is ${conduitSelection}, areain is ${data.dims.areain}`);
-//     return data.dims.areain;
-//   })
-//   .catch(error => console.error(error));
-
-// }
 
 
 // Conduit Selections
@@ -607,10 +585,29 @@ voltInsShield.addEventListener("change", function(){
 })
 
 function duplicateFormDiv() {
-  const formDiv = document.querySelector('#formConductors'); // select the form div to duplicate
+  conductorFormCounter++;
+  const formDiv = document.querySelector('#divToCopy'); // select the form div to duplicate
   const clone = formDiv.cloneNode(true); // create a deep copy of the form div
 
   // append the clone to the parent element of the form div
-  formDiv.parentNode.appendChild(clone);
+  formDiv.append(clone);
   console.log("Duplicate Form executed")
 }
+
+function getConduitData(){
+    const conduitType = document.querySelector('#conduitType').value;
+    fetch('/data', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        // conductorSelection: conductorSelection,
+        conduitSelection: conduitSelection
+      }),
+    })
+    .then(res => {
+      if (res.ok) return res.json();
+    })
+    .then(data => {
+      console.log(data);
+    })
+  }
