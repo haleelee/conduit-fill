@@ -1,0 +1,62 @@
+[
+    {
+      "name": "pvctypeb2",
+      "dims": 
+        {
+          "diamm": "56.4",
+          "diain": "2.221",
+          "areamm": "2498",
+          "areain": "3.874"
+        }
+    },
+    {
+      "name": "pvctypeb3",
+      "dims": 
+        {
+          "diamm": "84.6",
+          "diain": "3.33",
+          "areamm": "5621",
+          "areain": "8.709"
+        }
+    },
+    {
+      "name": "pvctypeb3.5",
+      "dims": 
+        {
+          "diamm": "96.6",
+          "diain": "3.804",
+          "areamm": "7329",
+          "areain": "11.365"
+        }
+    },
+    {
+      "name": "pvctypeb4",
+      "dims": 
+        {
+          "diamm": "108.9",
+          "diain": "4.289",
+          "areamm": "9314",
+          "areain": "14.448"
+        }
+    },
+    {
+      "name": "pvctypeb5",
+      "dims": 
+        {
+          "diamm": "135",
+          "diain": "5.316",
+          "areamm": "14314",
+          "areain": "22.195"
+        }
+    },
+    {
+      "name": "pvctypeb6",
+      "dims": 
+        {
+          "diamm": "160.9",
+          "diain": "6.336",
+          "areamm": "20333",
+          "areain": "31.53"
+        }
+    }
+  ]

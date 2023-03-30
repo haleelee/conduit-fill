@@ -1,0 +1,112 @@
+[
+    {
+      "name": "fmc0.375",
+      "dims": 
+        {
+          "diamm": "9.7",
+          "diain": "0.384",
+          "areamm": "74",
+          "areain": "0.116"
+        }
+    },
+    {
+      "name": "fmc0.5",
+      "dims": 
+        {
+          "diamm": "16.1",
+          "diain": "0.635",
+          "areamm": "204",
+          "areain": "0.317"
+        }
+    },
+    {
+      "name": "fmc0.75",
+      "dims": 
+        {
+          "diamm": "20.9",
+          "diain": "0.824",
+          "areamm": "343",
+          "areain": "0.533"
+        }
+    },
+    {
+      "name": "fmc1",
+      "dims": 
+        {
+          "diamm": "25.9",
+          "diain": "1.02",
+          "areamm": "527",
+          "areain": "0.817"
+        }
+    },
+    {
+      "name": "fmc1.25",
+      "dims": 
+        {
+          "diamm": "32.4",
+          "diain": "1.275",
+          "areamm": "824",
+          "areain": "1.277"
+        }
+    },
+    {
+      "name": "fmc1.5",
+      "dims": 
+        {
+          "diamm": "39.1",
+          "diain": "1.538",
+          "areamm": "1201",
+          "areain": "1.858"
+        }
+    },
+    {
+      "name": "fmc2",
+      "dims": 
+        {
+          "diamm": "51.8",
+          "diain": "2.04",
+          "areamm": "2107",
+          "areain": "3.269"
+        }
+    },
+    {
+      "name": "fmc2.5",
+      "dims": 
+        {
+          "diamm": "63.5",
+          "diain": "2.5",
+          "areamm": "3167",
+          "areain": "4.909"
+        }
+    },
+    {
+      "name": "fmc3",
+      "dims": 
+        {
+          "diamm": "76.2",
+          "diain": "3",
+          "areamm": "4560",
+          "areain": "7.069"
+        }
+    },
+    {
+      "name": "fmc3.5",
+      "dims": 
+        {
+          "diamm": "88.9",
+          "diain": "3.5",
+          "areamm": "6207",
+          "areain": "9.621"
+        }
+    },
+    {
+      "name": "fmc4",
+      "dims": 
+        {
+          "diamm": "101.6",
+          "diain": "4",
+          "areamm": "8107",
+          "areain": "12.566"
+        }
+    }
+  ]

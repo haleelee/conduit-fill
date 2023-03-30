@@ -1,0 +1,266 @@
+[
+  {
+    "name": "cuthwn2#14",
+    "dims": 
+      {
+        "diamm": "2.819",
+        "diain": "0.111",
+        "areamm": "6.258",
+        "areain": "0.0097"
+      }
+    
+  },
+  {
+    "name": "cuthwn2#12",
+    "dims": 
+      {
+        "diamm": "3.302",
+        "diain": "0.13",
+        "areamm": "8.581",
+        "areain": "0.0133"
+      }
+    
+  },
+  {
+    "name": "cuthwn2#10",
+    "dims": 
+      {
+        "diamm": "4.166",
+        "diain": "0.164",
+        "areamm": "13.61",
+        "areain": "0.0211"
+      }
+    
+  },
+  {
+    "name": "cuthwn2#8",
+    "dims": 
+      {
+        "diamm": "5.486",
+        "diain": "0.216",
+        "areamm": "23.61",
+        "areain": "0.0366"
+      }
+    
+  },
+  {
+    "name": "cuthwn2#6",
+    "dims": 
+      {
+        "diamm": "6.452",
+        "diain": "0.254",
+        "areamm": "32.71",
+        "areain": "0.0507"
+      }
+    
+  },
+  {
+    "name": "cuthwn2#4",
+    "dims": 
+      {
+        "diamm": "8.23",
+        "diain": "0.324",
+        "areamm": "53.16",
+        "areain": "0.0824"
+      }
+    
+  },
+  {
+    "name": "cuthwn2#3",
+    "dims": 
+      {
+        "diamm": "8.941",
+        "diain": "0.352",
+        "areamm": "62.77",
+        "areain": "0.0973"
+      }
+    
+  },
+  {
+    "name": "cuthwn2#2",
+    "dims": 
+      {
+        "diamm": "9.754",
+        "diain": "0.384",
+        "areamm": "74.71",
+        "areain": "0.1158"
+      }
+    
+  },
+  {
+    "name": "cuthwn2#1",
+    "dims": 
+      {
+        "diamm": "11.33",
+        "diain": "0.446",
+        "areamm": "100.8",
+        "areain": "0.1562"
+      }
+    
+  },
+  {
+    "name": "cuthwn21/0",
+    "dims": 
+      {
+        "diamm": "12.34",
+        "diain": "0.486",
+        "areamm": "119.7",
+        "areain": "0.1855"
+      }
+    
+  },
+  {
+    "name": "cuthwn22/0",
+    "dims": 
+      {
+        "diamm": "13.51",
+        "diain": "0.532",
+        "areamm": "143.4",
+        "areain": "0.2223"
+      }
+    
+  },
+  {
+    "name": "cuthwn23/0",
+    "dims": 
+      {
+        "diamm": "14.83",
+        "diain": "0.584",
+        "areamm": "172.8",
+        "areain": "0.2679"
+      }
+    
+  },
+  {
+    "name": "cuthwn24/0",
+    "dims": 
+      {
+        "diamm": "16.31",
+        "diain": "0.642",
+        "areamm": "208.8",
+        "areain": "0.3237"
+      }
+    
+  },
+  {
+    "name": "cuthwn2250",
+    "dims": 
+      {
+        "diamm": "18.06",
+        "diain": "0.711",
+        "areamm": "256.1",
+        "areain": "0.397"
+      }
+    
+  },
+  {
+    "name": "cuthwn2300",
+    "dims": 
+      {
+        "diamm": "19.46",
+        "diain": "0.766",
+        "areamm": "297.3",
+        "areain": "0.4608"
+      }
+    
+  },
+  {
+    "name": "cuthwn2350",
+    "dims": 
+      {
+        "diamm": "20.75",
+        "diain": "0.817",
+        "areamm": "338.2",
+        "areain": "0.5242"
+      }
+    
+  },
+  {
+    "name": "cuthwn2400",
+    "dims": 
+      {
+        "diamm": "21.95",
+        "diain": "0.864",
+        "areamm": "378.3",
+        "areain": "0.5863"
+      }
+    
+  },
+  {
+    "name": "cuthwn2500",
+    "dims": 
+      {
+        "diamm": "24.1",
+        "diain": "0.949",
+        "areamm": "456.3",
+        "areain": "0.7073"
+      }
+    
+  },
+  {
+    "name": "cuthwn2600",
+    "dims": 
+      {
+        "diamm": "26.7",
+        "diain": "1.051",
+        "areamm": "559.7",
+        "areain": "0.8676"
+      }
+    
+  },
+  {
+    "name": "cuthwn2700",
+    "dims": 
+      {
+        "diamm": "28.5",
+        "diain": "1.122",
+        "areamm": "637.9",
+        "areain": "0.9887"
+      }
+    
+  },
+  {
+    "name": "cuthwn2750",
+    "dims": 
+      {
+        "diamm": "29.36",
+        "diain": "1.156",
+        "areamm": "677.2",
+        "areain": "1.0496"
+      }
+    
+  },
+  {
+    "name": "cuthwn2800",
+    "dims": 
+      {
+        "diamm": "30.18",
+        "diain": "1.188",
+        "areamm": "715.2",
+        "areain": "1.1085"
+      }
+    
+  },
+  {
+    "name": "cuthwn2900",
+    "dims": 
+      {
+        "diamm": "31.8",
+        "diain": "1.252",
+        "areamm": "794.3",
+        "areain": "1.2311"
+      }
+    
+  },
+  {
+    "name": "cuthwn21000",
+    "dims": 
+      {
+        "diamm": "33.27",
+        "diain": "1.31",
+        "areamm": "869.5",
+        "areain": "1.3478"
+      }
+    
+  }
+]

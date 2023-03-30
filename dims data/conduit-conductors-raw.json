@@ -1,0 +1,3097 @@
+[{
+  "name": "cuthhn#14",
+  "dims": {
+    "diamm": "2.819",
+    "diain": "0.111",
+    "areamm": "6.258",
+    "areain": "0.0097"
+  }
+},{
+  "name": "cuthhn#12",
+  "dims": {
+    "diamm": "3.302",
+    "diain": "0.13",
+    "areamm": "8.581",
+    "areain": "0.0133"
+  }
+},{
+  "name": "cuthhn#10",
+  "dims": {
+    "diamm": "4.166",
+    "diain": "0.164",
+    "areamm": "13.61",
+    "areain": "0.0211"
+  }
+},{
+  "name": "cuthhn#8",
+  "dims": {
+    "diamm": "5.486",
+    "diain": "0.216",
+    "areamm": "23.61",
+    "areain": "0.0366"
+  }
+},{
+  "name": "cuthhn#6",
+  "dims": {
+    "diamm": "6.452",
+    "diain": "0.254",
+    "areamm": "32.71",
+    "areain": "0.0507"
+  }
+},{
+  "name": "cuthhn#4",
+  "dims": {
+    "diamm": "8.23",
+    "diain": "0.324",
+    "areamm": "53.16",
+    "areain": "0.0824"
+  }
+},{
+  "name": "cuthhn#3",
+  "dims": {
+    "diamm": "8.941",
+    "diain": "0.352",
+    "areamm": "62.77",
+    "areain": "0.0973"
+  }
+},{
+  "name": "cuthhn#2",
+  "dims": {
+    "diamm": "9.754",
+    "diain": "0.384",
+    "areamm": "74.71",
+    "areain": "0.1158"
+  }
+},{
+  "name": "cuthhn#1",
+  "dims": {
+    "diamm": "11.33",
+    "diain": "0.446",
+    "areamm": "100.8",
+    "areain": "0.1562"
+  }
+},{
+  "name": "cuthhn1/0",
+  "dims": {
+    "diamm": "12.34",
+    "diain": "0.486",
+    "areamm": "119.7",
+    "areain": "0.1855"
+  }
+},{
+  "name": "cuthhn2/0",
+  "dims": {
+    "diamm": "13.51",
+    "diain": "0.532",
+    "areamm": "143.4",
+    "areain": "0.2223"
+  }
+},{
+  "name": "cuthhn3/0",
+  "dims": {
+    "diamm": "14.83",
+    "diain": "0.584",
+    "areamm": "172.8",
+    "areain": "0.2679"
+  }
+},{
+  "name": "cuthhn4/0",
+  "dims": {
+    "diamm": "16.31",
+    "diain": "0.642",
+    "areamm": "208.8",
+    "areain": "0.3237"
+  }
+},{
+  "name": "cuthhn250",
+  "dims": {
+    "diamm": "18.06",
+    "diain": "0.711",
+    "areamm": "256.1",
+    "areain": "0.397"
+  }
+},{
+  "name": "cuthhn300",
+  "dims": {
+    "diamm": "19.46",
+    "diain": "0.766",
+    "areamm": "297.3",
+    "areain": "0.4608"
+  }
+},{
+  "name": "cuthhn350",
+  "dims": {
+    "diamm": "20.75",
+    "diain": "0.817",
+    "areamm": "338.2",
+    "areain": "0.5242"
+  }
+},{
+  "name": "cuthhn400",
+  "dims": {
+    "diamm": "21.95",
+    "diain": "0.864",
+    "areamm": "378.3",
+    "areain": "0.5863"
+  }
+},{
+  "name": "cuthhn500",
+  "dims": {
+    "diamm": "24.1",
+    "diain": "0.949",
+    "areamm": "456.3",
+    "areain": "0.7073"
+  }
+},{
+  "name": "cuthhn600",
+  "dims": {
+    "diamm": "26.7",
+    "diain": "1.051",
+    "areamm": "559.7",
+    "areain": "0.8676"
+  }
+},{
+  "name": "cuthhn700",
+  "dims": {
+    "diamm": "28.5",
+    "diain": "1.122",
+    "areamm": "637.9",
+    "areain": "0.9887"
+  }
+},{
+  "name": "cuthhn750",
+  "dims": {
+    "diamm": "29.36",
+    "diain": "1.156",
+    "areamm": "677.2",
+    "areain": "1.0496"
+  }
+},{
+  "name": "cuthhn800",
+  "dims": {
+    "diamm": "30.18",
+    "diain": "1.188",
+    "areamm": "715.2",
+    "areain": "1.1085"
+  }
+},{
+  "name": "cuthhn900",
+  "dims": {
+    "diamm": "31.8",
+    "diain": "1.252",
+    "areamm": "794.3",
+    "areain": "1.2311"
+  }
+},{
+  "name": "cuthhn1000",
+  "dims": {
+    "diamm": "33.27",
+    "diain": "1.31",
+    "areamm": "869.5",
+    "areain": "1.3478"
+  }
+},{
+  "name": "cuthwn2#14",
+  "dims": {
+    "diamm": "2.819",
+    "diain": "0.111",
+    "areamm": "6.258",
+    "areain": "0.0097"
+  }
+},{
+  "name": "cuthwn2#12",
+  "dims": {
+    "diamm": "3.302",
+    "diain": "0.13",
+    "areamm": "8.581",
+    "areain": "0.0133"
+  }
+},{
+  "name": "cuthwn2#10",
+  "dims": {
+    "diamm": "4.166",
+    "diain": "0.164",
+    "areamm": "13.61",
+    "areain": "0.0211"
+  }
+},{
+  "name": "cuthwn2#8",
+  "dims": {
+    "diamm": "5.486",
+    "diain": "0.216",
+    "areamm": "23.61",
+    "areain": "0.0366"
+  }
+},{
+  "name": "cuthwn2#6",
+  "dims": {
+    "diamm": "6.452",
+    "diain": "0.254",
+    "areamm": "32.71",
+    "areain": "0.0507"
+  }
+},{
+  "name": "cuthwn2#4",
+  "dims": {
+    "diamm": "8.23",
+    "diain": "0.324",
+    "areamm": "53.16",
+    "areain": "0.0824"
+  }
+},{
+  "name": "cuthwn2#3",
+  "dims": {
+    "diamm": "8.941",
+    "diain": "0.352",
+    "areamm": "62.77",
+    "areain": "0.0973"
+  }
+},{
+  "name": "cuthwn2#2",
+  "dims": {
+    "diamm": "9.754",
+    "diain": "0.384",
+    "areamm": "74.71",
+    "areain": "0.1158"
+  }
+},{
+  "name": "cuthwn2#1",
+  "dims": {
+    "diamm": "11.33",
+    "diain": "0.446",
+    "areamm": "100.8",
+    "areain": "0.1562"
+  }
+},{
+  "name": "cuthwn21/0",
+  "dims": {
+    "diamm": "12.34",
+    "diain": "0.486",
+    "areamm": "119.7",
+    "areain": "0.1855"
+  }
+},{
+  "name": "cuthwn22/0",
+  "dims": {
+    "diamm": "13.51",
+    "diain": "0.532",
+    "areamm": "143.4",
+    "areain": "0.2223"
+  }
+},{
+  "name": "cuthwn23/0",
+  "dims": {
+    "diamm": "14.83",
+    "diain": "0.584",
+    "areamm": "172.8",
+    "areain": "0.2679"
+  }
+},{
+  "name": "cuthwn24/0",
+  "dims": {
+    "diamm": "16.31",
+    "diain": "0.642",
+    "areamm": "208.8",
+    "areain": "0.3237"
+  }
+},{
+  "name": "cuthwn2250",
+  "dims": {
+    "diamm": "18.06",
+    "diain": "0.711",
+    "areamm": "256.1",
+    "areain": "0.397"
+  }
+},{
+  "name": "cuthwn2300",
+  "dims": {
+    "diamm": "19.46",
+    "diain": "0.766",
+    "areamm": "297.3",
+    "areain": "0.4608"
+  }
+},{
+  "name": "cuthwn2350",
+  "dims": {
+    "diamm": "20.75",
+    "diain": "0.817",
+    "areamm": "338.2",
+    "areain": "0.5242"
+  }
+},{
+  "name": "cuthwn2400",
+  "dims": {
+    "diamm": "21.95",
+    "diain": "0.864",
+    "areamm": "378.3",
+    "areain": "0.5863"
+  }
+},{
+  "name": "cuthwn2500",
+  "dims": {
+    "diamm": "24.1",
+    "diain": "0.949",
+    "areamm": "456.3",
+    "areain": "0.7073"
+  }
+},{
+  "name": "cuthwn2600",
+  "dims": {
+    "diamm": "26.7",
+    "diain": "1.051",
+    "areamm": "559.7",
+    "areain": "0.8676"
+  }
+},{
+  "name": "cuthwn2700",
+  "dims": {
+    "diamm": "28.5",
+    "diain": "1.122",
+    "areamm": "637.9",
+    "areain": "0.9887"
+  }
+},{
+  "name": "cuthwn2750",
+  "dims": {
+    "diamm": "29.36",
+    "diain": "1.156",
+    "areamm": "677.2",
+    "areain": "1.0496"
+  }
+},{
+  "name": "cuthwn2800",
+  "dims": {
+    "diamm": "30.18",
+    "diain": "1.188",
+    "areamm": "715.2",
+    "areain": "1.1085"
+  }
+},{
+  "name": "cuthwn2900",
+  "dims": {
+    "diamm": "31.8",
+    "diain": "1.252",
+    "areamm": "794.3",
+    "areain": "1.2311"
+  }
+},{
+  "name": "cuthwn21000",
+  "dims": {
+    "diamm": "33.27",
+    "diain": "1.31",
+    "areamm": "869.5",
+    "areain": "1.3478"
+  }
+},{
+  "name": "curhhuse#14",
+  "dims": {
+    "diamm": "4.064",
+    "diain": "0.16",
+    "areamm": "12.9717114648959",
+    "areain": "0.0201061929829747"
+  }
+},{
+  "name": "curhhuse#12",
+  "dims": {
+    "diamm": "4.4958",
+    "diain": "0.177",
+    "areamm": "15.8746386126455",
+    "areain": "0.0246057390610787"
+  }
+},{
+  "name": "curhhuse#10",
+  "dims": {
+    "diamm": "5.1054",
+    "diain": "0.201",
+    "areamm": "20.471488863018",
+    "areain": "0.0317308711994203"
+  }
+},{
+  "name": "curhhuse#8",
+  "dims": {
+    "diamm": "6.5024",
+    "diain": "0.256",
+    "areamm": "33.2075813501336",
+    "areain": "0.0514718540364152"
+  }
+},{
+  "name": "curhhuse#6",
+  "dims": {
+    "diamm": "7.4676",
+    "diain": "0.294",
+    "areamm": "43.7977676632713",
+    "areain": "0.0678866756514218"
+  }
+},{
+  "name": "curhhuse#4",
+  "dims": {
+    "diamm": "8.6614",
+    "diain": "0.341",
+    "areamm": "58.9204523769361",
+    "areain": "0.0913268838380187"
+  }
+},{
+  "name": "curhhuse#2",
+  "dims": {
+    "diamm": "10.0838",
+    "diain": "0.397",
+    "areamm": "79.8616590730775",
+    "areain": "0.123785819134908"
+  }
+},{
+  "name": "curhhuse#1",
+  "dims": {
+    "diamm": "12.2936",
+    "diain": "0.484",
+    "areamm": "118.699267223463",
+    "areain": "0.183984232164833"
+  }
+},{
+  "name": "curhhuse1/0",
+  "dims": {
+    "diamm": "13.208",
+    "diain": "0.52",
+    "areamm": "137.013702347963",
+    "areain": "0.21237166338267"
+  }
+},{
+  "name": "curhhuse2/0",
+  "dims": {
+    "diamm": "14.1478",
+    "diain": "0.557",
+    "areamm": "157.20548868252",
+    "areain": "0.243668994795895"
+  }
+},{
+  "name": "curhhuse3/0",
+  "dims": {
+    "diamm": "15.5956",
+    "diain": "0.614",
+    "areamm": "191.02669278984",
+    "areain": "0.296091966008184"
+  }
+},{
+  "name": "curhhuse4/0",
+  "dims": {
+    "diamm": "17.0942",
+    "diain": "0.673",
+    "areamm": "229.502511800151",
+    "areain": "0.355729604749443"
+  }
+},{
+  "name": "curhhuse250",
+  "dims": {
+    "diamm": "18.9992",
+    "diain": "0.748",
+    "areamm": "283.504861384966",
+    "areain": "0.439433414013526"
+  }
+},{
+  "name": "curhhuse300",
+  "dims": {
+    "diamm": "20.4216",
+    "diain": "0.804",
+    "areamm": "327.543821808288",
+    "areain": "0.507693939190725"
+  }
+},{
+  "name": "curhhuse350",
+  "dims": {
+    "diamm": "21.6916",
+    "diain": "0.854",
+    "areamm": "369.549871825471",
+    "areain": "0.572803446936373"
+  }
+},{
+  "name": "curhhuse400",
+  "dims": {
+    "diamm": "22.8346",
+    "diain": "0.899",
+    "areamm": "409.521491314077",
+    "areain": "0.634759581055981"
+  }
+},{
+  "name": "curhhuse500",
+  "dims": {
+    "diamm": "24.9682",
+    "diain": "0.983",
+    "areamm": "489.625863269642",
+    "areain": "0.758921605911157"
+  }
+},{
+  "name": "curhhuse600",
+  "dims": {
+    "diamm": "27.6606",
+    "diain": "1.089",
+    "areamm": "600.915040318784",
+    "areain": "0.931420175334465"
+  }
+},{
+  "name": "curhhuse700",
+  "dims": {
+    "diamm": "29.4132",
+    "diain": "1.158",
+    "areamm": "679.476488000497",
+    "areain": "1.0531906627821"
+  }
+},{
+  "name": "curhhuse750",
+  "dims": {
+    "diamm": "30.2514",
+    "diain": "1.191",
+    "areamm": "718.754931657698",
+    "areain": "1.11407237221418"
+  }
+},{
+  "name": "curhhuse800",
+  "dims": {
+    "diamm": "31.0642",
+    "diain": "1.223",
+    "areamm": "757.897071003021",
+    "areain": "1.1747428095403"
+  }
+},{
+  "name": "curhhuse900",
+  "dims": {
+    "diamm": "32.5882",
+    "diain": "1.283",
+    "areamm": "834.085607560121",
+    "areain": "1.29283527738874"
+  }
+},{
+  "name": "curhhuse1000",
+  "dims": {
+    "diamm": "34.036",
+    "diain": "1.34",
+    "areamm": "909.843949467467",
+    "areain": "1.41026094219646"
+  }
+},{
+  "name": "cuxhhw2#14",
+  "dims": {
+    "diamm": "3.378",
+    "diain": "0.133",
+    "areamm": "8.968",
+    "areain": "0.0139"
+  }
+},{
+  "name": "cuxhhw2#12",
+  "dims": {
+    "diamm": "3.861",
+    "diain": "0.152",
+    "areamm": "11.68",
+    "areain": "0.0181"
+  }
+},{
+  "name": "cuxhhw2#10",
+  "dims": {
+    "diamm": "4.47",
+    "diain": "0.176",
+    "areamm": "15.68",
+    "areain": "0.0243"
+  }
+},{
+  "name": "cuxhhw2#8",
+  "dims": {
+    "diamm": "5.994",
+    "diain": "0.236",
+    "areamm": "28.19",
+    "areain": "0.0437"
+  }
+},{
+  "name": "cuxhhw2#6",
+  "dims": {
+    "diamm": "6.96",
+    "diain": "0.274",
+    "areamm": "38.06",
+    "areain": "0.059"
+  }
+},{
+  "name": "cuxhhw2#4",
+  "dims": {
+    "diamm": "8.179",
+    "diain": "0.322",
+    "areamm": "52.52",
+    "areain": "0.0814"
+  }
+},{
+  "name": "cuxhhw2#3",
+  "dims": {
+    "diamm": "8.89",
+    "diain": "0.35",
+    "areamm": "62.06",
+    "areain": "0.0962"
+  }
+},{
+  "name": "cuxhhw2#2",
+  "dims": {
+    "diamm": "9.703",
+    "diain": "0.382",
+    "areamm": "73.94",
+    "areain": "0.1146"
+  }
+},{
+  "name": "cuxhhw2#1",
+  "dims": {
+    "diamm": "11.23",
+    "diain": "0.442",
+    "areamm": "98.97",
+    "areain": "0.1534"
+  }
+},{
+  "name": "cuxhhw21/0",
+  "dims": {
+    "diamm": "12.24",
+    "diain": "0.482",
+    "areamm": "117.7",
+    "areain": "0.1825"
+  }
+},{
+  "name": "cuxhhw22/0",
+  "dims": {
+    "diamm": "13.41",
+    "diain": "0.528",
+    "areamm": "141.3",
+    "areain": "0.219"
+  }
+},{
+  "name": "cuxhhw23/0",
+  "dims": {
+    "diamm": "14.73",
+    "diain": "0.58",
+    "areamm": "170.5",
+    "areain": "0.2642"
+  }
+},{
+  "name": "cuxhhw24/0",
+  "dims": {
+    "diamm": "16.21",
+    "diain": "0.638",
+    "areamm": "206.3",
+    "areain": "0.3197"
+  }
+},{
+  "name": "cuxhhw2250",
+  "dims": {
+    "diamm": "17.91",
+    "diain": "0.705",
+    "areamm": "251.9",
+    "areain": "0.3904"
+  }
+},{
+  "name": "cuxhhw2300",
+  "dims": {
+    "diamm": "19.3",
+    "diain": "0.76",
+    "areamm": "292.6",
+    "areain": "0.4536"
+  }
+},{
+  "name": "cuxhhw2350",
+  "dims": {
+    "diamm": "20.6",
+    "diain": "0.811",
+    "areamm": "333.3",
+    "areain": "0.5166"
+  }
+},{
+  "name": "cuxhhw2400",
+  "dims": {
+    "diamm": "21.79",
+    "diain": "0.858",
+    "areamm": "373",
+    "areain": "0.5782"
+  }
+},{
+  "name": "cuxhhw2500",
+  "dims": {
+    "diamm": "23.95",
+    "diain": "0.943",
+    "areamm": "450.6",
+    "areain": "0.6984"
+  }
+},{
+  "name": "cuxhhw2600",
+  "dims": {
+    "diamm": "26.75",
+    "diain": "1.053",
+    "areamm": "561.9",
+    "areain": "0.8709"
+  }
+},{
+  "name": "cuxhhw2700",
+  "dims": {
+    "diamm": "28.55",
+    "diain": "1.124",
+    "areamm": "640.2",
+    "areain": "0.9923"
+  }
+},{
+  "name": "cuxhhw2750",
+  "dims": {
+    "diamm": "29.41",
+    "diain": "1.158",
+    "areamm": "679.5",
+    "areain": "1.0532"
+  }
+},{
+  "name": "cuxhhw2800",
+  "dims": {
+    "diamm": "30.23",
+    "diain": "1.19",
+    "areamm": "717.5",
+    "areain": "1.1122"
+  }
+},{
+  "name": "cuxhhw2900",
+  "dims": {
+    "diamm": "31.85",
+    "diain": "1.254",
+    "areamm": "796.8",
+    "areain": "1.2351"
+  }
+},{
+  "name": "cuxhhw21000",
+  "dims": {
+    "diamm": "33.32",
+    "diain": "1.312",
+    "areamm": "872.2",
+    "areain": "1.3519"
+  }
+},{
+  "name": "cuxhhw21250",
+  "dims": {
+    "diamm": "37.57",
+    "diain": "1.479",
+    "areamm": "1108",
+    "areain": "1.718"
+  }
+},{
+  "name": "cuxhhw21500",
+  "dims": {
+    "diamm": "40.69",
+    "diain": "1.602",
+    "areamm": "1300",
+    "areain": "2.0157"
+  }
+},{
+  "name": "cuxhhw21750",
+  "dims": {
+    "diamm": "43.59",
+    "diain": "1.716",
+    "areamm": "1492",
+    "areain": "2.3127"
+  }
+},{
+  "name": "cuxhhw22000",
+  "dims": {
+    "diamm": "46.28",
+    "diain": "1.822",
+    "areamm": "1682",
+    "areain": "2.6073"
+  }
+},{
+  "name": "cuxhhw#14",
+  "dims": {
+    "diamm": "3.378",
+    "diain": "0.133",
+    "areamm": "8.968",
+    "areain": "0.0139"
+  }
+},{
+  "name": "cuxhhw#12",
+  "dims": {
+    "diamm": "3.861",
+    "diain": "0.152",
+    "areamm": "11.68",
+    "areain": "0.0181"
+  }
+},{
+  "name": "cuxhhw#10",
+  "dims": {
+    "diamm": "4.47",
+    "diain": "0.176",
+    "areamm": "15.68",
+    "areain": "0.0243"
+  }
+},{
+  "name": "cuxhhw#8",
+  "dims": {
+    "diamm": "5.994",
+    "diain": "0.236",
+    "areamm": "28.19",
+    "areain": "0.0437"
+  }
+},{
+  "name": "cuxhhw#6",
+  "dims": {
+    "diamm": "6.96",
+    "diain": "0.274",
+    "areamm": "38.06",
+    "areain": "0.059"
+  }
+},{
+  "name": "cuxhhw#4",
+  "dims": {
+    "diamm": "8.179",
+    "diain": "0.322",
+    "areamm": "52.52",
+    "areain": "0.0814"
+  }
+},{
+  "name": "cuxhhw#3",
+  "dims": {
+    "diamm": "8.89",
+    "diain": "0.35",
+    "areamm": "62.06",
+    "areain": "0.0962"
+  }
+},{
+  "name": "cuxhhw#2",
+  "dims": {
+    "diamm": "9.703",
+    "diain": "0.382",
+    "areamm": "73.94",
+    "areain": "0.1146"
+  }
+},{
+  "name": "cuxhhw#1",
+  "dims": {
+    "diamm": "11.23",
+    "diain": "0.442",
+    "areamm": "98.97",
+    "areain": "0.1534"
+  }
+},{
+  "name": "cuxhhw1/0",
+  "dims": {
+    "diamm": "12.24",
+    "diain": "0.482",
+    "areamm": "117.7",
+    "areain": "0.1825"
+  }
+},{
+  "name": "cuxhhw2/0",
+  "dims": {
+    "diamm": "13.41",
+    "diain": "0.528",
+    "areamm": "141.3",
+    "areain": "0.219"
+  }
+},{
+  "name": "cuxhhw3/0",
+  "dims": {
+    "diamm": "14.73",
+    "diain": "0.58",
+    "areamm": "170.5",
+    "areain": "0.2642"
+  }
+},{
+  "name": "cuxhhw4/0",
+  "dims": {
+    "diamm": "16.21",
+    "diain": "0.638",
+    "areamm": "206.3",
+    "areain": "0.3197"
+  }
+},{
+  "name": "cuxhhw250",
+  "dims": {
+    "diamm": "17.91",
+    "diain": "0.705",
+    "areamm": "251.9",
+    "areain": "0.3904"
+  }
+},{
+  "name": "cuxhhw300",
+  "dims": {
+    "diamm": "19.3",
+    "diain": "0.76",
+    "areamm": "292.6",
+    "areain": "0.4536"
+  }
+},{
+  "name": "cuxhhw350",
+  "dims": {
+    "diamm": "20.6",
+    "diain": "0.811",
+    "areamm": "333.3",
+    "areain": "0.5166"
+  }
+},{
+  "name": "cuxhhw400",
+  "dims": {
+    "diamm": "21.79",
+    "diain": "0.858",
+    "areamm": "373",
+    "areain": "0.5782"
+  }
+},{
+  "name": "cuxhhw500",
+  "dims": {
+    "diamm": "23.95",
+    "diain": "0.943",
+    "areamm": "450.6",
+    "areain": "0.6984"
+  }
+},{
+  "name": "cuxhhw600",
+  "dims": {
+    "diamm": "26.75",
+    "diain": "1.053",
+    "areamm": "561.9",
+    "areain": "0.8709"
+  }
+},{
+  "name": "cuxhhw700",
+  "dims": {
+    "diamm": "28.55",
+    "diain": "1.124",
+    "areamm": "640.2",
+    "areain": "0.9923"
+  }
+},{
+  "name": "cuxhhw750",
+  "dims": {
+    "diamm": "29.41",
+    "diain": "1.158",
+    "areamm": "679.5",
+    "areain": "1.0532"
+  }
+},{
+  "name": "cuxhhw800",
+  "dims": {
+    "diamm": "30.23",
+    "diain": "1.19",
+    "areamm": "717.5",
+    "areain": "1.1122"
+  }
+},{
+  "name": "cuxhhw900",
+  "dims": {
+    "diamm": "31.85",
+    "diain": "1.254",
+    "areamm": "796.8",
+    "areain": "1.2351"
+  }
+},{
+  "name": "cuxhhw1000",
+  "dims": {
+    "diamm": "33.32",
+    "diain": "1.312",
+    "areamm": "872.2",
+    "areain": "1.3519"
+  }
+},{
+  "name": "cuxhhw1250",
+  "dims": {
+    "diamm": "37.57",
+    "diain": "1.479",
+    "areamm": "1108",
+    "areain": "1.718"
+  }
+},{
+  "name": "cuxhhw1500",
+  "dims": {
+    "diamm": "40.69",
+    "diain": "1.602",
+    "areamm": "1300",
+    "areain": "2.0157"
+  }
+},{
+  "name": "cuxhhw1750",
+  "dims": {
+    "diamm": "43.59",
+    "diain": "1.716",
+    "areamm": "1492",
+    "areain": "2.3127"
+  }
+},{
+  "name": "cuxhhw2000",
+  "dims": {
+    "diamm": "46.28",
+    "diain": "1.822",
+    "areamm": "1682",
+    "areain": "2.6073"
+  }
+},{
+  "name": "althhn#8",
+  "dims": {
+    "diamm": "5.1816",
+    "diain": "0.204",
+    "areamm": "21.0871384501215",
+    "areain": "0.0326851299679482"
+  }
+},{
+  "name": "althhn#6",
+  "dims": {
+    "diamm": "6.0706",
+    "diain": "0.239",
+    "areamm": "28.9436379135282",
+    "areain": "0.0448627284914256"
+  }
+},{
+  "name": "althhn#4",
+  "dims": {
+    "diamm": "7.747",
+    "diain": "0.305",
+    "areamm": "47.1364632430447",
+    "areain": "0.0730616641500476"
+  }
+},{
+  "name": "althhn#2",
+  "dims": {
+    "diamm": "9.144",
+    "diain": "0.36",
+    "areamm": "65.6692892910357",
+    "areain": "0.101787601976309"
+  }
+},{
+  "name": "althhn#1",
+  "dims": {
+    "diamm": "10.4902",
+    "diain": "0.413",
+    "areamm": "86.4285880021811",
+    "areain": "0.133964579332539"
+  }
+},{
+  "name": "althhn1/0",
+  "dims": {
+    "diamm": "11.43",
+    "diain": "0.45",
+    "areamm": "102.608264517243",
+    "areain": "0.159043128087983"
+  }
+},{
+  "name": "althhn2/0",
+  "dims": {
+    "diamm": "12.446",
+    "diain": "0.49",
+    "areamm": "121.660465731309",
+    "areain": "0.188574099031727"
+  }
+},{
+  "name": "althhn3/0",
+  "dims": {
+    "diamm": "13.6398",
+    "diain": "0.537",
+    "areamm": "146.118729039866",
+    "areain": "0.226484482980759"
+  }
+},{
+  "name": "althhn4/0",
+  "dims": {
+    "diamm": "14.9606",
+    "diain": "0.589",
+    "areamm": "175.787465355983",
+    "areain": "0.272471116244006"
+  }
+},{
+  "name": "althhn250",
+  "dims": {
+    "diamm": "16.6624",
+    "diain": "0.656",
+    "areamm": "218.054469724901",
+    "areain": "0.337985104043804"
+  }
+},{
+  "name": "althhn300",
+  "dims": {
+    "diamm": "17.9324",
+    "diain": "0.706",
+    "areamm": "252.56124905144",
+    "areain": "0.39147071897117"
+  }
+},{
+  "name": "althhn350",
+  "dims": {
+    "diamm": "19.1008",
+    "diain": "0.752",
+    "areamm": "286.545106259551",
+    "areain": "0.444145802993911"
+  }
+},{
+  "name": "althhn400",
+  "dims": {
+    "diamm": "20.193",
+    "diain": "0.795",
+    "areamm": "320.251794476596",
+    "areain": "0.496391274221272"
+  }
+},{
+  "name": "althhn500",
+  "dims": {
+    "diamm": "22.1488",
+    "diain": "0.872",
+    "areamm": "385.292259786072",
+    "areain": "0.597204197076805"
+  }
+},{
+  "name": "althhn600",
+  "dims": {
+    "diamm": "24.6634",
+    "diain": "0.971",
+    "areamm": "477.744586299764",
+    "areain": "0.740505589775813"
+  }
+},{
+  "name": "althhn700",
+  "dims": {
+    "diamm": "26.289",
+    "diain": "1.035",
+    "areamm": "542.797719296217",
+    "areain": "0.841338147585431"
+  }
+},{
+  "name": "althhn750",
+  "dims": {
+    "diamm": "27.0764",
+    "diain": "1.066",
+    "areamm": "575.800084117316",
+    "areain": "0.892491915365671"
+  }
+},{
+  "name": "althhn900",
+  "dims": {
+    "diamm": "28.9306",
+    "diain": "1.139",
+    "areamm": "657.362253490245",
+    "areain": "1.01891353073694"
+  }
+},{
+  "name": "althhn1000",
+  "dims": {
+    "diamm": "30.9372",
+    "diain": "1.218",
+    "areamm": "751.712706220636",
+    "areain": "1.16515702495604"
+  }
+},{
+  "name": "alxhhw#8",
+  "dims": {
+    "diamm": "5.7658",
+    "diain": "0.227",
+    "areamm": "26.110129690415",
+    "areain": "0.0404707819617071"
+  }
+},{
+  "name": "alxhhw#6",
+  "dims": {
+    "diamm": "6.5786",
+    "diain": "0.259",
+    "areamm": "33.9904444053392",
+    "areain": "0.0526852941988642"
+  }
+},{
+  "name": "alxhhw#4",
+  "dims": {
+    "diamm": "7.6962",
+    "diain": "0.303",
+    "areamm": "46.5203069484622",
+    "areain": "0.0721066199833563"
+  }
+},{
+  "name": "alxhhw#2",
+  "dims": {
+    "diamm": "9.0932",
+    "diain": "0.358",
+    "areamm": "64.9416573510517",
+    "areain": "0.100659770213671"
+  }
+},{
+  "name": "alxhhw#1",
+  "dims": {
+    "diamm": "10.4902",
+    "diain": "0.413",
+    "areamm": "86.4285880021811",
+    "areain": "0.133964579332539"
+  }
+},{
+  "name": "alxhhw1/0",
+  "dims": {
+    "diamm": "11.43",
+    "diain": "0.45",
+    "areamm": "102.608264517243",
+    "areain": "0.159043128087983"
+  }
+},{
+  "name": "alxhhw2/0",
+  "dims": {
+    "diamm": "12.446",
+    "diain": "0.49",
+    "areamm": "121.660465731309",
+    "areain": "0.188574099031727"
+  }
+},{
+  "name": "alxhhw3/0",
+  "dims": {
+    "diamm": "13.6398",
+    "diain": "0.537",
+    "areamm": "146.118729039866",
+    "areain": "0.226484482980759"
+  }
+},{
+  "name": "alxhhw4/0",
+  "dims": {
+    "diamm": "14.9606",
+    "diain": "0.589",
+    "areamm": "175.787465355983",
+    "areain": "0.272471116244006"
+  }
+},{
+  "name": "alxhhw250",
+  "dims": {
+    "diamm": "16.51",
+    "diain": "0.65",
+    "areamm": "214.083909918693",
+    "areain": "0.331830724035422"
+  }
+},{
+  "name": "alxhhw300",
+  "dims": {
+    "diamm": "17.78",
+    "diain": "0.7",
+    "areamm": "248.286664757774",
+    "areain": "0.38484510006475"
+  }
+},{
+  "name": "alxhhw350",
+  "dims": {
+    "diamm": "18.9484",
+    "diain": "0.746",
+    "areamm": "281.990819437423",
+    "areain": "0.437086644301294"
+  }
+},{
+  "name": "alxhhw400",
+  "dims": {
+    "diamm": "20.0406",
+    "diain": "0.789",
+    "areamm": "315.436046595253",
+    "areain": "0.488926850076343"
+  }
+},{
+  "name": "alxhhw500",
+  "dims": {
+    "diamm": "21.9964",
+    "diain": "0.866",
+    "areamm": "380.008314194043",
+    "areain": "0.589014065028897"
+  }
+},{
+  "name": "alxhhw600",
+  "dims": {
+    "diamm": "24.7142",
+    "diain": "0.973",
+    "areamm": "479.714664978495",
+    "areain": "0.743559217835103"
+  }
+},{
+  "name": "alxhhw700",
+  "dims": {
+    "diamm": "26.3398",
+    "diain": "1.037",
+    "areamm": "544.897515089597",
+    "areain": "0.84459283757455"
+  }
+},{
+  "name": "alxhhw750",
+  "dims": {
+    "diamm": "27.1272",
+    "diain": "1.068",
+    "areamm": "577.962711638104",
+    "areain": "0.895843994727051"
+  }
+},{
+  "name": "alxhhw900",
+  "dims": {
+    "diamm": "29.5148",
+    "diain": "1.162",
+    "areamm": "684.178733406522",
+    "areain": "1.06047915773842"
+  }
+},{
+  "name": "alxhhw1000",
+  "dims": {
+    "diamm": "30.988",
+    "diain": "1.22",
+    "areamm": "754.183411888715",
+    "areain": "1.16898662640076"
+  }
+},{
+  "name": "alrhhuse#6",
+  "dims": {
+    "diamm": "7.1882",
+    "diain": "0.283",
+    "areamm": "40.5816952934395",
+    "areain": "0.0629017535083382"
+  }
+},{
+  "name": "alrhhuse#4",
+  "dims": {
+    "diamm": "8.4582",
+    "diain": "0.333",
+    "areamm": "56.1882856496424",
+    "areain": "0.0870920169409796"
+  }
+},{
+  "name": "alrhhuse#2",
+  "dims": {
+    "diamm": "9.8552",
+    "diain": "0.388",
+    "areamm": "76.2817707332537",
+    "areain": "0.118236981110505"
+  }
+},{
+  "name": "alrhhuse#1",
+  "dims": {
+    "diamm": "11.6586",
+    "diain": "0.459",
+    "areamm": "106.75363840374",
+    "areain": "0.165468470462738"
+  }
+},{
+  "name": "alrhhuse1/0",
+  "dims": {
+    "diamm": "12.5984",
+    "diain": "0.496",
+    "areamm": "124.65814717765",
+    "areain": "0.193220514566387"
+  }
+},{
+  "name": "alrhhuse2/0",
+  "dims": {
+    "diamm": "13.6144",
+    "diain": "0.536",
+    "areamm": "145.575031914795",
+    "areain": "0.225641750751433"
+  }
+},{
+  "name": "alrhhuse3/0",
+  "dims": {
+    "diamm": "14.8082",
+    "diain": "0.583",
+    "areamm": "172.224298362969",
+    "areain": "0.266948196358995"
+  }
+},{
+  "name": "alrhhuse4/0",
+  "dims": {
+    "diamm": "16.129",
+    "diain": "0.635",
+    "areamm": "204.317123259088",
+    "areain": "0.316692174435936"
+  }
+},{
+  "name": "alrhhuse250",
+  "dims": {
+    "diamm": "18.034",
+    "diain": "0.71",
+    "areamm": "255.431240213049",
+    "areain": "0.395919214168654"
+  }
+},{
+  "name": "alrhhuse300",
+  "dims": {
+    "diamm": "19.304",
+    "diain": "0.76",
+    "areamm": "292.674239926715",
+    "areain": "0.453645979178366"
+  }
+},{
+  "name": "alrhhuse350",
+  "dims": {
+    "diamm": "20.4724",
+    "diain": "0.806",
+    "areamm": "329.175419890982",
+    "areain": "0.510222921276865"
+  }
+},{
+  "name": "alrhhuse400",
+  "dims": {
+    "diamm": "21.5646",
+    "diain": "0.849",
+    "areamm": "365.235257640955",
+    "areain": "0.566115781575044"
+  }
+},{
+  "name": "alrhhuse500",
+  "dims": {
+    "diamm": "23.5204",
+    "diain": "0.926",
+    "areamm": "434.489502346606",
+    "areain": "0.673460075557391"
+  }
+},{
+  "name": "alrhhuse600",
+  "dims": {
+    "diamm": "26.2382",
+    "diain": "1.033",
+    "areamm": "540.70197716267",
+    "areain": "0.838089740781619"
+  }
+},{
+  "name": "alrhhuse700",
+  "dims": {
+    "diamm": "27.94",
+    "diain": "1.1",
+    "areamm": "613.116049707972",
+    "areain": "0.950331777710913"
+  }
+},{
+  "name": "alrhhuse750",
+  "dims": {
+    "diamm": "28.6512",
+    "diain": "1.128",
+    "areamm": "644.72648908399",
+    "areain": "0.999328056736299"
+  }
+},{
+  "name": "alrhhuse900",
+  "dims": {
+    "diamm": "31.0388",
+    "diain": "1.222",
+    "areamm": "756.658171216628",
+    "areain": "1.1728225110308"
+  }
+},{
+  "name": "alrhhuse1000",
+  "dims": {
+    "diamm": "32.512",
+    "diain": "1.28",
+    "areamm": "830.18953375334",
+    "areain": "1.28679635091038"
+  }
+},{
+  "name": "cu2d4kvxlp#6",
+  "dims": {
+    "diamm": "10.922",
+    "diain": "0.43",
+    "areamm": "93.6902128851273",
+    "areain": "0.145220120412188"
+  }
+},{
+  "name": "cu2d4kvxlp#4",
+  "dims": {
+    "diamm": "12.2174",
+    "diain": "0.481",
+    "areamm": "117.232349071476",
+    "areain": "0.181710504481797"
+  }
+},{
+  "name": "cu2d4kvxlp#2",
+  "dims": {
+    "diamm": "13.6398",
+    "diain": "0.537",
+    "areamm": "146.118729039866",
+    "areain": "0.226484482980759"
+  }
+},{
+  "name": "cu2d4kvxlp#1",
+  "dims": {
+    "diamm": "14.5796",
+    "diain": "0.574",
+    "areamm": "166.947953383127",
+    "areain": "0.258769845283538"
+  }
+},{
+  "name": "cu2d4kvxlp1/0",
+  "dims": {
+    "diamm": "15.5956",
+    "diain": "0.614",
+    "areamm": "191.02669278984",
+    "areain": "0.296091966008184"
+  }
+},{
+  "name": "cu2d4kvxlp2/0",
+  "dims": {
+    "diamm": "16.6878",
+    "diain": "0.657",
+    "areamm": "218.719776644956",
+    "areain": "0.339016331832345"
+  }
+},{
+  "name": "cu2d4kvxlp3/0",
+  "dims": {
+    "diamm": "17.9832",
+    "diain": "0.708",
+    "areamm": "253.994217802328",
+    "areain": "0.393691824977258"
+  }
+},{
+  "name": "cu2d4kvxlp4/0",
+  "dims": {
+    "diamm": "19.4056",
+    "diain": "0.764",
+    "areamm": "295.763128719293",
+    "areain": "0.458433766382437"
+  }
+},{
+  "name": "cu2d4kvxlp250",
+  "dims": {
+    "diamm": "21.082",
+    "diain": "0.83",
+    "areamm": "349.070782350266",
+    "areain": "0.541060794764502"
+  }
+},{
+  "name": "cu2d4kvxlp350",
+  "dims": {
+    "diamm": "23.6982",
+    "diain": "0.933",
+    "areamm": "441.083286772102",
+    "areain": "0.683680461857681"
+  }
+},{
+  "name": "cu2d4kvxlp500",
+  "dims": {
+    "diamm": "26.9494",
+    "diain": "1.061",
+    "areamm": "570.411250077114",
+    "areain": "0.884139205897939"
+  }
+},{
+  "name": "cu2d4kvxlp750",
+  "dims": {
+    "diamm": "32.004",
+    "diain": "1.26",
+    "areamm": "804.448793815187",
+    "areain": "1.24689812420979"
+  }
+},{
+  "name": "cu2d4kvxlp1000",
+  "dims": {
+    "diamm": "35.7886",
+    "diain": "1.409",
+    "areamm": "1005.95673081016",
+    "areain": "1.55923605122785"
+  }
+},{
+  "name": "cu2d4kveprlszh#2",
+  "dims": {
+    "diamm": "18.3642",
+    "diain": "0.723",
+    "areamm": "264.870693841156",
+    "areain": "0.410550396554585"
+  }
+},{
+  "name": "cu2d4kveprlszh#1",
+  "dims": {
+    "diamm": "19.3548",
+    "diain": "0.762",
+    "areamm": "294.216657493087",
+    "areain": "0.456036731187748"
+  }
+},{
+  "name": "cu2d4kveprlszh1/0",
+  "dims": {
+    "diamm": "20.3708",
+    "diain": "0.802",
+    "areamm": "325.916277385427",
+    "areain": "0.505171240289892"
+  }
+},{
+  "name": "cu2d4kveprlszh2/0",
+  "dims": {
+    "diamm": "21.463",
+    "diain": "0.845",
+    "areamm": "361.801807762591",
+    "areain": "0.560793923619863"
+  }
+},{
+  "name": "cu2d4kveprlszh3/0",
+  "dims": {
+    "diamm": "23.5204",
+    "diain": "0.926",
+    "areamm": "434.489502346606",
+    "areain": "0.673460075557391"
+  }
+},{
+  "name": "cu2d4kveprlszh4/0",
+  "dims": {
+    "diamm": "24.9428",
+    "diain": "0.982",
+    "areamm": "488.630183073215",
+    "areain": "0.757378298520081"
+  }
+},{
+  "name": "cu2d4kveprlszh250",
+  "dims": {
+    "diamm": "27.8892",
+    "diain": "1.098",
+    "areamm": "610.88856362986",
+    "areain": "0.946879167384617"
+  }
+},{
+  "name": "cu2d4kveprlszh350",
+  "dims": {
+    "diamm": "30.5054",
+    "diain": "1.201",
+    "areamm": "730.87537455771",
+    "areain": "1.13285909628264"
+  }
+},{
+  "name": "cu2d4kveprlszh500",
+  "dims": {
+    "diamm": "33.7566",
+    "diain": "1.329",
+    "areamm": "894.967524588644",
+    "areain": "1.38720243751727"
+  }
+},{
+  "name": "cu2d4kveprlszh750",
+  "dims": {
+    "diamm": "39.8272",
+    "diain": "1.568",
+    "areamm": "1245.80316908861",
+    "areain": "1.93099877408489"
+  }
+},{
+  "name": "cu2d4kveprlszh1000",
+  "dims": {
+    "diamm": "43.6118",
+    "diain": "1.717",
+    "areamm": "1493.81874534506",
+    "areain": "2.31542368613222"
+  }
+},{
+  "name": "cu2d4kveprpvc#2",
+  "dims": {
+    "diamm": "18.3642",
+    "diain": "0.723",
+    "areamm": "264.870693841156",
+    "areain": "0.410550396554585"
+  }
+},{
+  "name": "cu2d4kveprpvc#1",
+  "dims": {
+    "diamm": "19.3548",
+    "diain": "0.762",
+    "areamm": "294.216657493087",
+    "areain": "0.456036731187748"
+  }
+},{
+  "name": "cu2d4kveprpvc1/0",
+  "dims": {
+    "diamm": "20.3708",
+    "diain": "0.802",
+    "areamm": "325.916277385427",
+    "areain": "0.505171240289892"
+  }
+},{
+  "name": "cu2d4kveprpvc2/0",
+  "dims": {
+    "diamm": "21.463",
+    "diain": "0.845",
+    "areamm": "361.801807762591",
+    "areain": "0.560793923619863"
+  }
+},{
+  "name": "cu2d4kveprpvc3/0",
+  "dims": {
+    "diamm": "23.5204",
+    "diain": "0.926",
+    "areamm": "434.489502346606",
+    "areain": "0.673460075557391"
+  }
+},{
+  "name": "cu2d4kveprpvc4/0",
+  "dims": {
+    "diamm": "24.9428",
+    "diain": "0.982",
+    "areamm": "488.630183073215",
+    "areain": "0.757378298520081"
+  }
+},{
+  "name": "cu2d4kveprpvc250",
+  "dims": {
+    "diamm": "27.8892",
+    "diain": "1.098",
+    "areamm": "610.88856362986",
+    "areain": "0.946879167384617"
+  }
+},{
+  "name": "cu2d4kveprpvc350",
+  "dims": {
+    "diamm": "30.5054",
+    "diain": "1.201",
+    "areamm": "730.87537455771",
+    "areain": "1.13285909628264"
+  }
+},{
+  "name": "cu2d4kveprpvc500",
+  "dims": {
+    "diamm": "33.7566",
+    "diain": "1.329",
+    "areamm": "894.967524588644",
+    "areain": "1.38720243751727"
+  }
+},{
+  "name": "cu2d4kveprpvc750",
+  "dims": {
+    "diamm": "39.8272",
+    "diain": "1.568",
+    "areamm": "1245.80316908861",
+    "areain": "1.93099877408489"
+  }
+},{
+  "name": "cu2d4kveprpvc1000",
+  "dims": {
+    "diamm": "43.6118",
+    "diain": "1.717",
+    "areamm": "1493.81874534506",
+    "areain": "2.31542368613222"
+  }
+},{
+  "name": "al5kvmv105100p#2",
+  "dims": {
+    "diamm": "17.653",
+    "diain": "0.695",
+    "areamm": "244.752380091069",
+    "areain": "0.379366947875052"
+  }
+},{
+  "name": "al5kvmv105100p#1",
+  "dims": {
+    "diamm": "18.4404",
+    "diain": "0.726",
+    "areamm": "267.073351252793",
+    "areain": "0.413964522370873"
+  }
+},{
+  "name": "al5kvmv105100p1/0",
+  "dims": {
+    "diamm": "19.3802",
+    "diain": "0.763",
+    "areamm": "294.989386398711",
+    "areain": "0.457234463386929"
+  }
+},{
+  "name": "al5kvmv105100p2/0",
+  "dims": {
+    "diamm": "20.3962",
+    "diain": "0.803",
+    "areamm": "326.729542889378",
+    "areain": "0.506431804342145"
+  }
+},{
+  "name": "al5kvmv105100p3/0",
+  "dims": {
+    "diamm": "21.59",
+    "diain": "0.85",
+    "areamm": "366.096153647942",
+    "areain": "0.567450173054656"
+  }
+},{
+  "name": "al5kvmv105100p4/0",
+  "dims": {
+    "diamm": "23.6728",
+    "diain": "0.932",
+    "areamm": "440.138277323585",
+    "areain": "0.682215694282945"
+  }
+},{
+  "name": "al5kvmv105100p250",
+  "dims": {
+    "diamm": "25.0444",
+    "diain": "0.986",
+    "areamm": "492.618984348671",
+    "areain": "0.763560952862346"
+  }
+},{
+  "name": "al5kvmv105100p350",
+  "dims": {
+    "diamm": "27.4828",
+    "diain": "1.082",
+    "areamm": "593.214606758939",
+    "areain": "0.919484479445314"
+  }
+},{
+  "name": "al5kvmv105100p500",
+  "dims": {
+    "diamm": "30.5308",
+    "diain": "1.202",
+    "areamm": "732.092992629981",
+    "areain": "1.13474640806929"
+  }
+},{
+  "name": "al5kvmv105100p750",
+  "dims": {
+    "diamm": "35.687",
+    "diain": "1.405",
+    "areamm": "1000.25323142544",
+    "areain": "1.55039560950065"
+  }
+},{
+  "name": "al5kvmv105100p1000",
+  "dims": {
+    "diamm": "39.5478",
+    "diain": "1.557",
+    "areamm": "1228.38509949463",
+    "areain": "1.9040007122181"
+  }
+},{
+  "name": "al8kvmv105#6",
+  "dims": {
+    "diamm": "16.6624",
+    "diain": "0.656",
+    "areamm": "218.054469724901",
+    "areain": "0.337985104043804"
+  }
+},{
+  "name": "al8kvmv105#4",
+  "dims": {
+    "diamm": "17.8054",
+    "diain": "0.701",
+    "areamm": "248.996561935989",
+    "areain": "0.385945442891669"
+  }
+},{
+  "name": "al8kvmv105#2",
+  "dims": {
+    "diamm": "19.2786",
+    "diain": "0.759",
+    "areamm": "291.904551265966",
+    "areain": "0.452452959368165"
+  }
+},{
+  "name": "al8kvmv105#1",
+  "dims": {
+    "diamm": "20.2946",
+    "diain": "0.799",
+    "areamm": "323.482561363322",
+    "areain": "0.501398972911094"
+  }
+},{
+  "name": "al8kvmv1051/0",
+  "dims": {
+    "diamm": "22.098",
+    "diain": "0.87",
+    "areamm": "383.526890928896",
+    "areain": "0.594467869875529"
+  }
+},{
+  "name": "al8kvmv1052/0",
+  "dims": {
+    "diamm": "23.114",
+    "diain": "0.91",
+    "areamm": "419.604463440638",
+    "areain": "0.650388219109427"
+  }
+},{
+  "name": "al8kvmv1053/0",
+  "dims": {
+    "diamm": "24.384",
+    "diain": "0.96",
+    "areamm": "466.981612736254",
+    "areain": "0.723822947387088"
+  }
+},{
+  "name": "al8kvmv1054/0",
+  "dims": {
+    "diamm": "25.781",
+    "diain": "1.015",
+    "areamm": "522.022712653219",
+    "areain": "0.809136822886136"
+  }
+},{
+  "name": "al8kvmv105250",
+  "dims": {
+    "diamm": "27.178",
+    "diain": "1.07",
+    "areamm": "580.129392818725",
+    "areain": "0.899202357273739"
+  }
+},{
+  "name": "al8kvmv105350",
+  "dims": {
+    "diamm": "29.845",
+    "diain": "1.175",
+    "areamm": "699.573013328983",
+    "areain": "1.0843403393406"
+  }
+},{
+  "name": "al8kvmv105500",
+  "dims": {
+    "diamm": "33.02",
+    "diain": "1.3",
+    "areamm": "856.335639674771",
+    "areain": "1.32732289614169"
+  }
+},{
+  "name": "al8kvmv105750",
+  "dims": {
+    "diamm": "37.7698",
+    "diain": "1.487",
+    "areamm": "1120.41586984854",
+    "areain": "1.73664807156137"
+  }
+},{
+  "name": "al8kvmv1051000",
+  "dims": {
+    "diamm": "41.4528",
+    "diain": "1.632",
+    "areamm": "1349.57686080777",
+    "areain": "2.09184831794868"
+  }
+},{
+  "name": "al5kvmv105133p#2",
+  "dims": {
+    "diamm": "18.923",
+    "diain": "0.745",
+    "areamm": "281.235318586089",
+    "areain": "0.435915615639669"
+  }
+},{
+  "name": "al5kvmv105133p#1",
+  "dims": {
+    "diamm": "19.7104",
+    "diain": "0.776",
+    "areamm": "305.127082933015",
+    "areain": "0.472947924442022"
+  }
+},{
+  "name": "al5kvmv105133p1/0",
+  "dims": {
+    "diamm": "20.6502",
+    "diain": "0.813",
+    "areamm": "334.917935751594",
+    "areain": "0.519123838662648"
+  }
+},{
+  "name": "al5kvmv105133p2/0",
+  "dims": {
+    "diamm": "21.6662",
+    "diain": "0.853",
+    "areamm": "368.684922158651",
+    "areain": "0.571462772271454"
+  }
+},{
+  "name": "al5kvmv105133p3/0",
+  "dims": {
+    "diamm": "23.622",
+    "diain": "0.93",
+    "areamm": "438.251298671426",
+    "areain": "0.679290871522453"
+  }
+},{
+  "name": "al5kvmv105133p4/0",
+  "dims": {
+    "diamm": "24.9428",
+    "diain": "0.982",
+    "areamm": "488.630183073215",
+    "areain": "0.757378298520081"
+  }
+},{
+  "name": "al5kvmv105133p250",
+  "dims": {
+    "diamm": "26.3144",
+    "diain": "1.036",
+    "areamm": "543.847110485428",
+    "areain": "0.842964707181828"
+  }
+},{
+  "name": "al5kvmv105133p350",
+  "dims": {
+    "diamm": "28.7528",
+    "diain": "1.132",
+    "areamm": "649.307124695032",
+    "areain": "1.00642805613341"
+  }
+},{
+  "name": "al5kvmv105133p500",
+  "dims": {
+    "diamm": "31.8008",
+    "diain": "1.252",
+    "areamm": "794.266000315244",
+    "areain": "1.23111476271815"
+  }
+},{
+  "name": "al5kvmv105133p600",
+  "dims": {
+    "diamm": "34.544",
+    "diain": "1.36",
+    "areamm": "937.206153338732",
+    "areain": "1.45267244301992"
+  }
+},{
+  "name": "al5kvmv105133p750",
+  "dims": {
+    "diamm": "36.957",
+    "diain": "1.455",
+    "areamm": "1072.71240093638",
+    "areain": "1.66270754686648"
+  }
+},{
+  "name": "al5kvmv105133p1000",
+  "dims": {
+    "diamm": "40.8178",
+    "diain": "1.607",
+    "areamm": "1308.54622268785",
+    "areain": "2.02825070166758"
+  }
+},{
+  "name": "al15kvmv105100p#2",
+  "dims": {
+    "diamm": "21.971",
+    "diain": "0.865",
+    "areamm": "379.131203547725",
+    "areain": "0.587654540808056"
+  }
+},{
+  "name": "al15kvmv105100p#1",
+  "dims": {
+    "diamm": "22.7584",
+    "diain": "0.896",
+    "areamm": "406.792871539137",
+    "areain": "0.630530211946086"
+  }
+},{
+  "name": "al15kvmv105100p1/0",
+  "dims": {
+    "diamm": "24.4602",
+    "diain": "0.963",
+    "areamm": "469.904808183167",
+    "areain": "0.728353909391728"
+  }
+},{
+  "name": "al15kvmv105100p2/0",
+  "dims": {
+    "diamm": "25.4762",
+    "diain": "1.003",
+    "areamm": "509.752284339394",
+    "areain": "0.790117620961303"
+  }
+},{
+  "name": "al15kvmv105100p3/0",
+  "dims": {
+    "diamm": "26.67",
+    "diain": "1.05",
+    "areamm": "558.644995704991",
+    "areain": "0.865901475145687"
+  }
+},{
+  "name": "al15kvmv105100p4/0",
+  "dims": {
+    "diamm": "27.9908",
+    "diain": "1.102",
+    "areamm": "615.347589445918",
+    "areain": "0.953790671222515"
+  }
+},{
+  "name": "al15kvmv105100p250",
+  "dims": {
+    "diamm": "29.3624",
+    "diain": "1.156",
+    "areamm": "677.131445787234",
+    "areain": "1.04955584008189"
+  }
+},{
+  "name": "al15kvmv105100p350",
+  "dims": {
+    "diamm": "31.8008",
+    "diain": "1.252",
+    "areamm": "794.266000315244",
+    "areain": "1.23111476271815"
+  }
+},{
+  "name": "al15kvmv105100p500",
+  "dims": {
+    "diamm": "34.8488",
+    "diain": "1.372",
+    "areamm": "953.818051333464",
+    "areain": "1.47842093640874"
+  }
+},{
+  "name": "al15kvmv105100p600",
+  "dims": {
+    "diamm": "37.592",
+    "diain": "1.48",
+    "areamm": "1109.89206221516",
+    "areain": "1.72033613710577"
+  }
+},{
+  "name": "al15kvmv105100p750",
+  "dims": {
+    "diamm": "40.005",
+    "diain": "1.575",
+    "areamm": "1256.95124033623",
+    "areain": "1.9482783190778"
+  }
+},{
+  "name": "al15kvmv105100p1000",
+  "dims": {
+    "diamm": "43.8658",
+    "diain": "1.727",
+    "areamm": "1511.26975092518",
+    "areain": "2.34247279887963"
+  }
+},{
+  "name": "emt0.5",
+  "dims": {
+    "diamm": "15.8",
+    "diain": "0.622",
+    "areamm": "196",
+    "areain": "0.304"
+  }
+},{
+  "name": "emt0.75",
+  "dims": {
+    "diamm": "20.9",
+    "diain": "0.824",
+    "areamm": "343",
+    "areain": "0.533"
+  }
+},{
+  "name": "emt1",
+  "dims": {
+    "diamm": "26.6",
+    "diain": "1.049",
+    "areamm": "556",
+    "areain": "0.864"
+  }
+},{
+  "name": "emt1.25",
+  "dims": {
+    "diamm": "35.1",
+    "diain": "1.38",
+    "areamm": "968",
+    "areain": "1.496"
+  }
+},{
+  "name": "emt1.5",
+  "dims": {
+    "diamm": "40.9",
+    "diain": "1.61",
+    "areamm": "1314",
+    "areain": "2.036"
+  }
+},{
+  "name": "emt2",
+  "dims": {
+    "diamm": "52.5",
+    "diain": "2.067",
+    "areamm": "2165",
+    "areain": "3.356"
+  }
+},{
+  "name": "emt2.5",
+  "dims": {
+    "diamm": "69.4",
+    "diain": "2.731",
+    "areamm": "3783",
+    "areain": "5.858"
+  }
+},{
+  "name": "emt3",
+  "dims": {
+    "diamm": "85.2",
+    "diain": "3.356",
+    "areamm": "5701",
+    "areain": "8.846"
+  }
+},{
+  "name": "emt3.5",
+  "dims": {
+    "diamm": "97.4",
+    "diain": "3.834",
+    "areamm": "7451",
+    "areain": "11.545"
+  }
+},{
+  "name": "emt4",
+  "dims": {
+    "diamm": "110.1",
+    "diain": "4.334",
+    "areamm": "9521",
+    "areain": "14.753"
+  }
+},{
+  "name": "ent0.5",
+  "dims": {
+    "diamm": "14.224",
+    "diain": "0.56",
+    "areamm": "158.903465444975",
+    "areain": "0.24630086404144"
+  }
+},{
+  "name": "ent0.75",
+  "dims": {
+    "diamm": "19.304",
+    "diain": "0.76",
+    "areamm": "292.674239926715",
+    "areain": "0.453645979178366"
+  }
+},{
+  "name": "ent1",
+  "dims": {
+    "diamm": "25.4",
+    "diain": "1",
+    "areamm": "506.707479097498",
+    "areain": "0.785398163397448"
+  }
+},{
+  "name": "ent1.25",
+  "dims": {
+    "diamm": "34.036",
+    "diain": "1.34",
+    "areamm": "909.843949467467",
+    "areain": "1.41026094219646"
+  }
+},{
+  "name": "ent1.5",
+  "dims": {
+    "diamm": "39.878",
+    "diain": "1.57",
+    "areamm": "1248.98326522742",
+    "areain": "1.93592793295837"
+  }
+},{
+  "name": "ent2",
+  "dims": {
+    "diamm": "51.308",
+    "diain": "2.02",
+    "areamm": "2067.56919770943",
+    "areain": "3.20473866592695"
+  }
+},{
+  "name": "fmc0.375",
+  "dims": {
+    "diamm": "9.7536",
+    "diain": "0.384",
+    "areamm": "74.7170580378006",
+    "areain": "0.115811671581934"
+  }
+},{
+  "name": "fmc0.5",
+  "dims": {
+    "diamm": "16.129",
+    "diain": "0.635",
+    "areamm": "204.317123259088",
+    "areain": "0.316692174435936"
+  }
+},{
+  "name": "fmc0.75",
+  "dims": {
+    "diamm": "20.9296",
+    "diain": "0.824",
+    "areamm": "344.042217327703",
+    "areain": "0.533266503390946"
+  }
+},{
+  "name": "fmc1",
+  "dims": {
+    "diamm": "25.908",
+    "diain": "1.02",
+    "areamm": "527.178461253037",
+    "areain": "0.817128249198705"
+  }
+},{
+  "name": "fmc1.25",
+  "dims": {
+    "diamm": "32.385",
+    "diain": "1.275",
+    "areamm": "823.71634570787",
+    "areain": "1.27676288937298"
+  }
+},{
+  "name": "fmc1.5",
+  "dims": {
+    "diamm": "39.0652",
+    "diain": "1.538",
+    "areamm": "1198.5881661863",
+    "areain": "1.85781537321951"
+  }
+},{
+  "name": "fmc2",
+  "dims": {
+    "diamm": "51.816",
+    "diain": "2.04",
+    "areamm": "2108.71384501215",
+    "areain": "3.26851299679482"
+  }
+},{
+  "name": "fmc2.5",
+  "dims": {
+    "diamm": "63.5",
+    "diain": "2.5",
+    "areamm": "3166.92174435936",
+    "areain": "4.90873852123405"
+  }
+},{
+  "name": "fmc3",
+  "dims": {
+    "diamm": "76.2",
+    "diain": "3",
+    "areamm": "4560.36731187748",
+    "areain": "7.06858347057703"
+  }
+},{
+  "name": "fmc3.5",
+  "dims": {
+    "diamm": "88.9",
+    "diain": "3.5",
+    "areamm": "6207.16661894435",
+    "areain": "9.62112750161874"
+  }
+},{
+  "name": "fmc4",
+  "dims": {
+    "diamm": "101.6",
+    "diain": "4",
+    "areamm": "8107.31966555996",
+    "areain": "12.5663706143592"
+  }
+},{
+  "name": "imc0.5",
+  "dims": {
+    "diamm": "16.764",
+    "diain": "0.66",
+    "areamm": "220.72177789487",
+    "areain": "0.342119439975929"
+  }
+},{
+  "name": "imc0.75",
+  "dims": {
+    "diamm": "21.9456",
+    "diain": "0.864",
+    "areamm": "378.255106316366",
+    "areain": "0.586296587383542"
+  }
+},{
+  "name": "imc1",
+  "dims": {
+    "diamm": "28.067",
+    "diain": "1.105",
+    "areamm": "618.702499665022",
+    "areain": "0.958990792462369"
+  }
+},{
+  "name": "imc1.25",
+  "dims": {
+    "diamm": "36.7792",
+    "diain": "1.448",
+    "areamm": "1062.41559825364",
+    "areain": "1.64674747078808"
+  }
+},{
+  "name": "imc1.5",
+  "dims": {
+    "diamm": "42.7482",
+    "diain": "1.683",
+    "areamm": "1435.24336076139",
+    "areain": "2.22463165844347"
+  }
+},{
+  "name": "imc2",
+  "dims": {
+    "diamm": "54.61",
+    "diain": "2.15",
+    "areamm": "2342.25532212818",
+    "areain": "3.6305030103047"
+  }
+},{
+  "name": "imc2.5",
+  "dims": {
+    "diamm": "64.9478",
+    "diain": "2.557",
+    "areamm": "3312.97966850174",
+    "areain": "5.1351287564352"
+  }
+},{
+  "name": "imc3",
+  "dims": {
+    "diamm": "80.6704",
+    "diain": "3.176",
+    "areamm": "5111.14618067696",
+    "areain": "7.92229242463414"
+  }
+},{
+  "name": "imc3.5",
+  "dims": {
+    "diamm": "93.2434",
+    "diain": "3.671",
+    "areamm": "6828.51210482034",
+    "areain": "10.5842149309014"
+  }
+},{
+  "name": "imc4",
+  "dims": {
+    "diamm": "105.8164",
+    "diain": "4.166",
+    "areamm": "8794.19002909545",
+    "areain": "13.6310218071416"
+  }
+},{
+  "name": "lfncb0.375",
+  "dims": {
+    "diamm": "12.5476",
+    "diain": "0.494",
+    "areamm": "123.654866369037",
+    "areain": "0.19166542620286"
+  }
+},{
+  "name": "lfncb0.5",
+  "dims": {
+    "diamm": "16.0528",
+    "diain": "0.632",
+    "areamm": "202.391128131039",
+    "areain": "0.313706876016862"
+  }
+},{
+  "name": "lfncb0.75",
+  "dims": {
+    "diamm": "21.082",
+    "diain": "0.83",
+    "areamm": "349.070782350266",
+    "areain": "0.541060794764502"
+  }
+},{
+  "name": "lfncb1",
+  "dims": {
+    "diamm": "26.7716",
+    "diain": "1.054",
+    "areamm": "562.909445849076",
+    "areain": "0.87251138608884"
+  }
+},{
+  "name": "lfncb1.25",
+  "dims": {
+    "diamm": "35.433",
+    "diain": "1.395",
+    "areamm": "986.065422010708",
+    "areain": "1.52840446092552"
+  }
+},{
+  "name": "lfncb1.5",
+  "dims": {
+    "diamm": "40.3352",
+    "diain": "1.588",
+    "areamm": "1277.78654516924",
+    "areain": "1.98057310615854"
+  }
+},{
+  "name": "lfncb2",
+  "dims": {
+    "diamm": "51.6382",
+    "diain": "2.033",
+    "areamm": "2094.2671080756",
+    "areain": "3.2461205097582"
+  }
+},{
+  "name": "lfnca0.375",
+  "dims": {
+    "diamm": "12.573",
+    "diain": "0.495",
+    "areamm": "124.156000065864",
+    "areain": "0.19244218498646"
+  }
+},{
+  "name": "lfnca0.5",
+  "dims": {
+    "diamm": "16.002",
+    "diain": "0.63",
+    "areamm": "201.112198453797",
+    "areain": "0.311724531052447"
+  }
+},{
+  "name": "lfnca0.75",
+  "dims": {
+    "diamm": "20.955",
+    "diain": "0.825",
+    "areamm": "344.877777960734",
+    "areain": "0.534561624962388"
+  }
+},{
+  "name": "lfnca1",
+  "dims": {
+    "diamm": "26.4922",
+    "diain": "1.043",
+    "areamm": "551.221224428734",
+    "areain": "0.854394606653751"
+  }
+},{
+  "name": "lfnca1.25",
+  "dims": {
+    "diamm": "35.1282",
+    "diain": "1.383",
+    "areamm": "969.173821487514",
+    "areain": "1.5022224277505"
+  }
+},{
+  "name": "lfnca1.5",
+  "dims": {
+    "diamm": "40.7162",
+    "diain": "1.603",
+    "areamm": "1302.04009865624",
+    "areain": "2.01816618924955"
+  }
+},{
+  "name": "lfnca2",
+  "dims": {
+    "diamm": "52.4002",
+    "diain": "2.063",
+    "areamm": "2156.5313231071",
+    "areain": "3.34263023607648"
+  }
+},{
+  "name": "lfmc0.375",
+  "dims": {
+    "diamm": "12.5476",
+    "diain": "0.494",
+    "areamm": "123.654866369037",
+    "areain": "0.19166542620286"
+  }
+},{
+  "name": "lfmc0.5",
+  "dims": {
+    "diamm": "16.0528",
+    "diain": "0.632",
+    "areamm": "202.391128131039",
+    "areain": "0.313706876016862"
+  }
+},{
+  "name": "lfmc0.75",
+  "dims": {
+    "diamm": "21.082",
+    "diain": "0.83",
+    "areamm": "349.070782350266",
+    "areain": "0.541060794764502"
+  }
+},{
+  "name": "lfmc1",
+  "dims": {
+    "diamm": "26.7716",
+    "diain": "1.054",
+    "areamm": "562.909445849076",
+    "areain": "0.87251138608884"
+  }
+},{
+  "name": "lfmc1.25",
+  "dims": {
+    "diamm": "35.433",
+    "diain": "1.395",
+    "areamm": "986.065422010708",
+    "areain": "1.52840446092552"
+  }
+},{
+  "name": "lfnca1.5",
+  "dims": {
+    "diamm": "40.7162",
+    "diain": "1.603",
+    "areamm": "1302.04009865624",
+    "areain": "2.01816618924955"
+  }
+},{
+  "name": "lfnca2",
+  "dims": {
+    "diamm": "52.4002",
+    "diain": "2.063",
+    "areamm": "2156.5313231071",
+    "areain": "3.34263023607648"
+  }
+},{
+  "name": "lfmc0.375",
+  "dims": {
+    "diamm": "12.5476",
+    "diain": "0.494",
+    "areamm": "123.654866369037",
+    "areain": "0.19166542620286"
+  }
+},{
+  "name": "lfmc0.5",
+  "dims": {
+    "diamm": "16.0528",
+    "diain": "0.632",
+    "areamm": "202.391128131039",
+    "areain": "0.313706876016862"
+  }
+},{
+  "name": "lfmc0.75",
+  "dims": {
+    "diamm": "21.082",
+    "diain": "0.83",
+    "areamm": "349.070782350266",
+    "areain": "0.541060794764502"
+  }
+},{
+  "name": "lfmc1",
+  "dims": {
+    "diamm": "26.7716",
+    "diain": "1.054",
+    "areamm": "562.909445849076",
+    "areain": "0.87251138608884"
+  }
+},{
+  "name": "lfmc1.25",
+  "dims": {
+    "diamm": "35.433",
+    "diain": "1.395",
+    "areamm": "986.065422010708",
+    "areain": "1.52840446092552"
+  }
+},{
+  "name": "lfmc1.5",
+  "dims": {
+    "diamm": "40.3352",
+    "diain": "1.588",
+    "areamm": "1277.78654516924",
+    "areain": "1.98057310615854"
+  }
+},{
+  "name": "lfmc2",
+  "dims": {
+    "diamm": "51.6382",
+    "diain": "2.033",
+    "areamm": "2094.2671080756",
+    "areain": "3.2461205097582"
+  }
+},{
+  "name": "lfmc2.5",
+  "dims": {
+    "diamm": "63.3222",
+    "diain": "2.493",
+    "areamm": "3149.21181125742",
+    "areain": "4.88128807002515"
+  }
+},{
+  "name": "lfmc3",
+  "dims": {
+    "diamm": "78.359",
+    "diain": "3.085",
+    "areamm": "4822.44908775368",
+    "areain": "7.47481103564028"
+  }
+},{
+  "name": "lfmc3.5",
+  "dims": {
+    "diamm": "89.408",
+    "diain": "3.52",
+    "areamm": "6278.30834900964",
+    "areain": "9.73139740375974"
+  }
+},{
+  "name": "lfmc4",
+  "dims": {
+    "diamm": "102.108",
+    "diain": "4.02",
+    "areamm": "8188.5955452072",
+    "areain": "12.6923484797681"
+  }
+},{
+  "name": "rmc0.5",
+  "dims": {
+    "diamm": "16.0528",
+    "diain": "0.632",
+    "areamm": "202.391128131039",
+    "areain": "0.313706876016862"
+  }
+},{
+  "name": "rmc0.75",
+  "dims": {
+    "diamm": "21.2344",
+    "diain": "0.836",
+    "areamm": "354.135830311325",
+    "areain": "0.548911634805823"
+  }
+},{
+  "name": "rmc1",
+  "dims": {
+    "diamm": "27.0002",
+    "diain": "1.063",
+    "areamm": "572.56374344832",
+    "areain": "0.887475577296051"
+  }
+},{
+  "name": "rmc1.25",
+  "dims": {
+    "diamm": "35.4076",
+    "diain": "1.394",
+    "areamm": "984.652214851505",
+    "areain": "1.5262139854478"
+  }
+},{
+  "name": "rmc1.5",
+  "dims": {
+    "diamm": "41.2496",
+    "diain": "1.624",
+    "areamm": "1336.37814439224",
+    "areain": "2.07139026658851"
+  }
+},{
+  "name": "rmc2",
+  "dims": {
+    "diamm": "52.9082",
+    "diain": "2.083",
+    "areamm": "2198.54750727386",
+    "areain": "3.40775545178539"
+  }
+},{
+  "name": "rmc2.5",
+  "dims": {
+    "diamm": "63.2206",
+    "diain": "2.489",
+    "areamm": "3139.11414461397",
+    "areain": "4.86563665542496"
+  }
+},{
+  "name": "rmc3",
+  "dims": {
+    "diamm": "78.486",
+    "diain": "3.09",
+    "areamm": "4838.09368117082",
+    "areain": "7.49906020393518"
+  }
+},{
+  "name": "rmc3.5",
+  "dims": {
+    "diamm": "90.678",
+    "diain": "3.57",
+    "areamm": "6457.9361503497",
+    "areain": "10.0098210526841"
+  }
+},{
+  "name": "rmc4",
+  "dims": {
+    "diamm": "102.87",
+    "diain": "4.05",
+    "areamm": "8311.26942589671",
+    "areain": "12.8824933751266"
+  }
+},{
+  "name": "rmc5",
+  "dims": {
+    "diamm": "128.8542",
+    "diain": "5.073",
+    "areamm": "13040.2836813347",
+    "areain": "20.2124801310291"
+  }
+},{
+  "name": "rmc6",
+  "dims": {
+    "diamm": "154.7622",
+    "diain": "6.093",
+    "areamm": "18811.3373071694",
+    "areain": "29.1576311413749"
+  }
+},{
+  "name": "pvcsch800.5",
+  "dims": {
+    "diamm": "13.3604",
+    "diain": "0.526",
+    "areamm": "140.193798486779",
+    "areain": "0.217300822256152"
+  }
+},{
+  "name": "pvcsch800.75",
+  "dims": {
+    "diamm": "18.3388",
+    "diain": "0.722",
+    "areamm": "264.13850153386",
+    "areain": "0.409415496208475"
+  }
+},{
+  "name": "pvcsch801",
+  "dims": {
+    "diamm": "23.7744",
+    "diain": "0.936",
+    "areamm": "443.924395607401",
+    "areain": "0.688084189359851"
+  }
+},{
+  "name": "pvcsch801.25",
+  "dims": {
+    "diamm": "31.877",
+    "diain": "1.255",
+    "areamm": "798.076947265536",
+    "areain": "1.23702174230507"
+  }
+},{
+  "name": "pvcsch801.5",
+  "dims": {
+    "diamm": "37.4904",
+    "diain": "1.476",
+    "areamm": "1103.90075298231",
+    "areain": "1.71104958922176"
+  }
+},{
+  "name": "pvcsch802",
+  "dims": {
+    "diamm": "48.5902",
+    "diain": "1.913",
+    "areamm": "1854.33098257335",
+    "areain": "2.87421877142624"
+  }
+},{
+  "name": "pvcsch802.5",
+  "dims": {
+    "diamm": "58.166",
+    "diain": "2.29",
+    "areamm": "2657.22469113519",
+    "areain": "4.11870650867256"
+  }
+},{
+  "name": "pvcsch803",
+  "dims": {
+    "diamm": "72.7456",
+    "diain": "2.864",
+    "areamm": "4156.26607046731",
+    "areain": "6.44222529367492"
+  }
+},{
+  "name": "pvcsch803.5",
+  "dims": {
+    "diamm": "84.4804",
+    "diain": "3.326",
+    "areamm": "5605.33798504075",
+    "areain": "8.68829125339567"
+  }
+},{
+  "name": "pvcsch804",
+  "dims": {
+    "diamm": "96.1644",
+    "diain": "3.786",
+    "areamm": "7263.0416370578",
+    "areain": "11.2577370529137"
+  }
+},{
+  "name": "pvcsch805",
+  "dims": {
+    "diamm": "121.1072",
+    "diain": "4.768",
+    "areamm": "11519.3986492862",
+    "areain": "17.8551036166008"
+  }
+},{
+  "name": "pvcsch806",
+  "dims": {
+    "diamm": "145.0086",
+    "diain": "5.709",
+    "areamm": "16514.9552265389",
+    "areain": "25.5982317975989"
+  }
+},{
+  "name": "pvcsch400.5",
+  "dims": {
+    "diamm": "15.2908",
+    "diain": "0.602",
+    "areamm": "183.63281725485",
+    "areain": "0.284631436007889"
+  }
+},{
+  "name": "pvcsch400.75",
+  "dims": {
+    "diamm": "20.4216",
+    "diain": "0.804",
+    "areamm": "327.543821808288",
+    "areain": "0.507693939190725"
+  }
+},{
+  "name": "pvcsch401",
+  "dims": {
+    "diamm": "26.1366",
+    "diain": "1.029",
+    "areamm": "536.522653875074",
+    "areain": "0.831611776729917"
+  }
+},{
+  "name": "pvcsch401.25",
+  "dims": {
+    "diamm": "34.544",
+    "diain": "1.36",
+    "areamm": "937.206153338732",
+    "areain": "1.45267244301992"
+  }
+},{
+  "name": "pvcsch401.5",
+  "dims": {
+    "diamm": "40.386",
+    "diain": "1.59",
+    "areamm": "1281.00717790638",
+    "areain": "1.98556509688509"
+  }
+},{
+  "name": "pvcsch402",
+  "dims": {
+    "diamm": "51.9938",
+    "diain": "2.047",
+    "areamm": "2123.21023928165",
+    "areain": "3.29098245285146"
+  }
+},{
+  "name": "pvcsch402.5",
+  "dims": {
+    "diamm": "62.103",
+    "diain": "2.445",
+    "areamm": "3029.10997773182",
+    "areain": "4.69512985574403"
+  }
+},{
+  "name": "pvcsch403",
+  "dims": {
+    "diamm": "77.2668",
+    "diain": "3.042",
+    "areamm": "4688.95142860318",
+    "areain": "7.26788925011342"
+  }
+},{
+  "name": "pvcsch403.5",
+  "dims": {
+    "diamm": "89.4334",
+    "diain": "3.521",
+    "areamm": "6281.87607636996",
+    "areain": "9.73692739222822"
+  }
+},{
+  "name": "pvcsch404",
+  "dims": {
+    "diamm": "101.5492",
+    "diain": "3.998",
+    "areamm": "8099.21437272432",
+    "areain": "12.5538073853375"
+  }
+},{
+  "name": "pvcsch405",
+  "dims": {
+    "diamm": "127.4064",
+    "diain": "5.016",
+    "areamm": "12748.8898912077",
+    "areain": "19.7608188530096"
+  }
+},{
+  "name": "pvcsch406",
+  "dims": {
+    "diamm": "153.1874",
+    "diain": "6.031",
+    "areamm": "18430.4513756216",
+    "areain": "28.567256766727"
+  }
+},{
+  "name": "pvctypea0.5",
+  "dims": {
+    "diamm": "17.78",
+    "diain": "0.7",
+    "areamm": "248.286664757774",
+    "areain": "0.38484510006475"
+  }
+},{
+  "name": "pvctypea0.75",
+  "dims": {
+    "diamm": "23.114",
+    "diain": "0.91",
+    "areamm": "419.604463440638",
+    "areain": "0.650388219109427"
+  }
+},{
+  "name": "pvctypea1",
+  "dims": {
+    "diamm": "29.845",
+    "diain": "1.175",
+    "areamm": "699.573013328983",
+    "areain": "1.0843403393406"
+  }
+},{
+  "name": "pvctypea1.25",
+  "dims": {
+    "diamm": "38.1",
+    "diain": "1.5",
+    "areamm": "1140.09182796937",
+    "areain": "1.76714586764426"
+  }
+},{
+  "name": "pvctypea1.5",
+  "dims": {
+    "diamm": "43.688",
+    "diain": "1.72",
+    "areamm": "1499.04340616204",
+    "areain": "2.32352192659501"
+  }
+},{
+  "name": "pvctypea2",
+  "dims": {
+    "diamm": "54.737",
+    "diain": "2.155",
+    "areamm": "2353.16220061576",
+    "areain": "3.64740870577183"
+  }
+},{
+  "name": "pvctypea2.5",
+  "dims": {
+    "diamm": "66.929",
+    "diain": "2.635",
+    "areamm": "3518.18403655672",
+    "areain": "5.45319616305525"
+  }
+},{
+  "name": "pvctypea3",
+  "dims": {
+    "diamm": "82.042",
+    "diain": "3.23",
+    "areamm": "5286.42845867628",
+    "areain": "8.19398049890924"
+  }
+},{
+  "name": "pvctypea3.5",
+  "dims": {
+    "diamm": "93.726",
+    "diain": "3.69",
+    "areamm": "6899.37970613944",
+    "areain": "10.694059932636"
+  }
+},{
+  "name": "pvctypea4",
+  "dims": {
+    "diamm": "106.172",
+    "diain": "4.18",
+    "areamm": "8853.39575778312",
+    "areain": "13.7227908701456"
+  }
+},{
+  "name": "pvctypeb2",
+  "dims": {
+    "diamm": "56.4134",
+    "diain": "2.221",
+    "areamm": "2499.50742789878",
+    "areain": "3.87424426173163"
+  }
+},{
+  "name": "pvctypeb3",
+  "dims": {
+    "diamm": "84.582",
+    "diain": "3.33",
+    "areamm": "5618.82856496424",
+    "areain": "8.70920169409797"
+  }
+},{
+  "name": "pvctypeb3.5",
+  "dims": {
+    "diamm": "96.6216",
+    "diain": "3.804",
+    "areamm": "7332.2680128521",
+    "areain": "11.365038149997"
+  }
+},{
+  "name": "pvctypeb4",
+  "dims": {
+    "diamm": "108.9406",
+    "diain": "4.289",
+    "areamm": "9321.14807259508",
+    "areain": "14.4478084081392"
+  }
+},{
+  "name": "pvctypeb5",
+  "dims": {
+    "diamm": "135.0264",
+    "diain": "5.316",
+    "areamm": "14319.4803934183",
+    "areain": "22.1952390002764"
+  }
+},{
+  "name": "pvctypeb6",
+  "dims": {
+    "diamm": "160.9344",
+    "diain": "6.336",
+    "areamm": "20341.7190507912",
+    "areain": "31.5297275881816"
+  }
+}]

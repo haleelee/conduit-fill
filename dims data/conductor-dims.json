@@ -1,0 +1,4900 @@
+{
+"Compact THHN":[
+ {
+  "Size": "#6",
+  "diamm": 6.096,
+  "diain": 0.24,
+  "areamm": 29.16,
+  "areain": 0.0452
+ },
+ {
+  "Size": "#4",
+  "diamm": 7.747,
+  "diain": 0.305,
+  "areamm": 47.1,
+  "areain": 0.073
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.144,
+  "diain": 0.36,
+  "areamm": 65.61,
+  "areain": 0.1017
+ },
+ {
+  "Size": "#1",
+  "diamm": 10.54,
+  "diain": 0.415,
+  "areamm": 87.23,
+  "areain": 0.1352
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 11.43,
+  "diain": 0.45,
+  "areamm": 102.6,
+  "areain": 0.159
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 12.57,
+  "diain": 0.495,
+  "areamm": 124.1,
+  "areain": 0.1924
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 13.72,
+  "diain": 0.54,
+  "areamm": 147.7,
+  "areain": 0.229
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 15.11,
+  "diain": 0.595,
+  "areamm": 179.4,
+  "areain": 0.278
+ },
+ {
+  "Size": 250,
+  "diamm": 17.02,
+  "diain": 0.67,
+  "areamm": 227.4,
+  "areain": 0.3525
+ },
+ {
+  "Size": 300,
+  "diamm": 18.29,
+  "diain": 0.72,
+  "areamm": 262.6,
+  "areain": 0.4071
+ },
+ {
+  "Size": 350,
+  "diamm": 19.56,
+  "diain": 0.77,
+  "areamm": 300.4,
+  "areain": 0.4656
+ },
+ {
+  "Size": 400,
+  "diamm": 20.7,
+  "diain": 0.815,
+  "areamm": 336.5,
+  "areain": 0.5216
+ },
+ {
+  "Size": 500,
+  "diamm": 22.48,
+  "diain": 0.885,
+  "areamm": 396.8,
+  "areain": 0.6151
+ },
+ {
+  "Size": 600,
+  "diamm": 25.02,
+  "diain": 0.985,
+  "areamm": 491.6,
+  "areain": 0.762
+ },
+ {
+  "Size": 700,
+  "diamm": 26.67,
+  "diain": 1.05,
+  "areamm": 558.6,
+  "areain": 0.8659
+ },
+ {
+  "Size": 750,
+  "diamm": 27.3,
+  "diain": 1.075,
+  "areamm": 585.5,
+  "areain": 0.9076
+ },
+ {
+  "Size": 900,
+  "diamm": 30.33,
+  "diain": 1.194,
+  "areamm": 722.3,
+  "areain": 1.1196
+ },
+ {
+  "Size": 1000,
+  "diamm": 31.88,
+  "diain": 1.255,
+  "areamm": 798.1,
+  "areain": 1.237
+ }
+],
+"Compact THHW":[
+ {
+  "Size": "#8",
+  "diamm": 6.477,
+  "diain": 0.255,
+  "areamm": 32.9,
+  "areain": 0.051
+ },
+ {
+  "Size": "#6",
+  "diamm": 7.366,
+  "diain": 0.29,
+  "areamm": 42.58,
+  "areain": 0.066
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.509,
+  "diain": 0.335,
+  "areamm": 56.84,
+  "areain": 0.0881
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.906,
+  "diain": 0.39,
+  "areamm": 77.03,
+  "areain": 0.1194
+ },
+ {
+  "Size": "#1",
+  "diamm": 11.81,
+  "diain": 0.465,
+  "areamm": 109.5,
+  "areain": 0.1698
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 12.7,
+  "diain": 0.5,
+  "areamm": 126.6,
+  "areain": 0.1963
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 13.84,
+  "diain": 0.545,
+  "areamm": 150.5,
+  "areain": 0.2332
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.99,
+  "diain": 0.59,
+  "areamm": 176.3,
+  "areain": 0.2733
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 16.38,
+  "diain": 0.645,
+  "areamm": 210.8,
+  "areain": 0.3267
+ },
+ {
+  "Size": 250,
+  "diamm": 18.41,
+  "diain": 0.725,
+  "areamm": 266.3,
+  "areain": 0.4128
+ },
+ {
+  "Size": 300,
+  "diamm": 19.68,
+  "diain": 0.775,
+  "areamm": 304.3,
+  "areain": 0.4717
+ },
+ {
+  "Size": 350,
+  "diamm": 20.83,
+  "diain": 0.82,
+  "areamm": 340.7,
+  "areain": 0.5281
+ },
+ {
+  "Size": 400,
+  "diamm": 21.97,
+  "diain": 0.865,
+  "areamm": 379.1,
+  "areain": 0.5876
+ },
+ {
+  "Size": 500,
+  "diamm": 23.88,
+  "diain": 0.94,
+  "areamm": 447.7,
+  "areain": 0.6939
+ },
+ {
+  "Size": 600,
+  "diamm": 26.67,
+  "diain": 1.05,
+  "areamm": 558.6,
+  "areain": 0.8659
+ },
+ {
+  "Size": 700,
+  "diamm": 28.19,
+  "diain": 1.11,
+  "areamm": 624.3,
+  "areain": 0.9676
+ },
+ {
+  "Size": 750,
+  "diamm": 29.21,
+  "diain": 1.15,
+  "areamm": 670.1,
+  "areain": 1.0386
+ },
+ {
+  "Size": 900,
+  "diamm": 31.09,
+  "diain": 1.224,
+  "areamm": 759.1,
+  "areain": 1.1766
+ },
+ {
+  "Size": 1000,
+  "diamm": 32.64,
+  "diain": 1.285,
+  "areamm": 836.6,
+  "areain": 1.2968
+ }
+],
+"Compact THW":[
+ {
+  "Size": "#8",
+  "diamm": 6.477,
+  "diain": 0.255,
+  "areamm": 32.9,
+  "areain": 0.051
+ },
+ {
+  "Size": "#6",
+  "diamm": 7.366,
+  "diain": 0.29,
+  "areamm": 42.58,
+  "areain": 0.066
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.509,
+  "diain": 0.335,
+  "areamm": 56.84,
+  "areain": 0.0881
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.906,
+  "diain": 0.39,
+  "areamm": 77.03,
+  "areain": 0.1194
+ },
+ {
+  "Size": "#1",
+  "diamm": 11.81,
+  "diain": 0.465,
+  "areamm": 109.5,
+  "areain": 0.1698
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 12.7,
+  "diain": 0.5,
+  "areamm": 126.6,
+  "areain": 0.1963
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 13.84,
+  "diain": 0.545,
+  "areamm": 150.5,
+  "areain": 0.2332
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.99,
+  "diain": 0.59,
+  "areamm": 176.3,
+  "areain": 0.2733
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 16.38,
+  "diain": 0.645,
+  "areamm": 210.8,
+  "areain": 0.3267
+ },
+ {
+  "Size": 250,
+  "diamm": 18.41,
+  "diain": 0.725,
+  "areamm": 266.3,
+  "areain": 0.4128
+ },
+ {
+  "Size": 300,
+  "diamm": 19.68,
+  "diain": 0.775,
+  "areamm": 304.3,
+  "areain": 0.4717
+ },
+ {
+  "Size": 350,
+  "diamm": 20.83,
+  "diain": 0.82,
+  "areamm": 340.7,
+  "areain": 0.5281
+ },
+ {
+  "Size": 400,
+  "diamm": 21.97,
+  "diain": 0.865,
+  "areamm": 379.1,
+  "areain": 0.5876
+ },
+ {
+  "Size": 500,
+  "diamm": 23.88,
+  "diain": 0.94,
+  "areamm": 447.7,
+  "areain": 0.6939
+ },
+ {
+  "Size": 600,
+  "diamm": 26.67,
+  "diain": 1.05,
+  "areamm": 558.6,
+  "areain": 0.8659
+ },
+ {
+  "Size": 700,
+  "diamm": 28.19,
+  "diain": 1.11,
+  "areamm": 624.3,
+  "areain": 0.9676
+ },
+ {
+  "Size": 750,
+  "diamm": 29.21,
+  "diain": 1.15,
+  "areamm": 670.1,
+  "areain": 1.0386
+ },
+ {
+  "Size": 900,
+  "diamm": 31.09,
+  "diain": 1.224,
+  "areamm": 759.1,
+  "areain": 1.1766
+ },
+ {
+  "Size": 1000,
+  "diamm": 32.64,
+  "diain": 1.285,
+  "areamm": 836.6,
+  "areain": 1.2968
+ }
+],
+"Compact USE":[
+ {
+  "Size": "#8",
+  "diamm": 6.604,
+  "diain": 0.26,
+  "areamm": 34.26,
+  "areain": 0.0531
+ },
+ {
+  "Size": "#6",
+  "diamm": 7.493,
+  "diain": 0.295,
+  "areamm": 44.06,
+  "areain": 0.0683
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.509,
+  "diain": 0.335,
+  "areamm": 56.84,
+  "areain": 0.0881
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.906,
+  "diain": 0.39,
+  "areamm": 77.03,
+  "areain": 0.1194
+ },
+ {
+  "Size": "#1",
+  "diamm": 11.81,
+  "diain": 0.465,
+  "areamm": 109.5,
+  "areain": 0.1698
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 12.7,
+  "diain": 0.5,
+  "areamm": 126.6,
+  "areain": 0.1963
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 13.72,
+  "diain": 0.54,
+  "areamm": 147.7,
+  "areain": 0.229
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.99,
+  "diain": 0.59,
+  "areamm": 176.3,
+  "areain": 0.2733
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 16.26,
+  "diain": 0.64,
+  "areamm": 207.5,
+  "areain": 0.3217
+ },
+ {
+  "Size": 250,
+  "diamm": 18.16,
+  "diain": 0.715,
+  "areamm": 259,
+  "areain": 0.4015
+ },
+ {
+  "Size": 300,
+  "diamm": 19.43,
+  "diain": 0.765,
+  "areamm": 296.5,
+  "areain": 0.4596
+ },
+ {
+  "Size": 350,
+  "diamm": 20.57,
+  "diain": 0.81,
+  "areamm": 332.5,
+  "areain": 0.5153
+ },
+ {
+  "Size": 400,
+  "diamm": 21.72,
+  "diain": 0.855,
+  "areamm": 370.4,
+  "areain": 0.5741
+ },
+ {
+  "Size": 500,
+  "diamm": 23.62,
+  "diain": 0.93,
+  "areamm": 438.3,
+  "areain": 0.6793
+ },
+ {
+  "Size": 600,
+  "diamm": 26.29,
+  "diain": 1.035,
+  "areamm": 542.8,
+  "areain": 0.8413
+ },
+ {
+  "Size": 700,
+  "diamm": 27.94,
+  "diain": 1.1,
+  "areamm": 613.1,
+  "areain": 0.9503
+ },
+ {
+  "Size": 750,
+  "diamm": 28.83,
+  "diain": 1.135,
+  "areamm": 652.8,
+  "areain": 1.0118
+ },
+ {
+  "Size": 900,
+  "diamm": 31.5,
+  "diain": 1.24,
+  "areamm": 779.1,
+  "areain": 1.2076
+ },
+ {
+  "Size": 1000,
+  "diamm": 32.64,
+  "diain": 1.285,
+  "areamm": 836.6,
+  "areain": 1.2968
+ }
+],
+"Compact XHHW":[
+ {
+  "Size": "#8",
+  "diamm": 5.6899999999999995,
+  "diain": 0.224,
+  "areamm": 25.42,
+  "areain": 0.0394
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.604,
+  "diain": 0.26,
+  "areamm": 34.19,
+  "areain": 0.053
+ },
+ {
+  "Size": "#4",
+  "diamm": 7.747,
+  "diain": 0.305,
+  "areamm": 47.1,
+  "areain": 0.073
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.144,
+  "diain": 0.36,
+  "areamm": 65.61,
+  "areain": 0.1017
+ },
+ {
+  "Size": "#1",
+  "diamm": 10.54,
+  "diain": 0.415,
+  "areamm": 87.23,
+  "areain": 0.1352
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 11.43,
+  "diain": 0.45,
+  "areamm": 102.6,
+  "areain": 0.159
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 12.45,
+  "diain": 0.49,
+  "areamm": 121.6,
+  "areain": 0.1885
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 13.72,
+  "diain": 0.54,
+  "areamm": 147.7,
+  "areain": 0.229
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 14.99,
+  "diain": 0.59,
+  "areamm": 176.3,
+  "areain": 0.2733
+ },
+ {
+  "Size": 250,
+  "diamm": 16.76,
+  "diain": 0.66,
+  "areamm": 220.7,
+  "areain": 0.3421
+ },
+ {
+  "Size": 300,
+  "diamm": 18.16,
+  "diain": 0.715,
+  "areamm": 259,
+  "areain": 0.4015
+ },
+ {
+  "Size": 350,
+  "diamm": 19.3,
+  "diain": 0.76,
+  "areamm": 292.6,
+  "areain": 0.4536
+ },
+ {
+  "Size": 400,
+  "diamm": 20.32,
+  "diain": 0.8,
+  "areamm": 324.3,
+  "areain": 0.5026
+ },
+ {
+  "Size": 500,
+  "diamm": 22.35,
+  "diain": 0.88,
+  "areamm": 392.4,
+  "areain": 0.6082
+ },
+ {
+  "Size": 600,
+  "diamm": 24.89,
+  "diain": 0.98,
+  "areamm": 486.6,
+  "areain": 0.7542
+ },
+ {
+  "Size": 700,
+  "diamm": 26.67,
+  "diain": 1.05,
+  "areamm": 558.6,
+  "areain": 0.8659
+ },
+ {
+  "Size": 750,
+  "diamm": 27.69,
+  "diain": 1.09,
+  "areamm": 602,
+  "areain": 0.9331
+ },
+ {
+  "Size": 900,
+  "diamm": 29.69,
+  "diain": 1.169,
+  "areamm": 692.5,
+  "areain": 1.0733
+ },
+ {
+  "Size": 1000,
+  "diamm": 31.24,
+  "diain": 1.23,
+  "areamm": 766.6,
+  "areain": 1.1882
+ }
+],
+"FEP":[
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.353,
+  "diain": 0.132,
+  "areamm": 8.839,
+  "areain": 0.0137
+ },
+ {
+  "Size": "#10",
+  "diamm": 3.962,
+  "diain": 0.156,
+  "areamm": 12.32,
+  "areain": 0.0191
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.232,
+  "diain": 0.206,
+  "areamm": 21.48,
+  "areain": 0.0333
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.198,
+  "diain": 0.244,
+  "areamm": 30.19,
+  "areain": 0.0468
+ },
+ {
+  "Size": "#4",
+  "diamm": 7.417,
+  "diain": 0.292,
+  "areamm": 43.23,
+  "areain": 0.067
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.128,
+  "diain": 0.32,
+  "areamm": 51.87,
+  "areain": 0.0804
+ },
+ {
+  "Size": "#2",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ }
+],
+"FEPB":[
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.353,
+  "diain": 0.132,
+  "areamm": 8.839,
+  "areain": 0.0137
+ },
+ {
+  "Size": "#10",
+  "diamm": 3.962,
+  "diain": 0.156,
+  "areamm": 12.32,
+  "areain": 0.0191
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.232,
+  "diain": 0.206,
+  "areamm": 21.48,
+  "areain": 0.0333
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.198,
+  "diain": 0.244,
+  "areamm": 30.19,
+  "areain": 0.0468
+ },
+ {
+  "Size": "#4",
+  "diamm": 7.417,
+  "diain": 0.292,
+  "areamm": 43.23,
+  "areain": 0.067
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.128,
+  "diain": 0.32,
+  "areamm": 51.87,
+  "areain": 0.0804
+ },
+ {
+  "Size": "#2",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ }
+],
+"FFH-2":[
+ {
+  "Size": "#18",
+  "diamm": 3.454,
+  "diain": 0.136,
+  "areamm": 9.355,
+  "areain": 0.0145
+ },
+ {
+  "Size": "#16",
+  "diamm": 3.759,
+  "diain": 0.148,
+  "areamm": 11.1,
+  "areain": 0.0172
+ }
+],
+"KF-1":[
+ {
+  "Size": "#18",
+  "diamm": 1.473,
+  "diain": 0.058,
+  "areamm": 1.677,
+  "areain": 0.0026
+ },
+ {
+  "Size": "#16",
+  "diamm": 1.753,
+  "diain": 0.069,
+  "areamm": 2.387,
+  "areain": 0.0037
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.134,
+  "diain": 0.084,
+  "areamm": 3.548,
+  "areain": 0.0055
+ },
+ {
+  "Size": "#12",
+  "diamm": 2.616,
+  "diain": 0.103,
+  "areamm": 5.355,
+  "areain": 0.0083
+ },
+ {
+  "Size": "#10",
+  "diamm": 3.226,
+  "diain": 0.127,
+  "areamm": 8.194,
+  "areain": 0.0127
+ }
+],
+"KF-2":[
+ {
+  "Size": "#18",
+  "diamm": 1.6,
+  "diain": 0.063,
+  "areamm": 2,
+  "areain": 0.0031
+ },
+ {
+  "Size": "#16",
+  "diamm": 1.905,
+  "diain": 0.075,
+  "areamm": 2.839,
+  "areain": 0.0044
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.286,
+  "diain": 0.09,
+  "areamm": 4.129,
+  "areain": 0.0064
+ },
+ {
+  "Size": "#12",
+  "diamm": 2.769,
+  "diain": 0.109,
+  "areamm": 6,
+  "areain": 0.0093
+ },
+ {
+  "Size": "#10",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ }
+],
+"KFF-1":[
+ {
+  "Size": "#18",
+  "diamm": 1.473,
+  "diain": 0.058,
+  "areamm": 1.677,
+  "areain": 0.0026
+ },
+ {
+  "Size": "#16",
+  "diamm": 1.753,
+  "diain": 0.069,
+  "areamm": 2.387,
+  "areain": 0.0037
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.134,
+  "diain": 0.084,
+  "areamm": 3.548,
+  "areain": 0.0055
+ },
+ {
+  "Size": "#12",
+  "diamm": 2.616,
+  "diain": 0.103,
+  "areamm": 5.355,
+  "areain": 0.0083
+ },
+ {
+  "Size": "#10",
+  "diamm": 3.226,
+  "diain": 0.127,
+  "areamm": 8.194,
+  "areain": 0.0127
+ }
+],
+"KFF-2":[
+ {
+  "Size": "#18",
+  "diamm": 1.6,
+  "diain": 0.063,
+  "areamm": 2,
+  "areain": 0.0031
+ },
+ {
+  "Size": "#16",
+  "diamm": 1.905,
+  "diain": 0.075,
+  "areamm": 2.839,
+  "areain": 0.0044
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.286,
+  "diain": 0.09,
+  "areamm": 4.129,
+  "areain": 0.0064
+ },
+ {
+  "Size": "#12",
+  "diamm": 2.769,
+  "diain": 0.109,
+  "areamm": 6,
+  "areain": 0.0093
+ },
+ {
+  "Size": "#10",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ }
+],
+"PAF":[
+ {
+  "Size": "#18",
+  "diamm": 2.184,
+  "diain": 0.086,
+  "areamm": 3.742,
+  "areain": 0.0058
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.489,
+  "diain": 0.098,
+  "areamm": 4.839,
+  "areain": 0.0075
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ }
+],
+"PAFF":[
+ {
+  "Size": "#18",
+  "diamm": 2.184,
+  "diain": 0.086,
+  "areamm": 3.742,
+  "areain": 0.0058
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.489,
+  "diain": 0.098,
+  "areamm": 4.839,
+  "areain": 0.0075
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ }
+],
+"PF":[
+ {
+  "Size": "#18",
+  "diamm": 2.184,
+  "diain": 0.086,
+  "areamm": 3.742,
+  "areain": 0.0058
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.489,
+  "diain": 0.098,
+  "areamm": 4.839,
+  "areain": 0.0075
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ }
+],
+"PFA":[
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.353,
+  "diain": 0.132,
+  "areamm": 8.839,
+  "areain": 0.0137
+ },
+ {
+  "Size": "#10",
+  "diamm": 3.962,
+  "diain": 0.156,
+  "areamm": 12.32,
+  "areain": 0.0191
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.232,
+  "diain": 0.206,
+  "areamm": 21.48,
+  "areain": 0.0333
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.198,
+  "diain": 0.244,
+  "areamm": 30.19,
+  "areain": 0.0468
+ },
+ {
+  "Size": "#4",
+  "diamm": 7.417,
+  "diain": 0.292,
+  "areamm": 43.23,
+  "areain": 0.067
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.128,
+  "diain": 0.32,
+  "areamm": 51.87,
+  "areain": 0.0804
+ },
+ {
+  "Size": "#2",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 11.73,
+  "diain": 0.462,
+  "areamm": 108.1,
+  "areain": 0.1676
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 12.9,
+  "diain": 0.508,
+  "areamm": 130.8,
+  "areain": 0.2027
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.22,
+  "diain": 0.56,
+  "areamm": 158.9,
+  "areain": 0.2463
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 15.7,
+  "diain": 0.618,
+  "areamm": 193.5,
+  "areain": 0.3
+ }
+],
+"PFAH":[
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.353,
+  "diain": 0.132,
+  "areamm": 8.839,
+  "areain": 0.0137
+ },
+ {
+  "Size": "#10",
+  "diamm": 3.962,
+  "diain": 0.156,
+  "areamm": 12.32,
+  "areain": 0.0191
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.232,
+  "diain": 0.206,
+  "areamm": 21.48,
+  "areain": 0.0333
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.198,
+  "diain": 0.244,
+  "areamm": 30.19,
+  "areain": 0.0468
+ },
+ {
+  "Size": "#4",
+  "diamm": 7.417,
+  "diain": 0.292,
+  "areamm": 43.23,
+  "areain": 0.067
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.128,
+  "diain": 0.32,
+  "areamm": 51.87,
+  "areain": 0.0804
+ },
+ {
+  "Size": "#2",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#1",
+  "diamm": 10.72,
+  "diain": 0.422,
+  "areamm": 90.26,
+  "areain": 0.1399
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 11.73,
+  "diain": 0.462,
+  "areamm": 108.1,
+  "areain": 0.1676
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 12.9,
+  "diain": 0.508,
+  "areamm": 130.8,
+  "areain": 0.2027
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.22,
+  "diain": 0.56,
+  "areamm": 158.9,
+  "areain": 0.2463
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 15.7,
+  "diain": 0.618,
+  "areamm": 193.5,
+  "areain": 0.3
+ }
+],
+"PFF":[
+ {
+  "Size": "#18",
+  "diamm": 2.184,
+  "diain": 0.086,
+  "areamm": 3.742,
+  "areain": 0.0058
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.489,
+  "diain": 0.098,
+  "areamm": 4.839,
+  "areain": 0.0075
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ }
+],
+"PGF":[
+ {
+  "Size": "#18",
+  "diamm": 2.184,
+  "diain": 0.086,
+  "areamm": 3.742,
+  "areain": 0.0058
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.489,
+  "diain": 0.098,
+  "areamm": 4.839,
+  "areain": 0.0075
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ }
+],
+"PGFF":[
+ {
+  "Size": "#18",
+  "diamm": 2.184,
+  "diain": 0.086,
+  "areamm": 3.742,
+  "areain": 0.0058
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.489,
+  "diain": 0.098,
+  "areamm": 4.839,
+  "areain": 0.0075
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ }
+],
+"PTF":[
+ {
+  "Size": "#18",
+  "diamm": 2.184,
+  "diain": 0.086,
+  "areamm": 3.742,
+  "areain": 0.0058
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.489,
+  "diain": 0.098,
+  "areamm": 4.839,
+  "areain": 0.0075
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ }
+],
+"PTFF":[
+ {
+  "Size": "#18",
+  "diamm": 2.184,
+  "diain": 0.086,
+  "areamm": 3.742,
+  "areain": 0.0058
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.489,
+  "diain": 0.098,
+  "areamm": 4.839,
+  "areain": 0.0075
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ }
+],
+"RFH-1":[
+ {
+  "Size": "#18",
+  "diamm": 2.565,
+  "diain": 0.101,
+  "areamm": 5.161,
+  "areain": 0.008
+ }
+],
+"RFH-2":[
+ {
+  "Size": "#18",
+  "diamm": 3.454,
+  "diain": 0.136,
+  "areamm": 9.355,
+  "areain": 0.0145
+ },
+ {
+  "Size": "#16",
+  "diamm": 3.759,
+  "diain": 0.148,
+  "areamm": 11.1,
+  "areain": 0.0172
+ }
+],
+"RHH":[
+ {
+  "Size": "#14",
+  "diamm": 4.902,
+  "diain": 0.193,
+  "areamm": 18.9,
+  "areain": 0.0293
+ },
+ {
+  "Size": "#12",
+  "diamm": 5.385,
+  "diain": 0.212,
+  "areamm": 22.77,
+  "areain": 0.0353
+ },
+ {
+  "Size": "#10",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#8",
+  "diamm": 8.28,
+  "diain": 0.326,
+  "areamm": 53.87,
+  "areain": 0.0835
+ },
+ {
+  "Size": "#6",
+  "diamm": 9.246,
+  "diain": 0.364,
+  "areamm": 67.16,
+  "areain": 0.1041
+ },
+ {
+  "Size": "#4",
+  "diamm": 10.46,
+  "diain": 0.412,
+  "areamm": 86,
+  "areain": 0.1333
+ },
+ {
+  "Size": "#3",
+  "diamm": 11.18,
+  "diain": 0.44,
+  "areamm": 98.13,
+  "areain": 0.1521
+ },
+ {
+  "Size": "#2",
+  "diamm": 11.99,
+  "diain": 0.472,
+  "areamm": 112.9,
+  "areain": 0.175
+ },
+ {
+  "Size": "#1",
+  "diamm": 14.78,
+  "diain": 0.582,
+  "areamm": 171.6,
+  "areain": 0.266
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 15.8,
+  "diain": 0.622,
+  "areamm": 196.1,
+  "areain": 0.3039
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 16.97,
+  "diain": 0.668,
+  "areamm": 226.1,
+  "areain": 0.3505
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 18.29,
+  "diain": 0.72,
+  "areamm": 262.7,
+  "areain": 0.4072
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 19.76,
+  "diain": 0.778,
+  "areamm": 306.7,
+  "areain": 0.4754
+ },
+ {
+  "Size": 250,
+  "diamm": 22.73,
+  "diain": 0.895,
+  "areamm": 405.9,
+  "areain": 0.6291
+ },
+ {
+  "Size": 300,
+  "diamm": 24.13,
+  "diain": 0.95,
+  "areamm": 457.3,
+  "areain": 0.7088
+ },
+ {
+  "Size": 350,
+  "diamm": 25.43,
+  "diain": 1.001,
+  "areamm": 507.7,
+  "areain": 0.787
+ },
+ {
+  "Size": 400,
+  "diamm": 26.62,
+  "diain": 1.048,
+  "areamm": 556.5,
+  "areain": 0.8626
+ },
+ {
+  "Size": 500,
+  "diamm": 28.78,
+  "diain": 1.133,
+  "areamm": 650.5,
+  "areain": 1.0082
+ },
+ {
+  "Size": 600,
+  "diamm": 31.57,
+  "diain": 1.243,
+  "areamm": 782.9,
+  "areain": 1.2135
+ },
+ {
+  "Size": 700,
+  "diamm": 33.38,
+  "diain": 1.314,
+  "areamm": 874.9,
+  "areain": 1.3561
+ },
+ {
+  "Size": 750,
+  "diamm": 34.24,
+  "diain": 1.348,
+  "areamm": 920.8,
+  "areain": 1.4272
+ },
+ {
+  "Size": 800,
+  "diamm": 35.05,
+  "diain": 1.38,
+  "areamm": 965,
+  "areain": 1.4957
+ },
+ {
+  "Size": 900,
+  "diamm": 36.68,
+  "diain": 1.444,
+  "areamm": 1057,
+  "areain": 1.6377
+ },
+ {
+  "Size": 1000,
+  "diamm": 38.15,
+  "diain": 1.502,
+  "areamm": 1143,
+  "areain": 1.7719
+ },
+ {
+  "Size": 1250,
+  "diamm": 43.92,
+  "diain": 1.729,
+  "areamm": 1515,
+  "areain": 2.3479
+ },
+ {
+  "Size": 1500,
+  "diamm": 47.04,
+  "diain": 1.852,
+  "areamm": 1738,
+  "areain": 2.6938
+ },
+ {
+  "Size": 1750,
+  "diamm": 49.94,
+  "diain": 1.966,
+  "areamm": 1959,
+  "areain": 3.0357
+ },
+ {
+  "Size": 2000,
+  "diamm": 52.63,
+  "diain": 2.072,
+  "areamm": 2175,
+  "areain": 3.3719
+ }
+],
+"RHH (without outer covering)":[
+ {
+  "Size": "#14",
+  "diamm": 4.14,
+  "diain": 0.163,
+  "areamm": 13.48,
+  "areain": 0.0209
+ },
+ {
+  "Size": "#12",
+  "diamm": 4.623,
+  "diain": 0.182,
+  "areamm": 16.77,
+  "areain": 0.026
+ },
+ {
+  "Size": "#10",
+  "diamm": 5.232,
+  "diain": 0.206,
+  "areamm": 21.48,
+  "areain": 0.0333
+ },
+ {
+  "Size": "#8",
+  "diamm": 6.756,
+  "diain": 0.266,
+  "areamm": 35.87,
+  "areain": 0.0556
+ },
+ {
+  "Size": "#6",
+  "diamm": 7.722,
+  "diain": 0.304,
+  "areamm": 46.84,
+  "areain": 0.0726
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#3",
+  "diamm": 9.652,
+  "diain": 0.38,
+  "areamm": 73.16,
+  "areain": 0.1134
+ },
+ {
+  "Size": "#2",
+  "diamm": 10.46,
+  "diain": 0.412,
+  "areamm": 86,
+  "areain": 0.1333
+ },
+ {
+  "Size": "#1",
+  "diamm": 12.5,
+  "diain": 0.492,
+  "areamm": 122.6,
+  "areain": 0.1901
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 13.51,
+  "diain": 0.532,
+  "areamm": 143.4,
+  "areain": 0.2223
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 14.68,
+  "diain": 0.578,
+  "areamm": 169.3,
+  "areain": 0.2624
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 16,
+  "diain": 0.63,
+  "areamm": 201.1,
+  "areain": 0.3117
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 17.48,
+  "diain": 0.688,
+  "areamm": 239.9,
+  "areain": 0.3718
+ },
+ {
+  "Size": 250,
+  "diamm": 19.43,
+  "diain": 0.765,
+  "areamm": 296.5,
+  "areain": 0.4596
+ },
+ {
+  "Size": 300,
+  "diamm": 20.83,
+  "diain": 0.82,
+  "areamm": 340.7,
+  "areain": 0.5281
+ },
+ {
+  "Size": 350,
+  "diamm": 22.12,
+  "diain": 0.871,
+  "areamm": 384.4,
+  "areain": 0.5958
+ },
+ {
+  "Size": 400,
+  "diamm": 23.32,
+  "diain": 0.918,
+  "areamm": 427,
+  "areain": 0.6619
+ },
+ {
+  "Size": 500,
+  "diamm": 25.48,
+  "diain": 1.003,
+  "areamm": 509.7,
+  "areain": 0.7901
+ },
+ {
+  "Size": 600,
+  "diamm": 28.27,
+  "diain": 1.113,
+  "areamm": 627.7,
+  "areain": 0.9729
+ },
+ {
+  "Size": 700,
+  "diamm": 30.07,
+  "diain": 1.184,
+  "areamm": 710.3,
+  "areain": 1.101
+ },
+ {
+  "Size": 750,
+  "diamm": 30.94,
+  "diain": 1.218,
+  "areamm": 751.7,
+  "areain": 1.1652
+ },
+ {
+  "Size": 800,
+  "diamm": 31.75,
+  "diain": 1.25,
+  "areamm": 791.7,
+  "areain": 1.2272
+ },
+ {
+  "Size": 900,
+  "diamm": 33.38,
+  "diain": 1.314,
+  "areamm": 874.9,
+  "areain": 1.3561
+ },
+ {
+  "Size": 1000,
+  "diamm": 34.85,
+  "diain": 1.372,
+  "areamm": 953.8,
+  "areain": 1.4784
+ },
+ {
+  "Size": 1250,
+  "diamm": 39.09,
+  "diain": 1.539,
+  "areamm": 1200,
+  "areain": 1.8602
+ },
+ {
+  "Size": 1500,
+  "diamm": 42.21,
+  "diain": 1.662,
+  "areamm": 1400,
+  "areain": 2.1695
+ },
+ {
+  "Size": 1750,
+  "diamm": 45.11,
+  "diain": 1.776,
+  "areamm": 1598,
+  "areain": 2.4773
+ },
+ {
+  "Size": 2000,
+  "diamm": 47.8,
+  "diain": 1.882,
+  "areamm": 1795,
+  "areain": 2.7818
+ }
+],
+"RHW":[
+ {
+  "Size": "#14",
+  "diamm": 4.902,
+  "diain": 0.193,
+  "areamm": 18.9,
+  "areain": 0.0293
+ },
+ {
+  "Size": "#12",
+  "diamm": 5.385,
+  "diain": 0.212,
+  "areamm": 22.77,
+  "areain": 0.0353
+ },
+ {
+  "Size": "#10",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#8",
+  "diamm": 8.28,
+  "diain": 0.326,
+  "areamm": 53.87,
+  "areain": 0.0835
+ },
+ {
+  "Size": "#6",
+  "diamm": 9.246,
+  "diain": 0.364,
+  "areamm": 67.16,
+  "areain": 0.1041
+ },
+ {
+  "Size": "#4",
+  "diamm": 10.46,
+  "diain": 0.412,
+  "areamm": 86,
+  "areain": 0.1333
+ },
+ {
+  "Size": "#3",
+  "diamm": 11.18,
+  "diain": 0.44,
+  "areamm": 98.13,
+  "areain": 0.1521
+ },
+ {
+  "Size": "#2",
+  "diamm": 11.99,
+  "diain": 0.472,
+  "areamm": 112.9,
+  "areain": 0.175
+ },
+ {
+  "Size": "#1",
+  "diamm": 14.78,
+  "diain": 0.582,
+  "areamm": 171.6,
+  "areain": 0.266
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 15.8,
+  "diain": 0.622,
+  "areamm": 196.1,
+  "areain": 0.3039
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 16.97,
+  "diain": 0.668,
+  "areamm": 226.1,
+  "areain": 0.3505
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 18.29,
+  "diain": 0.72,
+  "areamm": 262.7,
+  "areain": 0.4072
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 19.76,
+  "diain": 0.778,
+  "areamm": 306.7,
+  "areain": 0.4754
+ },
+ {
+  "Size": 250,
+  "diamm": 22.73,
+  "diain": 0.895,
+  "areamm": 405.9,
+  "areain": 0.6291
+ },
+ {
+  "Size": 300,
+  "diamm": 24.13,
+  "diain": 0.95,
+  "areamm": 457.3,
+  "areain": 0.7088
+ },
+ {
+  "Size": 350,
+  "diamm": 25.43,
+  "diain": 1.001,
+  "areamm": 507.7,
+  "areain": 0.787
+ },
+ {
+  "Size": 400,
+  "diamm": 26.62,
+  "diain": 1.048,
+  "areamm": 556.5,
+  "areain": 0.8626
+ },
+ {
+  "Size": 500,
+  "diamm": 28.78,
+  "diain": 1.133,
+  "areamm": 650.5,
+  "areain": 1.0082
+ },
+ {
+  "Size": 600,
+  "diamm": 31.57,
+  "diain": 1.243,
+  "areamm": 782.9,
+  "areain": 1.2135
+ },
+ {
+  "Size": 700,
+  "diamm": 33.38,
+  "diain": 1.314,
+  "areamm": 874.9,
+  "areain": 1.3561
+ },
+ {
+  "Size": 750,
+  "diamm": 34.24,
+  "diain": 1.348,
+  "areamm": 920.8,
+  "areain": 1.4272
+ },
+ {
+  "Size": 800,
+  "diamm": 35.05,
+  "diain": 1.38,
+  "areamm": 965,
+  "areain": 1.4957
+ },
+ {
+  "Size": 900,
+  "diamm": 36.68,
+  "diain": 1.444,
+  "areamm": 1057,
+  "areain": 1.6377
+ },
+ {
+  "Size": 1000,
+  "diamm": 38.15,
+  "diain": 1.502,
+  "areamm": 1143,
+  "areain": 1.7719
+ },
+ {
+  "Size": 1250,
+  "diamm": 43.92,
+  "diain": 1.729,
+  "areamm": 1515,
+  "areain": 2.3479
+ },
+ {
+  "Size": 1500,
+  "diamm": 47.04,
+  "diain": 1.852,
+  "areamm": 1738,
+  "areain": 2.6938
+ },
+ {
+  "Size": 1750,
+  "diamm": 49.94,
+  "diain": 1.966,
+  "areamm": 1959,
+  "areain": 3.0357
+ },
+ {
+  "Size": 2000,
+  "diamm": 52.63,
+  "diain": 2.072,
+  "areamm": 2175,
+  "areain": 3.3719
+ }
+],
+"RHW (without outer covering)":[
+ {
+  "Size": "#14",
+  "diamm": 4.14,
+  "diain": 0.163,
+  "areamm": 13.48,
+  "areain": 0.0209
+ },
+ {
+  "Size": "#12",
+  "diamm": 4.623,
+  "diain": 0.182,
+  "areamm": 16.77,
+  "areain": 0.026
+ },
+ {
+  "Size": "#10",
+  "diamm": 5.232,
+  "diain": 0.206,
+  "areamm": 21.48,
+  "areain": 0.0333
+ },
+ {
+  "Size": "#8",
+  "diamm": 6.756,
+  "diain": 0.266,
+  "areamm": 35.87,
+  "areain": 0.0556
+ },
+ {
+  "Size": "#6",
+  "diamm": 7.722,
+  "diain": 0.304,
+  "areamm": 46.84,
+  "areain": 0.0726
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#3",
+  "diamm": 9.652,
+  "diain": 0.38,
+  "areamm": 73.16,
+  "areain": 0.1134
+ },
+ {
+  "Size": "#2",
+  "diamm": 10.46,
+  "diain": 0.412,
+  "areamm": 86,
+  "areain": 0.1333
+ },
+ {
+  "Size": "#1",
+  "diamm": 12.5,
+  "diain": 0.492,
+  "areamm": 122.6,
+  "areain": 0.1901
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 13.51,
+  "diain": 0.532,
+  "areamm": 143.4,
+  "areain": 0.2223
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 14.68,
+  "diain": 0.578,
+  "areamm": 169.3,
+  "areain": 0.2624
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 16,
+  "diain": 0.63,
+  "areamm": 201.1,
+  "areain": 0.3117
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 17.48,
+  "diain": 0.688,
+  "areamm": 239.9,
+  "areain": 0.3718
+ },
+ {
+  "Size": 250,
+  "diamm": 19.43,
+  "diain": 0.765,
+  "areamm": 296.5,
+  "areain": 0.4596
+ },
+ {
+  "Size": 300,
+  "diamm": 20.83,
+  "diain": 0.82,
+  "areamm": 340.7,
+  "areain": 0.5281
+ },
+ {
+  "Size": 350,
+  "diamm": 22.12,
+  "diain": 0.871,
+  "areamm": 384.4,
+  "areain": 0.5958
+ },
+ {
+  "Size": 400,
+  "diamm": 23.32,
+  "diain": 0.918,
+  "areamm": 427,
+  "areain": 0.6619
+ },
+ {
+  "Size": 500,
+  "diamm": 25.48,
+  "diain": 1.003,
+  "areamm": 509.7,
+  "areain": 0.7901
+ },
+ {
+  "Size": 600,
+  "diamm": 28.27,
+  "diain": 1.113,
+  "areamm": 627.7,
+  "areain": 0.9729
+ },
+ {
+  "Size": 700,
+  "diamm": 30.07,
+  "diain": 1.184,
+  "areamm": 710.3,
+  "areain": 1.101
+ },
+ {
+  "Size": 750,
+  "diamm": 30.94,
+  "diain": 1.218,
+  "areamm": 751.7,
+  "areain": 1.1652
+ },
+ {
+  "Size": 800,
+  "diamm": 31.75,
+  "diain": 1.25,
+  "areamm": 791.7,
+  "areain": 1.2272
+ },
+ {
+  "Size": 900,
+  "diamm": 33.38,
+  "diain": 1.314,
+  "areamm": 874.9,
+  "areain": 1.3561
+ },
+ {
+  "Size": 1000,
+  "diamm": 34.85,
+  "diain": 1.372,
+  "areamm": 953.8,
+  "areain": 1.4784
+ },
+ {
+  "Size": 1250,
+  "diamm": 39.09,
+  "diain": 1.539,
+  "areamm": 1200,
+  "areain": 1.8602
+ },
+ {
+  "Size": 1500,
+  "diamm": 42.21,
+  "diain": 1.662,
+  "areamm": 1400,
+  "areain": 2.1695
+ },
+ {
+  "Size": 1750,
+  "diamm": 45.11,
+  "diain": 1.776,
+  "areamm": 1598,
+  "areain": 2.4773
+ },
+ {
+  "Size": 2000,
+  "diamm": 47.8,
+  "diain": 1.882,
+  "areamm": 1795,
+  "areain": 2.7818
+ }
+],
+"RHW-2":[
+ {
+  "Size": "#14",
+  "diamm": 4.902,
+  "diain": 0.193,
+  "areamm": 18.9,
+  "areain": 0.0293
+ },
+ {
+  "Size": "#12",
+  "diamm": 5.385,
+  "diain": 0.212,
+  "areamm": 22.77,
+  "areain": 0.0353
+ },
+ {
+  "Size": "#10",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#8",
+  "diamm": 8.28,
+  "diain": 0.326,
+  "areamm": 53.87,
+  "areain": 0.0835
+ },
+ {
+  "Size": "#6",
+  "diamm": 9.246,
+  "diain": 0.364,
+  "areamm": 67.16,
+  "areain": 0.1041
+ },
+ {
+  "Size": "#4",
+  "diamm": 10.46,
+  "diain": 0.412,
+  "areamm": 86,
+  "areain": 0.1333
+ },
+ {
+  "Size": "#3",
+  "diamm": 11.18,
+  "diain": 0.44,
+  "areamm": 98.13,
+  "areain": 0.1521
+ },
+ {
+  "Size": "#2",
+  "diamm": 11.99,
+  "diain": 0.472,
+  "areamm": 112.9,
+  "areain": 0.175
+ },
+ {
+  "Size": "#1",
+  "diamm": 14.78,
+  "diain": 0.582,
+  "areamm": 171.6,
+  "areain": 0.266
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 15.8,
+  "diain": 0.622,
+  "areamm": 196.1,
+  "areain": 0.3039
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 16.97,
+  "diain": 0.668,
+  "areamm": 226.1,
+  "areain": 0.3505
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 18.29,
+  "diain": 0.72,
+  "areamm": 262.7,
+  "areain": 0.4072
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 19.76,
+  "diain": 0.778,
+  "areamm": 306.7,
+  "areain": 0.4754
+ },
+ {
+  "Size": 250,
+  "diamm": 22.73,
+  "diain": 0.895,
+  "areamm": 405.9,
+  "areain": 0.6291
+ },
+ {
+  "Size": 300,
+  "diamm": 24.13,
+  "diain": 0.95,
+  "areamm": 457.3,
+  "areain": 0.7088
+ },
+ {
+  "Size": 350,
+  "diamm": 25.43,
+  "diain": 1.001,
+  "areamm": 507.7,
+  "areain": 0.787
+ },
+ {
+  "Size": 400,
+  "diamm": 26.62,
+  "diain": 1.048,
+  "areamm": 556.5,
+  "areain": 0.8626
+ },
+ {
+  "Size": 500,
+  "diamm": 28.78,
+  "diain": 1.133,
+  "areamm": 650.5,
+  "areain": 1.0082
+ },
+ {
+  "Size": 600,
+  "diamm": 31.57,
+  "diain": 1.243,
+  "areamm": 782.9,
+  "areain": 1.2135
+ },
+ {
+  "Size": 700,
+  "diamm": 33.38,
+  "diain": 1.314,
+  "areamm": 874.9,
+  "areain": 1.3561
+ },
+ {
+  "Size": 750,
+  "diamm": 34.24,
+  "diain": 1.348,
+  "areamm": 920.8,
+  "areain": 1.4272
+ },
+ {
+  "Size": 800,
+  "diamm": 35.05,
+  "diain": 1.38,
+  "areamm": 965,
+  "areain": 1.4957
+ },
+ {
+  "Size": 900,
+  "diamm": 36.68,
+  "diain": 1.444,
+  "areamm": 1057,
+  "areain": 1.6377
+ },
+ {
+  "Size": 1000,
+  "diamm": 38.15,
+  "diain": 1.502,
+  "areamm": 1143,
+  "areain": 1.7719
+ },
+ {
+  "Size": 1250,
+  "diamm": 43.92,
+  "diain": 1.729,
+  "areamm": 1515,
+  "areain": 2.3479
+ },
+ {
+  "Size": 1500,
+  "diamm": 47.04,
+  "diain": 1.852,
+  "areamm": 1738,
+  "areain": 2.6938
+ },
+ {
+  "Size": 1750,
+  "diamm": 49.94,
+  "diain": 1.966,
+  "areamm": 1959,
+  "areain": 3.0357
+ },
+ {
+  "Size": 2000,
+  "diamm": 52.63,
+  "diain": 2.072,
+  "areamm": 2175,
+  "areain": 3.3719
+ }
+],
+"RHW-2 (without outer covering)":[
+ {
+  "Size": "#14",
+  "diamm": 4.14,
+  "diain": 0.163,
+  "areamm": 13.48,
+  "areain": 0.0209
+ },
+ {
+  "Size": "#12",
+  "diamm": 4.623,
+  "diain": 0.182,
+  "areamm": 16.77,
+  "areain": 0.026
+ },
+ {
+  "Size": "#10",
+  "diamm": 5.232,
+  "diain": 0.206,
+  "areamm": 21.48,
+  "areain": 0.0333
+ },
+ {
+  "Size": "#8",
+  "diamm": 6.756,
+  "diain": 0.266,
+  "areamm": 35.87,
+  "areain": 0.0556
+ },
+ {
+  "Size": "#6",
+  "diamm": 7.722,
+  "diain": 0.304,
+  "areamm": 46.84,
+  "areain": 0.0726
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#3",
+  "diamm": 9.652,
+  "diain": 0.38,
+  "areamm": 73.16,
+  "areain": 0.1134
+ },
+ {
+  "Size": "#2",
+  "diamm": 10.46,
+  "diain": 0.412,
+  "areamm": 86,
+  "areain": 0.1333
+ },
+ {
+  "Size": "#1",
+  "diamm": 12.5,
+  "diain": 0.492,
+  "areamm": 122.6,
+  "areain": 0.1901
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 13.51,
+  "diain": 0.532,
+  "areamm": 143.4,
+  "areain": 0.2223
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 14.68,
+  "diain": 0.578,
+  "areamm": 169.3,
+  "areain": 0.2624
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 16,
+  "diain": 0.63,
+  "areamm": 201.1,
+  "areain": 0.3117
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 17.48,
+  "diain": 0.688,
+  "areamm": 239.9,
+  "areain": 0.3718
+ },
+ {
+  "Size": 250,
+  "diamm": 19.43,
+  "diain": 0.765,
+  "areamm": 296.5,
+  "areain": 0.4596
+ },
+ {
+  "Size": 300,
+  "diamm": 20.83,
+  "diain": 0.82,
+  "areamm": 340.7,
+  "areain": 0.5281
+ },
+ {
+  "Size": 350,
+  "diamm": 22.12,
+  "diain": 0.871,
+  "areamm": 384.4,
+  "areain": 0.5958
+ },
+ {
+  "Size": 400,
+  "diamm": 23.32,
+  "diain": 0.918,
+  "areamm": 427,
+  "areain": 0.6619
+ },
+ {
+  "Size": 500,
+  "diamm": 25.48,
+  "diain": 1.003,
+  "areamm": 509.7,
+  "areain": 0.7901
+ },
+ {
+  "Size": 600,
+  "diamm": 28.27,
+  "diain": 1.113,
+  "areamm": 627.7,
+  "areain": 0.9729
+ },
+ {
+  "Size": 700,
+  "diamm": 30.07,
+  "diain": 1.184,
+  "areamm": 710.3,
+  "areain": 1.101
+ },
+ {
+  "Size": 750,
+  "diamm": 30.94,
+  "diain": 1.218,
+  "areamm": 751.7,
+  "areain": 1.1652
+ },
+ {
+  "Size": 800,
+  "diamm": 31.75,
+  "diain": 1.25,
+  "areamm": 791.7,
+  "areain": 1.2272
+ },
+ {
+  "Size": 900,
+  "diamm": 33.38,
+  "diain": 1.314,
+  "areamm": 874.9,
+  "areain": 1.3561
+ },
+ {
+  "Size": 1000,
+  "diamm": 34.85,
+  "diain": 1.372,
+  "areamm": 953.8,
+  "areain": 1.4784
+ },
+ {
+  "Size": 1250,
+  "diamm": 39.09,
+  "diain": 1.539,
+  "areamm": 1200,
+  "areain": 1.8602
+ },
+ {
+  "Size": 1500,
+  "diamm": 42.21,
+  "diain": 1.662,
+  "areamm": 1400,
+  "areain": 2.1695
+ },
+ {
+  "Size": 1750,
+  "diamm": 45.11,
+  "diain": 1.776,
+  "areamm": 1598,
+  "areain": 2.4773
+ },
+ {
+  "Size": 2000,
+  "diamm": 47.8,
+  "diain": 1.882,
+  "areamm": 1795,
+  "areain": 2.7818
+ }
+],
+"SF-1":[
+ {
+  "Size": "#18",
+  "diamm": 2.311,
+  "diain": 0.091,
+  "areamm": 4.194,
+  "areain": 0.0065
+ }
+],
+"SF-2":[
+ {
+  "Size": "#18",
+  "diamm": 3.073,
+  "diain": 0.121,
+  "areamm": 7.419,
+  "areain": 0.0115
+ },
+ {
+  "Size": "#16",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#14",
+  "diamm": 3.759,
+  "diain": 0.148,
+  "areamm": 11.1,
+  "areain": 0.0172
+ }
+],
+"SFF-1":[
+ {
+  "Size": "#18",
+  "diamm": 2.311,
+  "diain": 0.091,
+  "areamm": 4.194,
+  "areain": 0.0065
+ }
+],
+"SFF-2":[
+ {
+  "Size": "#18",
+  "diamm": 3.073,
+  "diain": 0.121,
+  "areamm": 7.419,
+  "areain": 0.0115
+ },
+ {
+  "Size": "#16",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#14",
+  "diamm": 3.759,
+  "diain": 0.148,
+  "areamm": 11.1,
+  "areain": 0.0172
+ }
+],
+"TF":[
+ {
+  "Size": "#16",
+  "diamm": 2.997,
+  "diain": 0.118,
+  "areamm": 7.032,
+  "areain": 0.0109
+ }
+],
+"TFE":[
+ {
+  "Size": "#14",
+  "diamm": 2.87,
+  "diain": 0.113,
+  "areamm": 6.452,
+  "areain": 0.01
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.353,
+  "diain": 0.132,
+  "areamm": 8.839,
+  "areain": 0.0137
+ },
+ {
+  "Size": "#10",
+  "diamm": 3.962,
+  "diain": 0.156,
+  "areamm": 12.32,
+  "areain": 0.0191
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.232,
+  "diain": 0.206,
+  "areamm": 21.48,
+  "areain": 0.0333
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.198,
+  "diain": 0.244,
+  "areamm": 30.19,
+  "areain": 0.0468
+ },
+ {
+  "Size": "#4",
+  "diamm": 7.417,
+  "diain": 0.292,
+  "areamm": 43.23,
+  "areain": 0.067
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.128,
+  "diain": 0.32,
+  "areamm": 51.87,
+  "areain": 0.0804
+ },
+ {
+  "Size": "#2",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#1",
+  "diamm": 10.72,
+  "diain": 0.422,
+  "areamm": 90.26,
+  "areain": 0.1399
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 11.73,
+  "diain": 0.462,
+  "areamm": 108.1,
+  "areain": 0.1676
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 12.9,
+  "diain": 0.508,
+  "areamm": 130.8,
+  "areain": 0.2027
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.22,
+  "diain": 0.56,
+  "areamm": 158.9,
+  "areain": 0.2463
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 15.7,
+  "diain": 0.618,
+  "areamm": 193.5,
+  "areain": 0.3
+ }
+],
+"TFF":[
+ {
+  "Size": "#16",
+  "diamm": 2.997,
+  "diain": 0.118,
+  "areamm": 7.032,
+  "areain": 0.0109
+ }
+],
+"TFFN":[
+ {
+  "Size": "#18",
+  "diamm": 2.134,
+  "diain": 0.084,
+  "areamm": 3.548,
+  "areain": 0.0055
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.438,
+  "diain": 0.096,
+  "areamm": 4.645,
+  "areain": 0.0072
+ }
+],
+"TFN":[
+ {
+  "Size": "#18",
+  "diamm": 2.134,
+  "diain": 0.084,
+  "areamm": 3.548,
+  "areain": 0.0055
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.438,
+  "diain": 0.096,
+  "areamm": 4.645,
+  "areain": 0.0072
+ }
+],
+"THHN":[
+ {
+  "Size": "#14",
+  "diamm": 2.819,
+  "diain": 0.111,
+  "areamm": 6.258,
+  "areain": 0.0097
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.302,
+  "diain": 0.13,
+  "areamm": 8.581,
+  "areain": 0.0133
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.166,
+  "diain": 0.164,
+  "areamm": 13.61,
+  "areain": 0.0211
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.486,
+  "diain": 0.216,
+  "areamm": 23.61,
+  "areain": 0.0366
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.452,
+  "diain": 0.254,
+  "areamm": 32.71,
+  "areain": 0.0507
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.23,
+  "diain": 0.324,
+  "areamm": 53.16,
+  "areain": 0.0824
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.754,
+  "diain": 0.384,
+  "areamm": 74.71,
+  "areain": 0.1158
+ },
+ {
+  "Size": "#1",
+  "diamm": 11.33,
+  "diain": 0.446,
+  "areamm": 100.8,
+  "areain": 0.1562
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 12.34,
+  "diain": 0.486,
+  "areamm": 119.7,
+  "areain": 0.1855
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 13.51,
+  "diain": 0.532,
+  "areamm": 143.4,
+  "areain": 0.2223
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.83,
+  "diain": 0.584,
+  "areamm": 172.8,
+  "areain": 0.2679
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 16.31,
+  "diain": 0.642,
+  "areamm": 208.8,
+  "areain": 0.3237
+ },
+ {
+  "Size": 250,
+  "diamm": 18.06,
+  "diain": 0.711,
+  "areamm": 256.1,
+  "areain": 0.397
+ },
+ {
+  "Size": 300,
+  "diamm": 19.46,
+  "diain": 0.766,
+  "areamm": 297.3,
+  "areain": 0.4608
+ },
+ {
+  "Size": 350,
+  "diamm": 20.75,
+  "diain": 0.817,
+  "areamm": 338.2,
+  "areain": 0.5242
+ },
+ {
+  "Size": 400,
+  "diamm": 21.95,
+  "diain": 0.864,
+  "areamm": 378.3,
+  "areain": 0.5863
+ },
+ {
+  "Size": 500,
+  "diamm": 24.1,
+  "diain": 0.949,
+  "areamm": 456.3,
+  "areain": 0.7073
+ },
+ {
+  "Size": 600,
+  "diamm": 26.7,
+  "diain": 1.051,
+  "areamm": 559.7,
+  "areain": 0.8676
+ },
+ {
+  "Size": 700,
+  "diamm": 28.5,
+  "diain": 1.122,
+  "areamm": 637.9,
+  "areain": 0.9887
+ },
+ {
+  "Size": 750,
+  "diamm": 29.36,
+  "diain": 1.156,
+  "areamm": 677.2,
+  "areain": 1.0496
+ },
+ {
+  "Size": 800,
+  "diamm": 30.18,
+  "diain": 1.188,
+  "areamm": 715.2,
+  "areain": 1.1085
+ },
+ {
+  "Size": 900,
+  "diamm": 31.8,
+  "diain": 1.252,
+  "areamm": 794.3,
+  "areain": 1.2311
+ },
+ {
+  "Size": 1000,
+  "diamm": 33.27,
+  "diain": 1.31,
+  "areamm": 869.5,
+  "areain": 1.3478
+ }
+],
+"THHW":[
+ {
+  "Size": "#14",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.861,
+  "diain": 0.152,
+  "areamm": 11.68,
+  "areain": 0.0181
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.47,
+  "diain": 0.176,
+  "areamm": 15.68,
+  "areain": 0.0243
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#6",
+  "diamm": 7.722,
+  "diain": 0.304,
+  "areamm": 46.84,
+  "areain": 0.0726
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#3",
+  "diamm": 9.652,
+  "diain": 0.38,
+  "areamm": 73.16,
+  "areain": 0.1134
+ },
+ {
+  "Size": "#2",
+  "diamm": 10.46,
+  "diain": 0.412,
+  "areamm": 86,
+  "areain": 0.1333
+ },
+ {
+  "Size": "#1",
+  "diamm": 12.5,
+  "diain": 0.492,
+  "areamm": 122.6,
+  "areain": 0.1901
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 13.51,
+  "diain": 0.532,
+  "areamm": 143.4,
+  "areain": 0.2223
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 14.68,
+  "diain": 0.578,
+  "areamm": 169.3,
+  "areain": 0.2624
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 16,
+  "diain": 0.63,
+  "areamm": 201.1,
+  "areain": 0.3117
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 17.48,
+  "diain": 0.688,
+  "areamm": 239.9,
+  "areain": 0.3718
+ },
+ {
+  "Size": 250,
+  "diamm": 19.43,
+  "diain": 0.765,
+  "areamm": 296.5,
+  "areain": 0.4596
+ },
+ {
+  "Size": 300,
+  "diamm": 20.83,
+  "diain": 0.82,
+  "areamm": 340.7,
+  "areain": 0.5281
+ },
+ {
+  "Size": 350,
+  "diamm": 22.12,
+  "diain": 0.871,
+  "areamm": 384.4,
+  "areain": 0.5958
+ },
+ {
+  "Size": 400,
+  "diamm": 23.32,
+  "diain": 0.918,
+  "areamm": 427,
+  "areain": 0.6619
+ },
+ {
+  "Size": 500,
+  "diamm": 25.48,
+  "diain": 1.003,
+  "areamm": 509.7,
+  "areain": 0.7901
+ },
+ {
+  "Size": 600,
+  "diamm": 28.27,
+  "diain": 1.113,
+  "areamm": 627.7,
+  "areain": 0.9729
+ },
+ {
+  "Size": 700,
+  "diamm": 30.07,
+  "diain": 1.184,
+  "areamm": 710.3,
+  "areain": 1.101
+ },
+ {
+  "Size": 750,
+  "diamm": 30.94,
+  "diain": 1.218,
+  "areamm": 751.7,
+  "areain": 1.1652
+ },
+ {
+  "Size": 800,
+  "diamm": 31.75,
+  "diain": 1.25,
+  "areamm": 791.7,
+  "areain": 1.2272
+ },
+ {
+  "Size": 900,
+  "diamm": 33.38,
+  "diain": 1.314,
+  "areamm": 874.9,
+  "areain": 1.3561
+ },
+ {
+  "Size": 1000,
+  "diamm": 34.85,
+  "diain": 1.372,
+  "areamm": 953.8,
+  "areain": 1.4784
+ },
+ {
+  "Size": 1250,
+  "diamm": 39.09,
+  "diain": 1.539,
+  "areamm": 1200,
+  "areain": 1.8602
+ },
+ {
+  "Size": 1500,
+  "diamm": 42.21,
+  "diain": 1.662,
+  "areamm": 1400,
+  "areain": 2.1695
+ },
+ {
+  "Size": 1750,
+  "diamm": 45.11,
+  "diain": 1.776,
+  "areamm": 1598,
+  "areain": 2.4773
+ },
+ {
+  "Size": 2000,
+  "diamm": 47.8,
+  "diain": 1.882,
+  "areamm": 1795,
+  "areain": 2.7818
+ }
+],
+"THW":[
+ {
+  "Size": "#14",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.861,
+  "diain": 0.152,
+  "areamm": 11.68,
+  "areain": 0.0181
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.47,
+  "diain": 0.176,
+  "areamm": 15.68,
+  "areain": 0.0243
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#6",
+  "diamm": 7.722,
+  "diain": 0.304,
+  "areamm": 46.84,
+  "areain": 0.0726
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#3",
+  "diamm": 9.652,
+  "diain": 0.38,
+  "areamm": 73.16,
+  "areain": 0.1134
+ },
+ {
+  "Size": "#2",
+  "diamm": 10.46,
+  "diain": 0.412,
+  "areamm": 86,
+  "areain": 0.1333
+ },
+ {
+  "Size": "#1",
+  "diamm": 12.5,
+  "diain": 0.492,
+  "areamm": 122.6,
+  "areain": 0.1901
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 13.51,
+  "diain": 0.532,
+  "areamm": 143.4,
+  "areain": 0.2223
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 14.68,
+  "diain": 0.578,
+  "areamm": 169.3,
+  "areain": 0.2624
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 16,
+  "diain": 0.63,
+  "areamm": 201.1,
+  "areain": 0.3117
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 17.48,
+  "diain": 0.688,
+  "areamm": 239.9,
+  "areain": 0.3718
+ },
+ {
+  "Size": 250,
+  "diamm": 19.43,
+  "diain": 0.765,
+  "areamm": 296.5,
+  "areain": 0.4596
+ },
+ {
+  "Size": 300,
+  "diamm": 20.83,
+  "diain": 0.82,
+  "areamm": 340.7,
+  "areain": 0.5281
+ },
+ {
+  "Size": 350,
+  "diamm": 22.12,
+  "diain": 0.871,
+  "areamm": 384.4,
+  "areain": 0.5958
+ },
+ {
+  "Size": 400,
+  "diamm": 23.32,
+  "diain": 0.918,
+  "areamm": 427,
+  "areain": 0.6619
+ },
+ {
+  "Size": 500,
+  "diamm": 25.48,
+  "diain": 1.003,
+  "areamm": 509.7,
+  "areain": 0.7901
+ },
+ {
+  "Size": 600,
+  "diamm": 28.27,
+  "diain": 1.113,
+  "areamm": 627.7,
+  "areain": 0.9729
+ },
+ {
+  "Size": 700,
+  "diamm": 30.07,
+  "diain": 1.184,
+  "areamm": 710.3,
+  "areain": 1.101
+ },
+ {
+  "Size": 750,
+  "diamm": 30.94,
+  "diain": 1.218,
+  "areamm": 751.7,
+  "areain": 1.1652
+ },
+ {
+  "Size": 800,
+  "diamm": 31.75,
+  "diain": 1.25,
+  "areamm": 791.7,
+  "areain": 1.2272
+ },
+ {
+  "Size": 900,
+  "diamm": 33.38,
+  "diain": 1.314,
+  "areamm": 874.9,
+  "areain": 1.3561
+ },
+ {
+  "Size": 1000,
+  "diamm": 34.85,
+  "diain": 1.372,
+  "areamm": 953.8,
+  "areain": 1.4784
+ },
+ {
+  "Size": 1250,
+  "diamm": 39.09,
+  "diain": 1.539,
+  "areamm": 1200,
+  "areain": 1.8602
+ },
+ {
+  "Size": 1500,
+  "diamm": 42.21,
+  "diain": 1.662,
+  "areamm": 1400,
+  "areain": 2.1695
+ },
+ {
+  "Size": 1750,
+  "diamm": 45.11,
+  "diain": 1.776,
+  "areamm": 1598,
+  "areain": 2.4773
+ },
+ {
+  "Size": 2000,
+  "diamm": 47.8,
+  "diain": 1.882,
+  "areamm": 1795,
+  "areain": 2.7818
+ }
+],
+"THW-2":[
+ {
+  "Size": "#14",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.861,
+  "diain": 0.152,
+  "areamm": 11.68,
+  "areain": 0.0181
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.47,
+  "diain": 0.176,
+  "areamm": 15.68,
+  "areain": 0.0243
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#6",
+  "diamm": 7.722,
+  "diain": 0.304,
+  "areamm": 46.84,
+  "areain": 0.0726
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#3",
+  "diamm": 9.652,
+  "diain": 0.38,
+  "areamm": 73.16,
+  "areain": 0.1134
+ },
+ {
+  "Size": "#2",
+  "diamm": 10.46,
+  "diain": 0.412,
+  "areamm": 86,
+  "areain": 0.1333
+ },
+ {
+  "Size": "#1",
+  "diamm": 12.5,
+  "diain": 0.492,
+  "areamm": 122.6,
+  "areain": 0.1901
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 13.51,
+  "diain": 0.532,
+  "areamm": 143.4,
+  "areain": 0.2223
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 14.68,
+  "diain": 0.578,
+  "areamm": 169.3,
+  "areain": 0.2624
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 16,
+  "diain": 0.63,
+  "areamm": 201.1,
+  "areain": 0.3117
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 17.48,
+  "diain": 0.688,
+  "areamm": 239.9,
+  "areain": 0.3718
+ },
+ {
+  "Size": 250,
+  "diamm": 19.43,
+  "diain": 0.765,
+  "areamm": 296.5,
+  "areain": 0.4596
+ },
+ {
+  "Size": 300,
+  "diamm": 20.83,
+  "diain": 0.82,
+  "areamm": 340.7,
+  "areain": 0.5281
+ },
+ {
+  "Size": 350,
+  "diamm": 22.12,
+  "diain": 0.871,
+  "areamm": 384.4,
+  "areain": 0.5958
+ },
+ {
+  "Size": 400,
+  "diamm": 23.32,
+  "diain": 0.918,
+  "areamm": 427,
+  "areain": 0.6619
+ },
+ {
+  "Size": 500,
+  "diamm": 25.48,
+  "diain": 1.003,
+  "areamm": 509.7,
+  "areain": 0.7901
+ },
+ {
+  "Size": 600,
+  "diamm": 28.27,
+  "diain": 1.113,
+  "areamm": 627.7,
+  "areain": 0.9729
+ },
+ {
+  "Size": 700,
+  "diamm": 30.07,
+  "diain": 1.184,
+  "areamm": 710.3,
+  "areain": 1.101
+ },
+ {
+  "Size": 750,
+  "diamm": 30.94,
+  "diain": 1.218,
+  "areamm": 751.7,
+  "areain": 1.1652
+ },
+ {
+  "Size": 800,
+  "diamm": 31.75,
+  "diain": 1.25,
+  "areamm": 791.7,
+  "areain": 1.2272
+ },
+ {
+  "Size": 900,
+  "diamm": 33.38,
+  "diain": 1.314,
+  "areamm": 874.9,
+  "areain": 1.3561
+ },
+ {
+  "Size": 1000,
+  "diamm": 34.85,
+  "diain": 1.372,
+  "areamm": 953.8,
+  "areain": 1.4784
+ },
+ {
+  "Size": 1250,
+  "diamm": 39.09,
+  "diain": 1.539,
+  "areamm": 1200,
+  "areain": 1.8602
+ },
+ {
+  "Size": 1500,
+  "diamm": 42.21,
+  "diain": 1.662,
+  "areamm": 1400,
+  "areain": 2.1695
+ },
+ {
+  "Size": 1750,
+  "diamm": 45.11,
+  "diain": 1.776,
+  "areamm": 1598,
+  "areain": 2.4773
+ },
+ {
+  "Size": 2000,
+  "diamm": 47.8,
+  "diain": 1.882,
+  "areamm": 1795,
+  "areain": 2.7818
+ }
+],
+"THWN":[
+ {
+  "Size": "#14",
+  "diamm": 2.819,
+  "diain": 0.111,
+  "areamm": 6.258,
+  "areain": 0.0097
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.302,
+  "diain": 0.13,
+  "areamm": 8.581,
+  "areain": 0.0133
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.166,
+  "diain": 0.164,
+  "areamm": 13.61,
+  "areain": 0.0211
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.486,
+  "diain": 0.216,
+  "areamm": 23.61,
+  "areain": 0.0366
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.452,
+  "diain": 0.254,
+  "areamm": 32.71,
+  "areain": 0.0507
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.23,
+  "diain": 0.324,
+  "areamm": 53.16,
+  "areain": 0.0824
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.754,
+  "diain": 0.384,
+  "areamm": 74.71,
+  "areain": 0.1158
+ },
+ {
+  "Size": "#1",
+  "diamm": 11.33,
+  "diain": 0.446,
+  "areamm": 100.8,
+  "areain": 0.1562
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 12.34,
+  "diain": 0.486,
+  "areamm": 119.7,
+  "areain": 0.1855
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 13.51,
+  "diain": 0.532,
+  "areamm": 143.4,
+  "areain": 0.2223
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.83,
+  "diain": 0.584,
+  "areamm": 172.8,
+  "areain": 0.2679
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 16.31,
+  "diain": 0.642,
+  "areamm": 208.8,
+  "areain": 0.3237
+ },
+ {
+  "Size": 250,
+  "diamm": 18.06,
+  "diain": 0.711,
+  "areamm": 256.1,
+  "areain": 0.397
+ },
+ {
+  "Size": 300,
+  "diamm": 19.46,
+  "diain": 0.766,
+  "areamm": 297.3,
+  "areain": 0.4608
+ },
+ {
+  "Size": 350,
+  "diamm": 20.75,
+  "diain": 0.817,
+  "areamm": 338.2,
+  "areain": 0.5242
+ },
+ {
+  "Size": 400,
+  "diamm": 21.95,
+  "diain": 0.864,
+  "areamm": 378.3,
+  "areain": 0.5863
+ },
+ {
+  "Size": 500,
+  "diamm": 24.1,
+  "diain": 0.949,
+  "areamm": 456.3,
+  "areain": 0.7073
+ },
+ {
+  "Size": 600,
+  "diamm": 26.7,
+  "diain": 1.051,
+  "areamm": 559.7,
+  "areain": 0.8676
+ },
+ {
+  "Size": 700,
+  "diamm": 28.5,
+  "diain": 1.122,
+  "areamm": 637.9,
+  "areain": 0.9887
+ },
+ {
+  "Size": 750,
+  "diamm": 29.36,
+  "diain": 1.156,
+  "areamm": 677.2,
+  "areain": 1.0496
+ },
+ {
+  "Size": 800,
+  "diamm": 30.18,
+  "diain": 1.188,
+  "areamm": 715.2,
+  "areain": 1.1085
+ },
+ {
+  "Size": 900,
+  "diamm": 31.8,
+  "diain": 1.252,
+  "areamm": 794.3,
+  "areain": 1.2311
+ },
+ {
+  "Size": 1000,
+  "diamm": 33.27,
+  "diain": 1.31,
+  "areamm": 869.5,
+  "areain": 1.3478
+ }
+],
+"THWN-2":[
+ {
+  "Size": "#14",
+  "diamm": 2.819,
+  "diain": 0.111,
+  "areamm": 6.258,
+  "areain": 0.0097
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.302,
+  "diain": 0.13,
+  "areamm": 8.581,
+  "areain": 0.0133
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.166,
+  "diain": 0.164,
+  "areamm": 13.61,
+  "areain": 0.0211
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.486,
+  "diain": 0.216,
+  "areamm": 23.61,
+  "areain": 0.0366
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.452,
+  "diain": 0.254,
+  "areamm": 32.71,
+  "areain": 0.0507
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.23,
+  "diain": 0.324,
+  "areamm": 53.16,
+  "areain": 0.0824
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.754,
+  "diain": 0.384,
+  "areamm": 74.71,
+  "areain": 0.1158
+ },
+ {
+  "Size": "#1",
+  "diamm": 11.33,
+  "diain": 0.446,
+  "areamm": 100.8,
+  "areain": 0.1562
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 12.34,
+  "diain": 0.486,
+  "areamm": 119.7,
+  "areain": 0.1855
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 13.51,
+  "diain": 0.532,
+  "areamm": 143.4,
+  "areain": 0.2223
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.83,
+  "diain": 0.584,
+  "areamm": 172.8,
+  "areain": 0.2679
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 16.31,
+  "diain": 0.642,
+  "areamm": 208.8,
+  "areain": 0.3237
+ },
+ {
+  "Size": 250,
+  "diamm": 18.06,
+  "diain": 0.711,
+  "areamm": 256.1,
+  "areain": 0.397
+ },
+ {
+  "Size": 300,
+  "diamm": 19.46,
+  "diain": 0.766,
+  "areamm": 297.3,
+  "areain": 0.4608
+ },
+ {
+  "Size": 350,
+  "diamm": 20.75,
+  "diain": 0.817,
+  "areamm": 338.2,
+  "areain": 0.5242
+ },
+ {
+  "Size": 400,
+  "diamm": 21.95,
+  "diain": 0.864,
+  "areamm": 378.3,
+  "areain": 0.5863
+ },
+ {
+  "Size": 500,
+  "diamm": 24.1,
+  "diain": 0.949,
+  "areamm": 456.3,
+  "areain": 0.7073
+ },
+ {
+  "Size": 600,
+  "diamm": 26.7,
+  "diain": 1.051,
+  "areamm": 559.7,
+  "areain": 0.8676
+ },
+ {
+  "Size": 700,
+  "diamm": 28.5,
+  "diain": 1.122,
+  "areamm": 637.9,
+  "areain": 0.9887
+ },
+ {
+  "Size": 750,
+  "diamm": 29.36,
+  "diain": 1.156,
+  "areamm": 677.2,
+  "areain": 1.0496
+ },
+ {
+  "Size": 800,
+  "diamm": 30.18,
+  "diain": 1.188,
+  "areamm": 715.2,
+  "areain": 1.1085
+ },
+ {
+  "Size": 900,
+  "diamm": 31.8,
+  "diain": 1.252,
+  "areamm": 794.3,
+  "areain": 1.2311
+ },
+ {
+  "Size": 1000,
+  "diamm": 33.27,
+  "diain": 1.31,
+  "areamm": 869.5,
+  "areain": 1.3478
+ }
+],
+"TW":[
+ {
+  "Size": "#14",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.861,
+  "diain": 0.152,
+  "areamm": 11.68,
+  "areain": 0.0181
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.47,
+  "diain": 0.176,
+  "areamm": 15.68,
+  "areain": 0.0243
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#6",
+  "diamm": 7.722,
+  "diain": 0.304,
+  "areamm": 46.84,
+  "areain": 0.0726
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.941,
+  "diain": 0.352,
+  "areamm": 62.77,
+  "areain": 0.0973
+ },
+ {
+  "Size": "#3",
+  "diamm": 9.652,
+  "diain": 0.38,
+  "areamm": 73.16,
+  "areain": 0.1134
+ },
+ {
+  "Size": "#2",
+  "diamm": 10.46,
+  "diain": 0.412,
+  "areamm": 86,
+  "areain": 0.1333
+ },
+ {
+  "Size": "#1",
+  "diamm": 12.5,
+  "diain": 0.492,
+  "areamm": 122.6,
+  "areain": 0.1901
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 13.51,
+  "diain": 0.532,
+  "areamm": 143.4,
+  "areain": 0.2223
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 14.68,
+  "diain": 0.578,
+  "areamm": 169.3,
+  "areain": 0.2624
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 16,
+  "diain": 0.63,
+  "areamm": 201.1,
+  "areain": 0.3117
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 17.48,
+  "diain": 0.688,
+  "areamm": 239.9,
+  "areain": 0.3718
+ },
+ {
+  "Size": 250,
+  "diamm": 19.43,
+  "diain": 0.765,
+  "areamm": 296.5,
+  "areain": 0.4596
+ },
+ {
+  "Size": 300,
+  "diamm": 20.83,
+  "diain": 0.82,
+  "areamm": 340.7,
+  "areain": 0.5281
+ },
+ {
+  "Size": 350,
+  "diamm": 22.12,
+  "diain": 0.871,
+  "areamm": 384.4,
+  "areain": 0.5958
+ },
+ {
+  "Size": 400,
+  "diamm": 23.32,
+  "diain": 0.918,
+  "areamm": 427,
+  "areain": 0.6619
+ },
+ {
+  "Size": 500,
+  "diamm": 25.48,
+  "diain": 1.003,
+  "areamm": 509.7,
+  "areain": 0.7901
+ },
+ {
+  "Size": 600,
+  "diamm": 28.27,
+  "diain": 1.113,
+  "areamm": 627.7,
+  "areain": 0.9729
+ },
+ {
+  "Size": 700,
+  "diamm": 30.07,
+  "diain": 1.184,
+  "areamm": 710.3,
+  "areain": 1.101
+ },
+ {
+  "Size": 750,
+  "diamm": 30.94,
+  "diain": 1.218,
+  "areamm": 751.7,
+  "areain": 1.1652
+ },
+ {
+  "Size": 800,
+  "diamm": 31.75,
+  "diain": 1.25,
+  "areamm": 791.7,
+  "areain": 1.2272
+ },
+ {
+  "Size": 900,
+  "diamm": 33.38,
+  "diain": 1.314,
+  "areamm": 874.9,
+  "areain": 1.3561
+ },
+ {
+  "Size": 1000,
+  "diamm": 34.85,
+  "diain": 1.372,
+  "areamm": 953.8,
+  "areain": 1.4784
+ },
+ {
+  "Size": 1250,
+  "diamm": 39.09,
+  "diain": 1.539,
+  "areamm": 1200,
+  "areain": 1.8602
+ },
+ {
+  "Size": 1500,
+  "diamm": 42.21,
+  "diain": 1.662,
+  "areamm": 1400,
+  "areain": 2.1695
+ },
+ {
+  "Size": 1750,
+  "diamm": 45.11,
+  "diain": 1.776,
+  "areamm": 1598,
+  "areain": 2.4773
+ },
+ {
+  "Size": 2000,
+  "diamm": 47.8,
+  "diain": 1.882,
+  "areamm": 1795,
+  "areain": 2.7818
+ }
+],
+"XF":[
+ {
+  "Size": "#18",
+  "diamm": 2.565,
+  "diain": 0.101,
+  "areamm": 5.161,
+  "areain": 0.008
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.997,
+  "diain": 0.118,
+  "areamm": 7.032,
+  "areain": 0.0109
+ },
+ {
+  "Size": "#14",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#12",
+  "diamm": 4.623,
+  "diain": 0.182,
+  "areamm": 16.77,
+  "areain": 0.026
+ },
+ {
+  "Size": "#10",
+  "diamm": 5.232,
+  "diain": 0.206,
+  "areamm": 21.48,
+  "areain": 0.0333
+ }
+],
+"XFF":[
+ {
+  "Size": "#18",
+  "diamm": 2.565,
+  "diain": 0.101,
+  "areamm": 5.161,
+  "areain": 0.008
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.997,
+  "diain": 0.118,
+  "areamm": 7.032,
+  "areain": 0.0109
+ },
+ {
+  "Size": "#14",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#12",
+  "diamm": 4.623,
+  "diain": 0.182,
+  "areamm": 16.77,
+  "areain": 0.026
+ },
+ {
+  "Size": "#10",
+  "diamm": 5.232,
+  "diain": 0.206,
+  "areamm": 21.48,
+  "areain": 0.0333
+ }
+],
+"XHH":[
+ {
+  "Size": "#14",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.861,
+  "diain": 0.152,
+  "areamm": 11.68,
+  "areain": 0.0181
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.47,
+  "diain": 0.176,
+  "areamm": 15.68,
+  "areain": 0.0243
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.96,
+  "diain": 0.274,
+  "areamm": 38.06,
+  "areain": 0.059
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.179,
+  "diain": 0.322,
+  "areamm": 52.52,
+  "areain": 0.0814
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.89,
+  "diain": 0.35,
+  "areamm": 62.06,
+  "areain": 0.0962
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.703,
+  "diain": 0.382,
+  "areamm": 73.94,
+  "areain": 0.1146
+ },
+ {
+  "Size": "#1",
+  "diamm": 11.23,
+  "diain": 0.442,
+  "areamm": 98.97,
+  "areain": 0.1534
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 12.24,
+  "diain": 0.482,
+  "areamm": 117.7,
+  "areain": 0.1825
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 13.41,
+  "diain": 0.528,
+  "areamm": 141.3,
+  "areain": 0.219
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.73,
+  "diain": 0.58,
+  "areamm": 170.5,
+  "areain": 0.2642
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 16.21,
+  "diain": 0.638,
+  "areamm": 206.3,
+  "areain": 0.3197
+ },
+ {
+  "Size": 250,
+  "diamm": 17.91,
+  "diain": 0.705,
+  "areamm": 251.9,
+  "areain": 0.3904
+ },
+ {
+  "Size": 300,
+  "diamm": 19.3,
+  "diain": 0.76,
+  "areamm": 292.6,
+  "areain": 0.4536
+ },
+ {
+  "Size": 350,
+  "diamm": 20.6,
+  "diain": 0.811,
+  "areamm": 333.3,
+  "areain": 0.5166
+ },
+ {
+  "Size": 400,
+  "diamm": 21.79,
+  "diain": 0.858,
+  "areamm": 373,
+  "areain": 0.5782
+ },
+ {
+  "Size": 500,
+  "diamm": 23.95,
+  "diain": 0.943,
+  "areamm": 450.6,
+  "areain": 0.6984
+ },
+ {
+  "Size": 600,
+  "diamm": 26.75,
+  "diain": 1.053,
+  "areamm": 561.9,
+  "areain": 0.8709
+ },
+ {
+  "Size": 700,
+  "diamm": 28.55,
+  "diain": 1.124,
+  "areamm": 640.2,
+  "areain": 0.9923
+ },
+ {
+  "Size": 750,
+  "diamm": 29.41,
+  "diain": 1.158,
+  "areamm": 679.5,
+  "areain": 1.0532
+ },
+ {
+  "Size": 800,
+  "diamm": 30.23,
+  "diain": 1.19,
+  "areamm": 717.5,
+  "areain": 1.1122
+ },
+ {
+  "Size": 900,
+  "diamm": 31.85,
+  "diain": 1.254,
+  "areamm": 796.8,
+  "areain": 1.2351
+ },
+ {
+  "Size": 1000,
+  "diamm": 33.32,
+  "diain": 1.312,
+  "areamm": 872.2,
+  "areain": 1.3519
+ },
+ {
+  "Size": 1250,
+  "diamm": 37.57,
+  "diain": 1.479,
+  "areamm": 1108,
+  "areain": 1.718
+ },
+ {
+  "Size": 1500,
+  "diamm": 40.69,
+  "diain": 1.602,
+  "areamm": 1300,
+  "areain": 2.0157
+ },
+ {
+  "Size": 1750,
+  "diamm": 43.59,
+  "diain": 1.716,
+  "areamm": 1492,
+  "areain": 2.3127
+ },
+ {
+  "Size": 2000,
+  "diamm": 46.28,
+  "diain": 1.822,
+  "areamm": 1682,
+  "areain": 2.6073
+ }
+],
+"XHHW":[
+ {
+  "Size": "#14",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.861,
+  "diain": 0.152,
+  "areamm": 11.68,
+  "areain": 0.0181
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.47,
+  "diain": 0.176,
+  "areamm": 15.68,
+  "areain": 0.0243
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.96,
+  "diain": 0.274,
+  "areamm": 38.06,
+  "areain": 0.059
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.179,
+  "diain": 0.322,
+  "areamm": 52.52,
+  "areain": 0.0814
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.89,
+  "diain": 0.35,
+  "areamm": 62.06,
+  "areain": 0.0962
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.703,
+  "diain": 0.382,
+  "areamm": 73.94,
+  "areain": 0.1146
+ },
+ {
+  "Size": "#1",
+  "diamm": 11.23,
+  "diain": 0.442,
+  "areamm": 98.97,
+  "areain": 0.1534
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 12.24,
+  "diain": 0.482,
+  "areamm": 117.7,
+  "areain": 0.1825
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 13.41,
+  "diain": 0.528,
+  "areamm": 141.3,
+  "areain": 0.219
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.73,
+  "diain": 0.58,
+  "areamm": 170.5,
+  "areain": 0.2642
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 16.21,
+  "diain": 0.638,
+  "areamm": 206.3,
+  "areain": 0.3197
+ },
+ {
+  "Size": 250,
+  "diamm": 17.91,
+  "diain": 0.705,
+  "areamm": 251.9,
+  "areain": 0.3904
+ },
+ {
+  "Size": 300,
+  "diamm": 19.3,
+  "diain": 0.76,
+  "areamm": 292.6,
+  "areain": 0.4536
+ },
+ {
+  "Size": 350,
+  "diamm": 20.6,
+  "diain": 0.811,
+  "areamm": 333.3,
+  "areain": 0.5166
+ },
+ {
+  "Size": 400,
+  "diamm": 21.79,
+  "diain": 0.858,
+  "areamm": 373,
+  "areain": 0.5782
+ },
+ {
+  "Size": 500,
+  "diamm": 23.95,
+  "diain": 0.943,
+  "areamm": 450.6,
+  "areain": 0.6984
+ },
+ {
+  "Size": 600,
+  "diamm": 26.75,
+  "diain": 1.053,
+  "areamm": 561.9,
+  "areain": 0.8709
+ },
+ {
+  "Size": 700,
+  "diamm": 28.55,
+  "diain": 1.124,
+  "areamm": 640.2,
+  "areain": 0.9923
+ },
+ {
+  "Size": 750,
+  "diamm": 29.41,
+  "diain": 1.158,
+  "areamm": 679.5,
+  "areain": 1.0532
+ },
+ {
+  "Size": 800,
+  "diamm": 30.23,
+  "diain": 1.19,
+  "areamm": 717.5,
+  "areain": 1.1122
+ },
+ {
+  "Size": 900,
+  "diamm": 31.85,
+  "diain": 1.254,
+  "areamm": 796.8,
+  "areain": 1.2351
+ },
+ {
+  "Size": 1000,
+  "diamm": 33.32,
+  "diain": 1.312,
+  "areamm": 872.2,
+  "areain": 1.3519
+ },
+ {
+  "Size": 1250,
+  "diamm": 37.57,
+  "diain": 1.479,
+  "areamm": 1108,
+  "areain": 1.718
+ },
+ {
+  "Size": 1500,
+  "diamm": 40.69,
+  "diain": 1.602,
+  "areamm": 1300,
+  "areain": 2.0157
+ },
+ {
+  "Size": 1750,
+  "diamm": 43.59,
+  "diain": 1.716,
+  "areamm": 1492,
+  "areain": 2.3127
+ },
+ {
+  "Size": 2000,
+  "diamm": 46.28,
+  "diain": 1.822,
+  "areamm": 1682,
+  "areain": 2.6073
+ }
+],
+"XHHW-2":[
+ {
+  "Size": "#14",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.861,
+  "diain": 0.152,
+  "areamm": 11.68,
+  "areain": 0.0181
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.47,
+  "diain": 0.176,
+  "areamm": 15.68,
+  "areain": 0.0243
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.96,
+  "diain": 0.274,
+  "areamm": 38.06,
+  "areain": 0.059
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.179,
+  "diain": 0.322,
+  "areamm": 52.52,
+  "areain": 0.0814
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.89,
+  "diain": 0.35,
+  "areamm": 62.06,
+  "areain": 0.0962
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.703,
+  "diain": 0.382,
+  "areamm": 73.94,
+  "areain": 0.1146
+ },
+ {
+  "Size": "#1",
+  "diamm": 11.23,
+  "diain": 0.442,
+  "areamm": 98.97,
+  "areain": 0.1534
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 12.24,
+  "diain": 0.482,
+  "areamm": 117.7,
+  "areain": 0.1825
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 13.41,
+  "diain": 0.528,
+  "areamm": 141.3,
+  "areain": 0.219
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.73,
+  "diain": 0.58,
+  "areamm": 170.5,
+  "areain": 0.2642
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 16.21,
+  "diain": 0.638,
+  "areamm": 206.3,
+  "areain": 0.3197
+ },
+ {
+  "Size": 250,
+  "diamm": 17.91,
+  "diain": 0.705,
+  "areamm": 251.9,
+  "areain": 0.3904
+ },
+ {
+  "Size": 300,
+  "diamm": 19.3,
+  "diain": 0.76,
+  "areamm": 292.6,
+  "areain": 0.4536
+ },
+ {
+  "Size": 350,
+  "diamm": 20.6,
+  "diain": 0.811,
+  "areamm": 333.3,
+  "areain": 0.5166
+ },
+ {
+  "Size": 400,
+  "diamm": 21.79,
+  "diain": 0.858,
+  "areamm": 373,
+  "areain": 0.5782
+ },
+ {
+  "Size": 500,
+  "diamm": 23.95,
+  "diain": 0.943,
+  "areamm": 450.6,
+  "areain": 0.6984
+ },
+ {
+  "Size": 600,
+  "diamm": 26.75,
+  "diain": 1.053,
+  "areamm": 561.9,
+  "areain": 0.8709
+ },
+ {
+  "Size": 700,
+  "diamm": 28.55,
+  "diain": 1.124,
+  "areamm": 640.2,
+  "areain": 0.9923
+ },
+ {
+  "Size": 750,
+  "diamm": 29.41,
+  "diain": 1.158,
+  "areamm": 679.5,
+  "areain": 1.0532
+ },
+ {
+  "Size": 800,
+  "diamm": 30.23,
+  "diain": 1.19,
+  "areamm": 717.5,
+  "areain": 1.1122
+ },
+ {
+  "Size": 900,
+  "diamm": 31.85,
+  "diain": 1.254,
+  "areamm": 796.8,
+  "areain": 1.2351
+ },
+ {
+  "Size": 1000,
+  "diamm": 33.32,
+  "diain": 1.312,
+  "areamm": 872.2,
+  "areain": 1.3519
+ },
+ {
+  "Size": 1250,
+  "diamm": 37.57,
+  "diain": 1.479,
+  "areamm": 1108,
+  "areain": 1.718
+ },
+ {
+  "Size": 1500,
+  "diamm": 40.69,
+  "diain": 1.602,
+  "areamm": 1300,
+  "areain": 2.0157
+ },
+ {
+  "Size": 1750,
+  "diamm": 43.59,
+  "diain": 1.716,
+  "areamm": 1492,
+  "areain": 2.3127
+ },
+ {
+  "Size": 2000,
+  "diamm": 46.28,
+  "diain": 1.822,
+  "areamm": 1682,
+  "areain": 2.6073
+ }
+],
+"Z":[
+ {
+  "Size": "#14",
+  "diamm": 2.616,
+  "diain": 0.103,
+  "areamm": 5.355,
+  "areain": 0.0083
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.099,
+  "diain": 0.122,
+  "areamm": 7.548,
+  "areain": 0.0117
+ },
+ {
+  "Size": "#10",
+  "diamm": 3.962,
+  "diain": 0.156,
+  "areamm": 12.32,
+  "areain": 0.0191
+ },
+ {
+  "Size": "#8",
+  "diamm": 4.978,
+  "diain": 0.196,
+  "areamm": 19.48,
+  "areain": 0.0302
+ },
+ {
+  "Size": "#6",
+  "diamm": 5.944,
+  "diain": 0.234,
+  "areamm": 27.74,
+  "areain": 0.043
+ },
+ {
+  "Size": "#4",
+  "diamm": 7.163,
+  "diain": 0.282,
+  "areamm": 40.32,
+  "areain": 0.0625
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.382,
+  "diain": 0.33,
+  "areamm": 55.16,
+  "areain": 0.0855
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.195,
+  "diain": 0.362,
+  "areamm": 66.39,
+  "areain": 0.1029
+ },
+ {
+  "Size": "#1",
+  "diamm": 10.21,
+  "diain": 0.402,
+  "areamm": 81.87,
+  "areain": 0.1269
+ },
+ {
+  "Size": "1\/0",
+  "diamm": 11.73,
+  "diain": 0.462,
+  "areamm": 108.1,
+  "areain": 0.1676
+ },
+ {
+  "Size": "2\/0",
+  "diamm": 12.9,
+  "diain": 0.508,
+  "areamm": 130.8,
+  "areain": 0.2027
+ },
+ {
+  "Size": "3\/0",
+  "diamm": 14.22,
+  "diain": 0.56,
+  "areamm": 158.9,
+  "areain": 0.2463
+ },
+ {
+  "Size": "4\/0",
+  "diamm": 15.7,
+  "diain": 0.618,
+  "areamm": 193.5,
+  "areain": 0.3
+ }
+],
+"ZF":[
+ {
+  "Size": "#18",
+  "diamm": 1.9300000000000002,
+  "diain": 0.076,
+  "areamm": 2.903,
+  "areain": 0.0045
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.235,
+  "diain": 0.088,
+  "areamm": 3.935,
+  "areain": 0.0061
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.616,
+  "diain": 0.103,
+  "areamm": 5.355,
+  "areain": 0.0083
+ }
+],
+"ZFF":[
+ {
+  "Size": "#18",
+  "diamm": 1.9300000000000002,
+  "diain": 0.076,
+  "areamm": 2.903,
+  "areain": 0.0045
+ },
+ {
+  "Size": "#16",
+  "diamm": 2.235,
+  "diain": 0.088,
+  "areamm": 3.935,
+  "areain": 0.0061
+ },
+ {
+  "Size": "#14",
+  "diamm": 2.616,
+  "diain": 0.103,
+  "areamm": 5.355,
+  "areain": 0.0083
+ }
+],
+"ZW":[
+ {
+  "Size": "#14",
+  "diamm": 3.378,
+  "diain": 0.133,
+  "areamm": 8.968,
+  "areain": 0.0139
+ },
+ {
+  "Size": "#12",
+  "diamm": 3.861,
+  "diain": 0.152,
+  "areamm": 11.68,
+  "areain": 0.0181
+ },
+ {
+  "Size": "#10",
+  "diamm": 4.47,
+  "diain": 0.176,
+  "areamm": 15.68,
+  "areain": 0.0243
+ },
+ {
+  "Size": "#8",
+  "diamm": 5.994,
+  "diain": 0.236,
+  "areamm": 28.19,
+  "areain": 0.0437
+ },
+ {
+  "Size": "#6",
+  "diamm": 6.96,
+  "diain": 0.274,
+  "areamm": 38.06,
+  "areain": 0.059
+ },
+ {
+  "Size": "#4",
+  "diamm": 8.179,
+  "diain": 0.322,
+  "areamm": 52.52,
+  "areain": 0.0814
+ },
+ {
+  "Size": "#3",
+  "diamm": 8.89,
+  "diain": 0.35,
+  "areamm": 62.06,
+  "areain": 0.0962
+ },
+ {
+  "Size": "#2",
+  "diamm": 9.703,
+  "diain": 0.382,
+  "areamm": 73.94,
+  "areain": 0.1146
+ }
+]
+}

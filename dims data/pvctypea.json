@@ -1,0 +1,102 @@
+[
+    {
+      "name": "pvctypea0.5",
+      "dims": 
+        {
+          "diamm": "17.8",
+          "diain": "0.7",
+          "areamm": "249",
+          "areain": "0.385"
+        }
+    },
+    {
+      "name": "pvctypea0.75",
+      "dims": 
+        {
+          "diamm": "23.1",
+          "diain": "0.91",
+          "areamm": "419",
+          "areain": "0.65"
+        }
+    },
+    {
+      "name": "pvctypea1",
+      "dims": 
+        {
+          "diamm": "29.8",
+          "diain": "1.175",
+          "areamm": "697",
+          "areain": "1.084"
+        }
+    },
+    {
+      "name": "pvctypea1.25",
+      "dims": 
+        {
+          "diamm": "38.1",
+          "diain": "1.5",
+          "areamm": "1140",
+          "areain": "1.767"
+        }
+    },
+    {
+      "name": "pvctypea1.5",
+      "dims": 
+        {
+          "diamm": "43.7",
+          "diain": "1.72",
+          "areamm": "1500",
+          "areain": "2.324"
+        }
+    },
+    {
+      "name": "pvctypea2",
+      "dims": 
+        {
+          "diamm": "54.7",
+          "diain": "2.155",
+          "areamm": "2350",
+          "areain": "3.647"
+        }
+    },
+    {
+      "name": "pvctypea2.5",
+      "dims": 
+        {
+          "diamm": "66.9",
+          "diain": "2.635",
+          "areamm": "3515",
+          "areain": "5.453"
+        }
+    },
+    {
+      "name": "pvctypea3",
+      "dims": 
+        {
+          "diamm": "82",
+          "diain": "3.23",
+          "areamm": "5281",
+          "areain": "8.194"
+        }
+    },
+    {
+      "name": "pvctypea3.5",
+      "dims": 
+        {
+          "diamm": "93.7",
+          "diain": "3.69",
+          "areamm": "6896",
+          "areain": "10.694"
+        }
+    },
+    {
+      "name": "pvctypea4",
+      "dims": 
+        {
+          "diamm": "106.2",
+          "diain": "4.18",
+          "areamm": "8858",
+          "areain": "13.723"
+        }
+    }
+  ]

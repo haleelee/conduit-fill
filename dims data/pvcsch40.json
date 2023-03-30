@@ -1,0 +1,122 @@
+[
+    {
+      "name": "pvcsch400.5",
+      "dims": 
+        {
+          "diamm": "15.3",
+          "diain": "0.602",
+          "areamm": "184",
+          "areain": "0.285"
+        }
+    },
+    {
+      "name": "pvcsch400.75",
+      "dims": 
+        {
+          "diamm": "20.4",
+          "diain": "0.804",
+          "areamm": "327",
+          "areain": "0.508"
+        }
+    },
+    {
+      "name": "pvcsch401",
+      "dims": 
+        {
+          "diamm": "26.1",
+          "diain": "1.029",
+          "areamm": "535",
+          "areain": "0.832"
+        }
+    },
+    {
+      "name": "pvcsch401.25",
+      "dims": 
+        {
+          "diamm": "34.5",
+          "diain": "1.36",
+          "areamm": "935",
+          "areain": "1.453"
+        }
+    },
+    {
+      "name": "pvcsch401.5",
+      "dims": 
+        {
+          "diamm": "40.4",
+          "diain": "1.59",
+          "areamm": "1282",
+          "areain": "1.986"
+        }
+    },
+    {
+      "name": "pvcsch402",
+      "dims": 
+        {
+          "diamm": "52",
+          "diain": "2.047",
+          "areamm": "2124",
+          "areain": "3.291"
+        }
+    },
+    {
+      "name": "pvcsch402.5",
+      "dims": 
+        {
+          "diamm": "62.1",
+          "diain": "2.445",
+          "areamm": "3029",
+          "areain": "4.695"
+        }
+    },
+    {
+      "name": "pvcsch403",
+      "dims": 
+        {
+          "diamm": "77.3",
+          "diain": "3.042",
+          "areamm": "4693",
+          "areain": "7.268"
+        }
+    },
+    {
+      "name": "pvcsch403.5",
+      "dims": 
+        {
+          "diamm": "89.4",
+          "diain": "3.521",
+          "areamm": "6277",
+          "areain": "9.737"
+        }
+    },
+    {
+      "name": "pvcsch404",
+      "dims": 
+        {
+          "diamm": "101.5",
+          "diain": "3.998",
+          "areamm": "8091",
+          "areain": "12.554"
+        }
+    },
+    {
+      "name": "pvcsch405",
+      "dims": 
+        {
+          "diamm": "127.4",
+          "diain": "5.016",
+          "areamm": "12748",
+          "areain": "19.761"
+        }
+    },
+    {
+      "name": "pvcsch406",
+      "dims": 
+        {
+          "diamm": "153.2",
+          "diain": "6.031",
+          "areamm": "18433",
+          "areain": "28.567"
+        }
+    }
+  ]

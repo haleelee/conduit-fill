@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ent0.5",
+    "dims": 
+      {
+        "diamm": "14.2",
+        "diain": "0.56",
+        "areamm": "158",
+        "areain": "0.246"
+      }
+  },
+  {
+    "name": "ent0.75",
+    "dims": 
+      {
+        "diamm": "19.3",
+        "diain": "0.76",
+        "areamm": "293",
+        "areain": "0.454"
+      }
+  },
+  {
+    "name": "ent1",
+    "dims": 
+      {
+        "diamm": "25.4",
+        "diain": "1",
+        "areamm": "507",
+        "areain": "0.785"
+      }
+  },
+  {
+    "name": "ent1.25",
+    "dims": 
+      {
+        "diamm": "34",
+        "diain": "1.34",
+        "areamm": "908",
+        "areain": "1.41"
+      }
+  },
+  {
+    "name": "ent1.5",
+    "dims": 
+      {
+        "diamm": "39.9",
+        "diain": "1.57",
+        "areamm": "1250",
+        "areain": "1.936"
+      }
+  },
+  {
+    "name": "ent2",
+    "dims": 
+      {
+        "diamm": "51.3",
+        "diain": "2.02",
+        "areamm": "2067",
+        "areain": "3.205"
+      }
+  }
+]

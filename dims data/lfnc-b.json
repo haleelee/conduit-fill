@@ -1,0 +1,79 @@
+[
+  {
+    "name": "lfncb0.375",
+    "dims": 
+      {
+        "diamm": "12.5",
+        "diain": "0.494",
+        "areamm": "123",
+        "areain": "0.192"
+      }
+    
+  },
+  {
+    "name": "lfncb0.5",
+    "dims": 
+      {
+        "diamm": "16.1",
+        "diain": "0.632",
+        "areamm": "204",
+        "areain": "0.314"
+      }
+    
+  },
+  {
+    "name": "lfncb0.75",
+    "dims": 
+      {
+        "diamm": "21.1",
+        "diain": "0.83",
+        "areamm": "350",
+        "areain": "0.541"
+      }
+    
+  },
+  {
+    "name": "lfncb1",
+    "dims": 
+      {
+        "diamm": "26.8",
+        "diain": "1.054",
+        "areamm": "564",
+        "areain": "0.873"
+      }
+    
+  },
+  {
+    "name": "lfncb1.25",
+    "dims": 
+      {
+        "diamm": "35.4",
+        "diain": "1.395",
+        "areamm": "984",
+        "areain": "1.528"
+      }
+    
+  },
+  {
+    "name": "lfncb1.5",
+    "dims": 
+      {
+        "diamm": "40.3",
+        "diain": "1.588",
+        "areamm": "1276",
+        "areain": "1.981"
+      }
+    
+  },
+  {
+    "name": "lfncb2",
+    "dims": 
+      {
+        "diamm": "51.6",
+        "diain": "2.033",
+        "areamm": "2091",
+        "areain": "3.246"
+      }
+    
+  }
+]

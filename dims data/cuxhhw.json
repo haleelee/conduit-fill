@@ -1,0 +1,310 @@
+[
+  {
+    "name": "cucuxhhw#14",
+    "dims": 
+      {
+        "diamm": "3.378",
+        "diain": "0.133",
+        "areamm": "8.968",
+        "areain": "0.0139"
+      }
+    
+  },
+  {
+    "name": "cucuxhhw#12",
+    "dims": 
+      {
+        "diamm": "3.861",
+        "diain": "0.152",
+        "areamm": "11.68",
+        "areain": "0.0181"
+      }
+    
+  },
+  {
+    "name": "cucuxhhw#10",
+    "dims": 
+      {
+        "diamm": "4.47",
+        "diain": "0.176",
+        "areamm": "15.68",
+        "areain": "0.0243"
+      }
+    
+  },
+  {
+    "name": "cucuxhhw#8",
+    "dims": 
+      {
+        "diamm": "5.994",
+        "diain": "0.236",
+        "areamm": "28.19",
+        "areain": "0.0437"
+      }
+    
+  },
+  {
+    "name": "cucuxhhw#6",
+    "dims": 
+      {
+        "diamm": "6.96",
+        "diain": "0.274",
+        "areamm": "38.06",
+        "areain": "0.059"
+      }
+    
+  },
+  {
+    "name": "cucuxhhw#4",
+    "dims": 
+      {
+        "diamm": "8.179",
+        "diain": "0.322",
+        "areamm": "52.52",
+        "areain": "0.0814"
+      }
+    
+  },
+  {
+    "name": "cucuxhhw#3",
+    "dims": 
+      {
+        "diamm": "8.89",
+        "diain": "0.35",
+        "areamm": "62.06",
+        "areain": "0.0962"
+      }
+    
+  },
+  {
+    "name": "cucuxhhw#2",
+    "dims": 
+      {
+        "diamm": "9.703",
+        "diain": "0.382",
+        "areamm": "73.94",
+        "areain": "0.1146"
+      }
+    
+  },
+  {
+    "name": "cucuxhhw#1",
+    "dims": 
+      {
+        "diamm": "11.23",
+        "diain": "0.442",
+        "areamm": "98.97",
+        "areain": "0.1534"
+      }
+    
+  },
+  {
+    "name": "cuxhhw1/0",
+    "dims": 
+      {
+        "diamm": "12.24",
+        "diain": "0.482",
+        "areamm": "117.7",
+        "areain": "0.1825"
+      }
+    
+  },
+  {
+    "name": "cuxhhw2/0",
+    "dims": 
+      {
+        "diamm": "13.41",
+        "diain": "0.528",
+        "areamm": "141.3",
+        "areain": "0.219"
+      }
+    
+  },
+  {
+    "name": "cuxhhw3/0",
+    "dims": 
+      {
+        "diamm": "14.73",
+        "diain": "0.58",
+        "areamm": "170.5",
+        "areain": "0.2642"
+      }
+    
+  },
+  {
+    "name": "cuxhhw4/0",
+    "dims": 
+      {
+        "diamm": "16.21",
+        "diain": "0.638",
+        "areamm": "206.3",
+        "areain": "0.3197"
+      }
+    
+  },
+  {
+    "name": "cuxhhw250",
+    "dims": 
+      {
+        "diamm": "17.91",
+        "diain": "0.705",
+        "areamm": "251.9",
+        "areain": "0.3904"
+      }
+    
+  },
+  {
+    "name": "cuxhhw300",
+    "dims": 
+      {
+        "diamm": "19.3",
+        "diain": "0.76",
+        "areamm": "292.6",
+        "areain": "0.4536"
+      }
+    
+  },
+  {
+    "name": "cuxhhw350",
+    "dims": 
+      {
+        "diamm": "20.6",
+        "diain": "0.811",
+        "areamm": "333.3",
+        "areain": "0.5166"
+      }
+    
+  },
+  {
+    "name": "cuxhhw400",
+    "dims": 
+      {
+        "diamm": "21.79",
+        "diain": "0.858",
+        "areamm": "373",
+        "areain": "0.5782"
+      }
+    
+  },
+  {
+    "name": "cuxhhw500",
+    "dims": 
+      {
+        "diamm": "23.95",
+        "diain": "0.943",
+        "areamm": "450.6",
+        "areain": "0.6984"
+      }
+    
+  },
+  {
+    "name": "cuxhhw600",
+    "dims": 
+      {
+        "diamm": "26.75",
+        "diain": "1.053",
+        "areamm": "561.9",
+        "areain": "0.8709"
+      }
+    
+  },
+  {
+    "name": "cuxhhw700",
+    "dims": 
+      {
+        "diamm": "28.55",
+        "diain": "1.124",
+        "areamm": "640.2",
+        "areain": "0.9923"
+      }
+    
+  },
+  {
+    "name": "cuxhhw750",
+    "dims": 
+      {
+        "diamm": "29.41",
+        "diain": "1.158",
+        "areamm": "679.5",
+        "areain": "1.0532"
+      }
+    
+  },
+  {
+    "name": "cuxhhw800",
+    "dims": 
+      {
+        "diamm": "30.23",
+        "diain": "1.19",
+        "areamm": "717.5",
+        "areain": "1.1122"
+      }
+    
+  },
+  {
+    "name": "cuxhhw900",
+    "dims": 
+      {
+        "diamm": "31.85",
+        "diain": "1.254",
+        "areamm": "796.8",
+        "areain": "1.2351"
+      }
+    
+  },
+  {
+    "name": "cuxhhw1000",
+    "dims": 
+      {
+        "diamm": "33.32",
+        "diain": "1.312",
+        "areamm": "872.2",
+        "areain": "1.3519"
+      }
+    
+  },
+  {
+    "name": "cuxhhw1250",
+    "dims": 
+      {
+        "diamm": "37.57",
+        "diain": "1.479",
+        "areamm": "1108",
+        "areain": "1.718"
+      }
+    
+  },
+  {
+    "name": "cuxhhw1500",
+    "dims": 
+      {
+        "diamm": "40.69",
+        "diain": "1.602",
+        "areamm": "1300",
+        "areain": "2.0157"
+      }
+    
+  },
+  {
+    "name": "cuxhhw1750",
+    "dims": 
+      {
+        "diamm": "43.59",
+        "diain": "1.716",
+        "areamm": "1492",
+        "areain": "2.3127"
+      }
+    
+  },
+  {
+    "name": "cuxhhw2000",
+    "dims": 
+      {
+        "diamm": "46.28",
+        "diain": "1.822",
+        "areamm": "1682",
+        "areain": "2.6073"
+      }
+    
+  }
+]

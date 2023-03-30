@@ -1,0 +1,122 @@
+[
+    {
+      "name": "rmc0.5",
+      "dims": 
+        {
+          "diamm": "16.1",
+          "diain": "0.632",
+          "areamm": "204",
+          "areain": "0.314"
+        }
+    },
+    {
+      "name": "rmc0.75",
+      "dims": 
+        {
+          "diamm": "21.2",
+          "diain": "0.836",
+          "areamm": "353",
+          "areain": "0.549"
+        }
+    },
+    {
+      "name": "rmc1",
+      "dims": 
+        {
+          "diamm": "27",
+          "diain": "1.063",
+          "areamm": "573",
+          "areain": "0.887"
+        }
+    },
+    {
+      "name": "rmc1.25",
+      "dims": 
+        {
+          "diamm": "35.4",
+          "diain": "1.394",
+          "areamm": "984",
+          "areain": "1.526"
+        }
+    },
+    {
+      "name": "rmc1.5",
+      "dims": 
+        {
+          "diamm": "41.2",
+          "diain": "1.624",
+          "areamm": "1333",
+          "areain": "2.071"
+        }
+    },
+    {
+      "name": "rmc2",
+      "dims": 
+        {
+          "diamm": "52.9",
+          "diain": "2.083",
+          "areamm": "2198",
+          "areain": "3.408"
+        }
+    },
+    {
+      "name": "rmc2.5",
+      "dims": 
+        {
+          "diamm": "63.2",
+          "diain": "2.489",
+          "areamm": "3137",
+          "areain": "4.866"
+        }
+    },
+    {
+      "name": "rmc3",
+      "dims": 
+        {
+          "diamm": "78.5",
+          "diain": "3.09",
+          "areamm": "4840",
+          "areain": "7.499"
+        }
+    },
+    {
+      "name": "rmc3.5",
+      "dims": 
+        {
+          "diamm": "90.7",
+          "diain": "3.57",
+          "areamm": "6461",
+          "areain": "10.01"
+        }
+    },
+    {
+      "name": "rmc4",
+      "dims": 
+        {
+          "diamm": "102.9",
+          "diain": "4.05",
+          "areamm": "8316",
+          "areain": "12.882"
+        }
+    },
+    {
+      "name": "rmc5",
+      "dims": 
+        {
+          "diamm": "128.9",
+          "diain": "5.073",
+          "areamm": "13050",
+          "areain": "20.212"
+        }
+    },
+    {
+      "name": "rmc6",
+      "dims": 
+        {
+          "diamm": "154.8",
+          "diain": "6.093",
+          "areamm": "18821",
+          "areain": "29.158"
+        }
+    }
+  ]
