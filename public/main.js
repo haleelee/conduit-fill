@@ -82,8 +82,8 @@ function getConduitConductorData(){
     document.getElementById('conduitEffectiveAreaIn').innerHTML = parseFloat(conduitArea * percent).toFixed(3);
     document.getElementById('conductorSingleArea').innerHTML = parseFloat((data[0].dims.areain)).toFixed(3);
     document.getElementById('conductorTotalArea').innerHTML = parseFloat((data[0].dims.areain) * numCables).toFixed(3);
-    document.getElementById('fillValue').innerHTML = "Conduit is filled to percentage " + parseFloat((data[0].dims.areain * numCables / conduitArea).toFixed(2)).toString() + "%.";
-    document.getElementById('percent').innerHTML = "Fill percentage must not exceed " + (percent.toFixed(2)).toString() + "%.";
+    document.getElementById('fillValue').innerHTML = "Conduit is filled to percentage " + parseFloat((data[0].dims.areain * numCables / conduitArea * 100).toFixed(2)).toString() + "%.";
+    document.getElementById('percent').innerHTML = "Fill percentage must not exceed " + ((100 * percent)).toString() + "%.";
   })
   .catch(error => console.error(error));
 }
@@ -287,7 +287,7 @@ voltInsShield.addEventListener("change", function(){
 
   //Add new options based on selected value in 'voltInsShield' select
   var optionDis = document.createElement("option");
-  optionDis.text = "Select Conduit Size";
+  optionDis.text = "Select Conductor Size";
   optionDis.disabled = true; 
   optionDis.selected = true;
 

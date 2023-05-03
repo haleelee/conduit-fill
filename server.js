@@ -16,7 +16,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
   .then(client => {
     console.log('Connected to Database')
     const db = client.db('electrical-data')
-    const dataCollection = db.collection('conduit-conductors')
+    const dataCollection = db.collection('conduit-conductor-1.0')
 
     app.set('view engine', 'ejs');
 
@@ -60,18 +60,43 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
     // })
 
     // GET METHOD FOR TABLES
-
     app.get('/tables', (req, res) => {
-      dataCollection.findOne(
-        { name: req.body.conduitSelection }
-        )
+      dataCollection.findOne()
     .then(result => {
       res.render('tables.ejs', {result});
-      console.log("HEllo CLarice!")
     })
     .catch(error => console.error(error))
     })
-  }) 
+
+
+
+    //POST METHOD FOR TABLES CONDUCTORS
+  //   app.post('/tablespost', (req, res) => {
+  //     dataCollection.find({ type: req.body.conduitSelection })
+  //     .toArray((err, results) => {
+  //       if(err) throw err;
+
+  //       results.forEach((value => {
+  //         console.log(value);
+  //       }))
+  //     })
+  //   })
+  // }) 
+
+      app.post('/tablespost', (req, res) => {
+        const myArray = [];
+        dataCollection.find({ type: req.body.conduitSelection }).forEach(doc => {
+          myArray.push(doc);
+        }, err => {
+          if (err) {
+            console.error(err);
+            return;
+          }
+          console.log(myArray); // an array of documents
+          res.send(myArray);
+        });
+      })
+  }) //end of MongoClient Connect function
 
   
 //LISTEN PORT
