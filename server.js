@@ -83,7 +83,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
   //   })
   // }) 
 
-      app.post('/tablespost', (req, res) => {
+      app.post('/tablesConduitPost', (req, res) => {
         const myArray = [];
         dataCollection.find({ type: req.body.conduitSelection }).forEach(doc => {
           myArray.push(doc);
@@ -96,6 +96,21 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
           res.send(myArray);
         });
       })
+
+      app.post('/tablesConductorPost', (req, res) => {
+        const myArray = [];
+        dataCollection.find({ material: req.body.conductorSelection.slice(0,2), type: req.body.conductorSelection.substring(2) }).forEach(doc => {
+          myArray.push(doc);
+        }, err => {
+          if (err) {
+            console.error(err);
+            return;
+          }
+          console.log(myArray); // an array of documents
+          res.send(myArray);
+        });
+      })
+
   }) //end of MongoClient Connect function
 
   
