@@ -74,9 +74,6 @@ function getConduitData(){
       let newDiaMmText = document.createTextNode(array[i].dims.diamm);
       let newAreaInText = document.createTextNode(array[i].dims.areain);
       let newAreaMmText = document.createTextNode(array[i].dims.areamm);
-
-
-      // let sizeStatus = !(array[i].size) ? 'unknown' : this.ingredients[key].vegetarian // this is an if statement that outputs 'unknown' if the value of vegetarian is falsey. Because it is truthy, then it will output the value
       
       // let newVText = document.createTextNode(vegStatus)
       newSizeCell.appendChild(newSizeText) // this puts the text into the cell
