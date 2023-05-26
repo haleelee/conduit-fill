@@ -92,7 +92,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
             console.error(err);
             return;
           }
-          console.log(myArray); // an array of documents
+          // console.log(myArray); // an array of documents
           res.send(myArray);
         });
       })
@@ -106,7 +106,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
             console.error(err);
             return;
           }
-          console.log(myArray); // an array of documents
+          // console.log(myArray); // an array of documents
           res.send(myArray);
         });
       })
