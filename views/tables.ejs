@@ -34,7 +34,7 @@
 						<!-- CONDUIT -->
 						<div class="formSection" id="formConduit">
 							<h4>Enter your Conduit Information</h4>
-							<select class="selections" id="conduitType" name="conduitType">
+							<select class="tableConduitSelections" id="conduitType" name="conduitType">
 								<option disabled="true" selected="true">Conduit Type</option>
 								<option value="emt">EMT (Electrical Metallic Tubing)</option>
 								<option value="ent">ENT (Electrical Nonmetallic Tubing)</option>
@@ -49,15 +49,18 @@
 								<option value="pvctypea">PVC Type A</option>
 								<option value="pvctypeb">PVC Type EB</option>
 							</select>
+
+
 							<table id="conduit-table">
-								<tr>
-									<th>Type</th>
-									<th>Diameter (in)</th>
-									<th>Diameter (mm)</th>
-									<th>Area (sq in)</th>
-									<th>Area (sq mm)</th>
-								</tr>
-								</tr>
+								<thead>
+									<tr>
+										<th>Size</th>
+										<th>Diameter (in)</th>
+										<th>Diameter (mm)</th>
+										<th>Area (sq in)</th>
+										<th>Area (sq mm)</th>
+									</tr>									
+								</thead>
 							</table>
 						</div>
 
@@ -65,7 +68,7 @@
 						<div id="divToCopy">
 							<div class="formSection" id="formConductors">
 								<h4>Enter your Conductor Information</h4>
-								<select class="selections" name="voltInsShield" id="voltInsShield">
+								<select class="selections" name="conductorType" id="conductorType">
 									<option disabled="true" selected="true">Conductor Type</option>
 									<option value="cuthhn">CU THHN</option>
 									<option value="cuxhhw">CU XHHW</option>
@@ -82,28 +85,23 @@
 									<option value="al8kvmv105">AL 5KV MV105</option>
 									<option value="al5kvmv105133p">AL 5KV MV105 133%</option>
 									<option value="al15kvmv105100p">AL 15KV MV105 100%</option>
-		
-									<!-- These are for Utility Cables -->
-									<!-- <option value="600vrhhrhwuse">600V RHH RHW USE (XLP)</option>
-									<option value="600vsimpullxhhw">600V SIMpull XHHW (XLP)</option>
-									<option value="600vsimpullxhhw">600V SIMpull XHHW (XLP)</option>
-									<option value="600vthhnthwn">600V THHN THWN</option>
-									<option value="1kvnonshielded">1 kV Non Shielded</option>
-									<option value="2.4kvnonshielded">2.4kV Non Shielded</option>
-									<option value="5kv115mil">5kV 115 Mil EPR 133% CU Tape</option>
-									<option value="15kv175mil">15kV 175 Mil EPR 100% CU Tape</option>
-									<option value="15kv220mil">15kV 220 Mil EPR 133% CU Tape</option>
-									<option value="25kv320mil">25kV 320 Mil EPR 133% CU Tape</option>
-									<option value="28kv280mil">28kV 280 Mil EPR 100% CU Tape</option>
-									<option value="35kv345mil">35kV 345 Mil EPR 100% CU Tape</option>
-									<option value="35kv420mil">35kV 420 Mil EPR 133% CU Tape</option>
-									<option value="2kvxlp">2kV XLP RHH / RHW-2</option> -->
-								</select>		
+								</select>	
+								<table id="conductor-table">
+									<thead>
+										<tr>
+											<th>Size</th>
+											<th>Diameter (in)</th>
+											<th>Diameter (mm)</th>
+											<th>Area (sq in)</th>
+											<th>Area (sq mm)</th>
+										</tr>									
+									</thead>
+								</table>	
 							</div>
 						</div>
 
 							<br><br>
-							<input type="submit" id="myButton" value="Calculate">	
+							<!-- <input type="submit" id="myButton" value="Calculate">	 -->
 					</form>
 				</div>
 			</div>
