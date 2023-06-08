@@ -59,7 +59,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
     // .catch(error => console.error(error))
     // })
 
-    // GET METHOD FOR TABLES
+    // GET METHOD FOR TABLES 
     app.get('/tables', (req, res) => {
       dataCollection.findOne()
     .then(result => {
