@@ -1,9 +1,3 @@
-// document.getElementById('myButton').addEventListener('keyup', function (event){
-//   if (event.keyCode === 13){
-//     event.preventDefault();
-//     document.getElementById("myButton").click();
-//     }
-// });
 var form = document.getElementById('form');
 let conductorFormCounter = 1;
 
@@ -20,7 +14,6 @@ form.addEventListener('submit', function(event){
 function getConduitConductorData(){
   const numCables = document.querySelector('#numCables').value;
   const wireSize = document.querySelector('#wireSize').value;
-  // const cuOrAl = document.querySelector('#cuOrAl').value;
   const voltInsShield = document.querySelector('#voltInsShield').value;
   const conductorSelection = voltInsShield + wireSize;
 
@@ -31,7 +24,6 @@ function getConduitConductorData(){
 
   console.log(numCables);
   console.log(wireSize);
-  // console.log(cuOrAl);
   console.log(conductorSelection);
   console.log(conduitSelection);
 
@@ -40,7 +32,6 @@ function getConduitConductorData(){
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       numCables: numCables,
-      // cuOrAl: cuOrAl,
       conductorSelection: conductorSelection,
       conduitSelection: conduitSelection
     }),
@@ -600,7 +591,6 @@ function getConduitData(){
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        // conductorSelection: conductorSelection,
         conduitSelection: conduitSelection
       }),
     })
