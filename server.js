@@ -1,4 +1,4 @@
-console.log("Server is running");
+console.log("Server is running!");
 
 const http = require('http');
 const express = require('express');
